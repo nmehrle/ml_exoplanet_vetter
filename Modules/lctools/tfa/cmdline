@@ -1,2 +1,0 @@
-vartools -l lc_list_tfa --inputlcformat t:2,mag:11 -TFA trendlist readformat 0 2 11 date_file 5 xycol 2 3 1 0 1 TFA
-
