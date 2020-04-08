@@ -52,6 +52,7 @@ def getDepth(data, view='local'):
 
 def processLCFile(lcfilename):
   # Features:
+  #   [-1] label
   #   [0] astronet score
   #   [1] depth best ap - 1
   #   [2] depth best ap (global)
@@ -75,7 +76,12 @@ def processLCFile(lcfilename):
   #   [17] depth secondary
   #   [18] error seconday
 
-  #   [19] label
+  #   [19] TIC ID
+  #   [20] Tess Magnitude
+  #   [21] Stellar Log g
+  #   [22] Stellar Mass
+  #   [23] Stellar Rad
+  #   [24] Stellar Teff
   lcfile = h5py.File(lcfilename,'r')
   data = np.zeros(19)
 
@@ -106,6 +112,14 @@ def processLCFile(lcfilename):
   data[16] = e_odd
   data[17] = d_sec
   data[18] = e_sec
+
+  stellarParams = lcfile['Stellar Params']
+  data[19] = stellarParams['id']
+  data[20] = stellarParams['tmag']
+  data[21] = stellarParams['logg']
+  data[22] = stellarParams['mass']
+  data[23] = stellarParams['rad']
+  data[24] = stellarParams['teff']
 
   lcfile.close()
   return np.array(data)
@@ -142,7 +156,7 @@ def processSector(sectorPath, processedTICIDs, planetLabels):
     if ticID in planetLabels:
       label = 1
     else:
-      label = 0
+      label = -1
 
     lc_data = np.append(lc_data, label)
 
@@ -175,7 +189,7 @@ def processAllSectors(sectors, labelsFile, dataPath, subpath='preprocessed', out
     np.save(os.path.join(dataPath, sector, output), sector_data)
 
 # for blender
-dataPath = '/blender/data/hblim/exoplanet/ML_Exoplanet_Project/Data/TICS/'
+dataPath = 'Data/'
 labelsFile = 'labels.tsv'
 sectors = []
 for i in range(1,23):
