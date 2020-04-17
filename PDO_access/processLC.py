@@ -1,35 +1,30 @@
+from __future__ import print_function
+
 import sys, os
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from statsmodels.robust import scale
 import collections
 import h5py
 
-
-# From Chelsea
-sys.path.append('../Modules')
-
 # From astronet
-sys.path.append('../Modules') 
-from astronet import median_filter
+sys.path.append('Modules/astronet') 
+import median_filter
 
-def loadFiles(lcname, lcfolder, blsfolder, outfolder, overwrite=False):
+#-- File Management
+def loadFiles(lcfile, blsfile, outfile, overwrite=False):
+  outfolder = os.path.dirname(outfile)
+  lcfolder  = os.path.dirname(lcfile)
   assert os.path.normpath(outfolder) != os.path.normpath(lcfolder), "Won't overwrite data files"
-
-  blsname = lcname.replace('h5','blsanal')
-
-  lcfile = os.path.join(lcfolder, lcname)
-  blsfile = os.path.join(blsfolder, blsname)
-
+  
   #check lcname has .h5 extension
-  if not lcname.split('.')[-1] == 'h5':
-    raise("LC file doesn't have h5 extension")
+  if not lcfile.split('.')[-1] == 'h5':
+    raise OSError("LC file doesn't have h5 extension")
   
   # check blsfile exists
   if not os.path.exists(blsfile):
-    raise("BLS file doesn't exist")
+    raise OSError("BLS file doesn't exist")
 
-  outfile = os.path.join(outfolder, lcname)
   if os.path.exists(outfile):
     if overwrite:
       os.remove(outfile)
@@ -49,7 +44,10 @@ def unpackBLS(blsanal):
 
   return period, duration, t0
 
-def getLC(h5file, apKey, og_time=None, medianCutoff=5):
+def saveBLS(blsanal, h5outputfile):
+  print(blsanal)
+
+def loadLC(h5file, apKey, og_time=None, medianCutoff=5):
   if og_time is None:
     og_time = np.array(h5file['LightCurve']['BJD'])
 
@@ -70,7 +68,9 @@ def getLC(h5file, apKey, og_time=None, medianCutoff=5):
   all_flux = 10.**(-(all_mag - np.median(all_mag))/2.5)
 
   return all_flux, all_time
+###
 
+#-- Processing LC
 def phaseFold(flux, time, period, t0):
   half_period = period/2
   folded_time = np.mod(time + (half_period-t0), period) - half_period
@@ -97,7 +97,8 @@ def genGlobalView(folded_flux, folded_time, period, nbins_global=201):
   return np.array(view)
 
 def genLocalView(folded_flux, folded_time, period, duration, nbins_local=61,
-  num_durations=2):
+  num_durations=2
+):
   bin_width_local = duration * 0.16
   tmin_local = max(-period / 2, -num_durations * duration)
   tmax_local = min(period / 2, num_durations* duration)
@@ -148,7 +149,7 @@ def processApertures(h5inputfile, h5outfile, blsanal,
     apKey = "Aperture_%.3d" % apnum
 
     # Load Data
-    all_flux, all_time = getLC(h5inputfile, apKey, og_time)
+    all_flux, all_time = loadLC(h5inputfile, apKey, og_time)
 
     # Phase Fold
     folded_flux, folded_time = phaseFold(all_flux, all_time, period, t0)
@@ -168,7 +169,7 @@ def processEvenOdd(h5inputfile, h5outfile, blsanal, nbins=61):
 
   bestAp = "Aperture_%.3d" % h5outfile['bestap'][0]
 
-  flux, time = getLC(h5inputfile, bestAp)
+  flux, time = loadLC(h5inputfile, bestAp)
   folded_flux, folded_time = phaseFold(flux, time, period*2, t0+period/2)
   cut_index = min(range(len(folded_time)), key=lambda i: abs(folded_time[i]))
 
@@ -190,28 +191,38 @@ def processSecondary(h5inputfile, h5outfile, blsanal, nbins=201):
 
   bestAp = "Aperture_%.3d" % h5outfile['bestap'][0]
 
-  flux, time = getLC(h5inputfile, bestAp)
+  flux, time = loadLC(h5inputfile, bestAp)
   folded_flux, folded_time = phaseFold(flux, time, period, t0+period/2)
   secondaryView = genSecondaryView(folded_flux, folded_time, period, duration, nbins)
 
   h5outfile.create_dataset('Secondary', (nbins, ), data=secondaryView)
+###
 
-def processLC(lcname, lcfolder, blsfolder, outputfolder,
+def processLC(lcfile, blsfile, outfile,
+  score=None,
   overwrite=True,
+  verbose=False,
   nbins_global=201,
   nbins_local=61,
   nbins_evenOdd=61,
   nbins_secondary=201
 ):
   try:
-    h5inputfile, blsanal, h5outputfile = loadFiles(lcname, lcfolder, blsfolder, outputfolder, overwrite=True)
+    h5inputfile, blsanal, h5outputfile = loadFiles(lcfile, blsfile, outfile, overwrite=True)
   except Exception as e:
-    print('Error reading in {}'.format(os.path.join(lcfolder,lcname)))
-    print(e)
+    if verbose:
+      print('Error reading in {}'.format(lcfile))
+      print(e)
     return -1
 
   best_ap = "Aperture_%.3d" % h5inputfile["LightCurve"]["AperturePhotometry"].attrs['bestap']
   h5outputfile.create_dataset("bestap",(1,), data =  int(best_ap[-3:]))
+  
+  if score is not None:
+    h5outputfile.create_dataset('AstroNetScore', (1,), data=score)
+
+  saveBLS(blsanal, h5outputfile)
+
   return_val = 1
 
   try:
@@ -219,65 +230,30 @@ def processLC(lcname, lcfolder, blsfolder, outputfolder,
       nbins_global=nbins_global,
       nbins_local=nbins_local)
   except Exception as e:
-    print('Error on Process Global/Local View in {}'.format(os.path.join(lcfolder,lcname)))
-    print(e)
+    if verbose:
+      print('Error on Process Global/Local View in {}'.format(lcfile))
+      print(e)
     return_val = 0
 
   try:
     processEvenOdd(h5inputfile, h5outputfile, blsanal,
       nbins=nbins_evenOdd)
   except Exception as e:
-    print('Error on Process Even Odd in {}'.format(os.path.join(lcfolder,lcname)))
-    print(e)
+    if verbose:
+      print('Error on Process Even Odd in {}'.format(lcfile))
+      print(e)
     return_val = 0
 
   try:
     processSecondary(h5inputfile, h5outputfile, blsanal,
       nbins=nbins_secondary)
   except Exception as e:
-    print('Error on Process Secondary in {}'.format(os.path.join(lcfolder,lcname)))
-    print(e)
+    if verbose:
+      print('Error on Process Secondary in {}'.format(lcfile))
+      print(e)
     return_val = 0
 
   h5inputfile.close()
   h5outputfile.close()
 
   return return_val
-
-def main():
-  # Bins for single period phase folded
-  nbins_global    = 201
-  nbins_local     = 61
-  nbins_evenOdd   = 61
-  nbins_secondary = 201
-
-  # Select data folder containing light curves and .blsanal
-  lcfolder  = "../Data/2020_03_26_TestData/LC/"
-  blsfolder = "../Data/2020_03_26_TestData/BLS/"
-
-  # Select folder where binned lightcurves are saved. Lightcurve names are the same as input
-  outputfolder = "./test/"
-
-  # Loop through all files in LC folder
-  allfiles = os.listdir(lcfolder)
-  ngood    = 0
-
-  errors = []
-  fatal  = []
-
-  for i, lcname in enumerate(allfiles):
-    print("{} / {}\r".format(i,len(allfiles)-1),end="")
-    
-    val = processLC(lcname, lcfolder, blsfolder, outputfolder)
-    if val == 1:
-      ngood+=1
-    elif val == 0:
-      errors.append(lcname)
-    elif val == -1:
-      fatal.append(lcname)
-      os.remove(os.path.join(outputfolder, lcname))
-
-  print('Processed {} lightcurves'.format(len(allfiles)))
-  print('  --  {} Done successfully'.format(ngood))
-  print('  --  {} Done partially'.format(len(errors)))
-  print('  --  {} failed'.format(len(fatal)))
