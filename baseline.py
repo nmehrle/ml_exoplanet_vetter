@@ -38,11 +38,16 @@ def loadData(sectors, datapath, lcFeatureFile='lcFeatures.npy', returnSectors=Fa
 
   return x, y
 
+def magnitudeCut(x, y, mag):
+  magnitudes = x[:,20]
+  indicies = np.where(magnitudes<mag)
+  return x[indicies], y[indicies]
+
 def overSamplePos(x,y,random_state=420):
   data = np.hstack((x,y[:,np.newaxis]))
 
   pos = data[data[:,-1] == 1]
-  neg = data[data[:,-1] == 0]
+  neg = data[data[:,-1] == -1]
   
   pos_oversample = resample(pos, replace=True, n_samples=len(neg),
                             random_state=random_state)
@@ -89,10 +94,10 @@ def testModel(x,y, model, *params, k=5, overSample=True, random_state=420):
     predictions, info = model(x_train,y_train,x_test,y_test,
                              *params, random_state=random_state)
 
-    true_neg = np.sum((predictions == 0) * (y_test == 0))
+    true_neg = np.sum((predictions == -1) * (y_test == -1))
     true_pos = np.sum((predictions == 1) * (y_test == 1))
-    false_neg = np.sum((predictions == 0) * (y_test == 1))
-    false_pos = np.sum((predictions == 1) * (y_test == 0))
+    false_neg = np.sum((predictions == -1) * (y_test == 1))
+    false_pos = np.sum((predictions == 1) * (y_test == -1))
 
     results.append(np.array([true_neg, true_pos, false_neg, false_pos]))
     model_info.append(info)

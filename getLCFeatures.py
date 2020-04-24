@@ -83,7 +83,7 @@ def processLCFile(lcfilename):
   #   [23] Stellar Rad
   #   [24] Stellar Teff
   lcfile = h5py.File(lcfilename,'r')
-  data = np.zeros(19)
+  data = np.zeros(25)
 
   data[0] = lcfile['AstroNetScore'][0]
   bestApNum = lcfile['bestap'][0]
@@ -114,12 +114,12 @@ def processLCFile(lcfilename):
   data[18] = e_sec
 
   stellarParams = lcfile['Stellar Params']
-  data[19] = stellarParams['id']
-  data[20] = stellarParams['tmag']
-  data[21] = stellarParams['logg']
-  data[22] = stellarParams['mass']
-  data[23] = stellarParams['rad']
-  data[24] = stellarParams['teff']
+  data[19] = stellarParams['id'][0]
+  data[20] = stellarParams['tmag'][0]
+  data[21] = stellarParams['logg'][0]
+  data[22] = stellarParams['mass'][0]
+  data[23] = stellarParams['rad'][0]
+  data[24] = stellarParams['teff'][0]
 
   lcfile.close()
   return np.array(data)
@@ -136,6 +136,7 @@ def processSector(sectorPath, processedTICIDs, planetLabels):
   nsuccess = 0
   nomit   = 0
   sector_data = []
+  failed_tics = []
 
   for i,lcfilename in enumerate(os.listdir(sectorPath)):
     print("{} / {}\r".format(i, len(os.listdir(sectorPath))-1), end="")
@@ -146,13 +147,15 @@ def processSector(sectorPath, processedTICIDs, planetLabels):
     if lcfilename.split('.')[-1] != 'h5':
       continue
 
+    ticID = lcfilename.split('.')[0]
+
     try:
       lc_data = processLCFile(os.path.join(sectorPath,lcfilename))
-    except:
+    except Exception as e:
+      failed_tics.append(ticID)
       nomit+=1
       continue
 
-    ticID = lcfilename.split('.')[0]
     if ticID in planetLabels:
       label = 1
     else:
@@ -164,11 +167,12 @@ def processSector(sectorPath, processedTICIDs, planetLabels):
     processedTICIDs.append(lcfilename)
     nsuccess+=1
 
-  return np.array(sector_data), processedTICIDs, nsuccess, nomit
+  return np.array(sector_data), processedTICIDs, nsuccess, nomit, failed_tics
 
 def processAllSectors(sectors, labelsFile, dataPath, subpath='preprocessed', output='lcFeatures'):
   processedTICIDs = []
   planetLabels = loadPlanetLabels(dataPath, labelsFile)
+  failedTICIDs = []
 
   for i in range(len(sectors)-1,-1,-1):
     sector = sectors[i]
@@ -177,16 +181,22 @@ def processAllSectors(sectors, labelsFile, dataPath, subpath='preprocessed', out
     print('  ----')
 
     sectorPath = os.path.join(dataPath,sector, subpath)
-    assert os.path.exists(sectorPath), "{} data does not exist.".format(sector)
+    if not os.path.exists(sectorPath):
+      print("{} data does not exist.".format(sector))
+      continue
 
-    sector_data, processedTICIDs, nsuccess, nomit = processSector(sectorPath, processedTICIDs, planetLabels)
+    sector_data, processedTICIDs, nsuccess, nomit, failed_tics = processSector(sectorPath, processedTICIDs, planetLabels)
 
     print('Loaded {:4d} files from {}'.format(nsuccess, sectorPath))
     print('Omitting {} files.'.format(nomit))
     print('')
     print('')
 
+    for each in failed_tics:
+      failedTICIDs.append(each)
+
     np.save(os.path.join(dataPath, sector, output), sector_data)
+    np.save(os.path.join(dataPath, 'TICSFailedFeatures'),failedTICIDs)
 
 # for blender
 dataPath = 'Data/'
