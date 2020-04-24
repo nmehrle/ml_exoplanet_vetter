@@ -188,11 +188,11 @@ def processAllSectors(sectors, labelsFile, dataPath, subpath='preprocessed', out
 
     np.save(os.path.join(dataPath, sector, output), sector_data)
 
-# for blender
-dataPath = 'Data/'
-labelsFile = 'labels.tsv'
-sectors = []
-for i in range(1,23):
-  sectors.append('sector-'+str(i))
+# # for blender
+# dataPath = 'Data/'
+# labelsFile = 'labels.tsv'
+# sectors = []
+# for i in range(1,23):
+#   sectors.append('sector-'+str(i))
 
-processAllSectors(sectors, labelsFile, dataPath)
+# processAllSectors(sectors, labelsFile, dataPath)

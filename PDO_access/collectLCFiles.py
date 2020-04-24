@@ -34,12 +34,15 @@ def getLCFileInfo(baseDir, sector):
     pathToData, extra = anoFile.split(sector)
     camInfo = extra.split('prediction_')[1]
     camInfo='/ccd'.join(camInfo.split('ccd'))[:-4]+'/'
-    pathToData = pathToData+sector+'ffi/'+camInfo+'LC/'
+    pathToData = os.path.join(pathToData,sector,'ffi/',camInfo,'LC/')
 
     with open(anoFile,'r') as f:
       lines = f.readlines()
       for line in lines:
-        tic, score = line.strip().split(' ')
+        try:
+          tic, score = line.strip().split(' ')
+        except ValueError:
+          print(line)
         output.append([tic, score, pathToData])
 
   return output
@@ -65,7 +68,8 @@ def writeANScoreFiles(baseDir, outDir, sector, anoFileOut='astroNetOutFiles.txt'
 
 def parseANO(baseDir, outDir, sector,
   threshold=0.09,
-  saveName='filesToPreProc.txt'
+  saveName='filesToPreProc.txt',
+  belowThresold='filesBelowThreshold.txt'
 ):
   """
     for each LC which
@@ -87,16 +91,20 @@ def parseANO(baseDir, outDir, sector,
     pass
   outFile = os.path.join(outPath, saveName)
   with open(outFile, 'w') as f:
-    for lcinfo in allLCInfo:
-      try:
-        TIC, score, path = lcinfo
-      except ValueError:
-        failures.append(' '.join(lcinfo))
-        continue
-      if np.float(score) > threshold:
-        lcfile = path+TIC+'.h5'
-        blsfile = path.replace('LC/','BLS/')+TIC+'.blsanal'
-        print(lcfile, blsfile, score, file=f)
+    with open(os.path.join(outPath, belowThresold),'w') as btf:
+      for lcinfo in allLCInfo:
+        try:
+          TIC, score, path = lcinfo
+        except ValueError:
+          print(lcinfo)
+          failures.append(' '.join(lcinfo))
+          continue
+        if np.float(score) > threshold:
+          lcfile = path+TIC+'.h5'
+          blsfile = path.replace('LC/','BLS/')+TIC+'.blsanal'
+          print(lcfile, blsfile, score, file=f)
+        else:
+          print(lcfile, score, file=btf)
   return failures
 
 def runOnPDO():

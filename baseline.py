@@ -15,6 +15,12 @@ def loadData(sectors, datapath, lcFeatureFile='lcFeatures.npy', returnSectors=Fa
   for sector in sectors:
     try:
       lcfeatures = np.load(os.path.join(datapath, sector, lcFeatureFile))
+      # EDITED
+      b = lcfeatures[:,:19]
+      a = lcfeatures[:,-1]
+      a[a==0] = -1
+      lcfeatures = np.concatenate((b,a[:,np.newaxis]),-1)
+      ######
       allData.append(lcfeatures)
     except FileNotFoundError as e:
       failedSectors.append(sector)
@@ -42,7 +48,7 @@ def overSamplePos(x,y,random_state=420):
   data = np.hstack((x,y[:,np.newaxis]))
 
   pos = data[data[:,-1] == 1]
-  neg = data[data[:,-1] == 0]
+  neg = data[data[:,-1] == -1]
   
   pos_oversample = resample(pos, replace=True, n_samples=len(neg),
                             random_state=random_state)
@@ -62,15 +68,16 @@ def RFModel(x_train,y_train,x_test,y_test,
   clf.fit(x_train,y_train)
   
   predictions = clf.predict(x_test)
-  return predictions, [clf.feature_importances_]
+  p_planet = clf.predict_proba(x_test)[:,1]
+  return p_planet, [clf.feature_importances_]
 
 def LRModel(x_train,y_train, x_test,y_test,
-            thres,random_state=420):
+            random_state=420):
   reg = linear_model.LinearRegression()
   reg.fit(x_train, y_train)
     
-  predictions = (np.dot(x_test, reg.coef_) > thres) * 1.0
-  return predictions, [reg.coef_]
+  score = np.dot(x_test, reg.coef_)
+  return score, [reg.coef_]
 ###
 
 #-- Model Running
@@ -86,15 +93,43 @@ def testModel(x,y, model, *params, k=5, overSample=True, random_state=420):
     if overSample:
       x_train, y_train = overSamplePos(x_train, y_train, random_state=random_state)
 
-    predictions, info = model(x_train,y_train,x_test,y_test,
+    scores, info = model(x_train,y_train,x_test,y_test,
                              *params, random_state=random_state)
 
-    true_neg = np.sum((predictions == 0) * (y_test == 0))
-    true_pos = np.sum((predictions == 1) * (y_test == 1))
-    false_neg = np.sum((predictions == 0) * (y_test == 1))
-    false_pos = np.sum((predictions == 1) * (y_test == 0))
-
-    results.append(np.array([true_neg, true_pos, false_neg, false_pos]))
+    results.append(np.array([scores,y_test]))
     model_info.append(info)
-  return results, model_info
+  return results, np.array(model_info)
+
+def aggregateScores(modelOutput):
+  return np.concatenate(modelOutput,1)
+
+def getConfusion(scores, labels, threshold):
+  pos      = (scores > threshold)
+  real     = (labels == 1)
+
+  true_neg  = np.sum(np.logical_and(~pos, ~real))
+  true_pos  = np.sum(np.logical_and( pos,  real))
+  false_neg = np.sum(np.logical_and(~pos,  real))
+  false_pos = np.sum(np.logical_and( pos, ~real))
+
+  return np.array([true_neg, true_pos, false_neg, false_pos])
+
+def calcPrecision(confusion):
+  true_neg, true_pos, false_neg, false_pos = confusion
+  return true_pos / (true_pos + false_pos)
+
+def calcRecall(confusion):
+  true_neg, true_pos, false_neg, false_pos = confusion
+  return true_pos / (true_pos + false_neg)
+
+def getPRCurve(scores, labels, thresholds):
+  precision = []
+  recall    = []
+  for threshold in thresholds:
+    confusion = getConfusion(scores, labels, threshold)
+    precision.append(calcPrecision(confusion))
+    recall.append(calcRecall(confusion))
+
+  return np.array(recall), np.array(precision)
+
 ###

@@ -3,6 +3,7 @@ from collectLCFiles import writeANScoreFiles, parseANO
 from processLC import processLC
 import os, sys
 import numpy as np
+import h5py
 
 def parseFileList(lines, sector, outputFolder, limitTo=None):
   ngood  = 0
@@ -32,7 +33,7 @@ def parseFileList(lines, sector, outputFolder, limitTo=None):
 def runPreprocess(baseDir, outDir, sector, threshold=0.09):
   print(sector)
   print('--')
-  fatalParse = parseANO(baseDir, outDir, sector, threshold=0.09)
+  fatalParse = parseANO(baseDir, outDir, sector, threshold=threshold)
   fileList = os.path.join(outDir, sector, 'filesToPreProc.txt')
   with open(fileList,'r') as f:
     lines = f.readlines()
@@ -147,6 +148,29 @@ def rerunFatalSector(outDir, sector):
 def removeDuplicates():
   print('todo')
 
+def test():
+  # baseDir = '/pdo/qlp-data/'
+  outDir  = './'
+  # sector = 'sector-15/'
+  # writeANScoreFiles(baseDir, outDir, sector)
+  # fatalParse = parseANO(baseDir, outDir, sector, threshold=.09)
+  # for each in fatalParse:
+  #   if '28230919' in each:
+  #     print(each)
+  getStellarParamsSector(outDir, 'sector-14/')
+  # getStellarParamsSector(outDir, 'sector-12/')
+  # getStellarParamsSector(outDir, 'sector-11/')
+  # getStellarParamsSector(outDir, 'sector-22/')
+  # getStellarParamsSector(outDir, 'sector-21/')
+  # getStellarParamsSector(outDir, 'sector-20/')
+  # getStellarParamsSector(outDir, 'sector-19/')
+  # getStellarParamsSector(outDir, 'sector-18/')
+  # getStellarParamsSector(outDir, 'sector-17/')
+  # getStellarParamsSector(outDir, 'sector-16/')
+  # getStellarParamsSector(outDir, 'sector-15/')
+  # getStellarParamsSector(outDir, 'sector-14/')
+  # runPreprocess(baseDir, outDir, sector,.09)
+
 def main():
   hasPreprocessed = False
   hasRerunFatal = False
@@ -160,7 +184,7 @@ def main():
   sectors = [sector for sector in sectors if 'spoc' not in sector]
 
   if len(sys.argv) == 1:
-    print('Must specify functions from: preprocess, rerunFatal, getStellarParams, removeDuplicates')
+    print('Must specify functions from: preprocess, rerun, getStellarParams, removeDuplicates')
     return
 
   for arg in sys.argv[1:]:
@@ -169,10 +193,13 @@ def main():
           pass
         else:
           for sector in sectors:
+            if os.path.isdir(os.path.join(outDir,sector)):
+              print(sector, ' Exists. Skipping')
+              continue
             writeANScoreFiles(baseDir, outDir, sector)
             runPreprocess(baseDir, outDir, sector, threshold=ANthreshold)
             hasPreprocessed=True
-      elif arg == 'rerunFatal':
+      elif arg == 'rerun':
         if hasRerunFatal:
           pass
         else:
@@ -192,8 +219,16 @@ def main():
         else:
           removeDuplicates()
           hasRemoveDup=True
+      elif 'sector' in arg:
+        sector = arg
+        if sector[-1] != '/':
+          sector=sector+'/'
+        writeANScoreFiles(baseDir, outDir, sector)
+        runPreprocess(baseDir, outDir, sector, threshold=ANthreshold)
+      elif arg == 'test':
+        test()
       else:
-        print('Arguments must specify functions from: preprocess, rerunFatal, getStellarParams, removeDuplicates')
+        print('Arguments must specify functions from: preprocess, rerun, getStellarParams, removeDuplicates')
         return
 
 if __name__ == "__main__":
