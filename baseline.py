@@ -15,12 +15,6 @@ def loadData(sectors, datapath, lcFeatureFile='lcFeatures.npy', returnSectors=Fa
   for sector in sectors:
     try:
       lcfeatures = np.load(os.path.join(datapath, sector, lcFeatureFile))
-      # EDITED
-      b = lcfeatures[:,:19]
-      a = lcfeatures[:,-1]
-      a[a==0] = -1
-      lcfeatures = np.concatenate((b,a[:,np.newaxis]),-1)
-      ######
       allData.append(lcfeatures)
     except FileNotFoundError as e:
       failedSectors.append(sector)
@@ -43,6 +37,11 @@ def loadData(sectors, datapath, lcFeatureFile='lcFeatures.npy', returnSectors=Fa
     return x, y, sectors
 
   return x, y
+
+def magnitudeCut(x, y, mag):
+  magnitudes = x[:,20]
+  indicies = np.where(magnitudes<mag)
+  return x[indicies], y[indicies]
 
 def overSamplePos(x,y,random_state=420):
   data = np.hstack((x,y[:,np.newaxis]))
