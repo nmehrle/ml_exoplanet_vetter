@@ -10,7 +10,7 @@ def parseFileList(lines, sector, outputFolder, limitTo=None, verbose=False):
   ngood  = 0
   errors = []
   fatal  = []
-  for i, line in enumerate(lines):
+  for i, line in enumerate(tqdm(lines)):
     lcfile, blsfile, score = line.strip().split(' ')
     if limitTo is not None:
       if lcfile not in limitTo:
@@ -18,8 +18,6 @@ def parseFileList(lines, sector, outputFolder, limitTo=None, verbose=False):
         
     lcname = lcfile.split('/')[-1]
     outfile = os.path.join(outputFolder, lcname)
-
-    print("{} -- {} / {}\r".format(sector, i,len(lines)-1),end="")
 
     val = processLC(lcfile, blsfile, outfile, score, verbose=verbose)
     if val == 1:
@@ -78,9 +76,7 @@ def getStellarParamsSector(outDir, sector):
   gaia = GaiaCatalog()
   field_list = ["id", "tmag", "mass", "rad", "teff", "logg", "ra", "dec", "jmag", "kmag", "pmra", "pmdec", "plx"]
 
-  for i, fileName in enumerate(fileList):
-    print("{} -- {} / {}\r".format(sector, i,len(fileList)-1),end="")
-
+  for i, fileName in enumerate(tqdm(fileList)):
     stellarParams = {}
 
     ticID = fileName.split(".")[0]
