@@ -134,7 +134,8 @@ def median_filter(x, y, num_bins, bin_width=None, x_min=None, x_max=None,
       # Compute and insert the median bin value.
       ybin = y[j_start:j_end]
       result[i] = np.median(ybin)
-      errors[i] = np.std(ybin)
+      # standard error on median
+      errors[i] = 1.253 * np.std(ybin) / np.sqrt(len(ybin))
 
     # Advance the bin.
     bin_min += bin_spacing
