@@ -99,8 +99,8 @@ def parseANO(baseDir, outDir, sector,
           print(lcinfo)
           failures.append(' '.join(lcinfo))
           continue
+        lcfile = path+TIC+'.h5'
         if np.float(score) > threshold:
-          lcfile = path+TIC+'.h5'
           blsfile = path.replace('LC/','BLS/')+TIC+'.blsanal'
           print(lcfile, blsfile, score, file=f)
         else:
