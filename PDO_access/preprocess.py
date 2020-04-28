@@ -141,6 +141,7 @@ def rerunFatalSector(outDir, sector):
   print('  --  {} failed'.format(len(fatal)))
   print('')
   print('')
+  return ngood
 
 def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
@@ -243,8 +244,11 @@ def main():
       writeANScoreFiles(baseDir, outDir, sector)
       runPreprocess(baseDir, outDir, sector, threshold=ANthreshold)
   elif mode == 'rerun':
+    totalfixed = 0
     for sector in sectors:
-      rerunFatalSector(outDir, sector)
+      totalfixed += rerunFatalSector(outDir, sector)
+    if totalfixed == 0:
+      print('Rerun Fatal -- None Successful')
   elif mode == 'getStellarParams':
     for sector in sectors:
       getStellarParamsSector(outDir, sector)
