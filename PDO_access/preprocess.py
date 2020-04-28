@@ -5,6 +5,7 @@ import os, sys
 import numpy as np
 import h5py
 from tqdm import tqdm
+from datetime import datetime
 
 def parseFileList(lines, sector, outputFolder, limitTo=None, verbose=False):
   ngood  = 0
@@ -141,6 +142,14 @@ def rerunFatalSector(outDir, sector):
   print('  --  {} failed'.format(len(fatal)))
   print('')
   print('')
+
+  saveName = 'fatal_preproc_'+datetime.now().strftime("%d/%m/%Y_%H:%M:%S")+'.txt'
+  os.rename(fatalFiles, os.path.join(outDir,sector, saveName))
+  with open(fatalFiles,'w') as f:
+    for each in fatal:
+      print(each, file=f)
+
+
   return ngood
 
 def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
