@@ -223,7 +223,7 @@ def processLC(lcfile, blsfile, outfile,
   nbins_secondary=201
 ):
   try:
-    h5inputfile, blsanal, h5outputfile = loadFiles(lcfile, blsfile, outfile, overwrite=True)
+    h5inputfile, blsanal, h5outputfile = loadFiles(lcfile, blsfile, outfile, overwrite=overwrite)
   except Exception as e:
     if verbose:
       print('Error reading in {}'.format(lcfile))
