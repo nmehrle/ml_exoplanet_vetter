@@ -176,7 +176,7 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
         # Move the lightcurve file to the duplicate folder
         idx = np.where(np.array(foundTics) == tic)[0][0]
         srcName = os.path.join(lcPath,lcfile)
-        destName = os.path.join(duplicatePath, f'{tic}_{foundSectors[idx]}.h5')
+        destName = os.path.join(duplicatePath, str(tic)+'_'+str(foundSectors[idx])+'.h5')
         os.rename(srcName, destName)
         duplicateCount+=1
       else:
