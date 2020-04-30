@@ -8,7 +8,6 @@ import collections
 import h5py
 
 # From astronet
-sys.path.append('Modules/astronet') 
 import median_filter
 
 #-- File Management
@@ -45,7 +44,10 @@ def unpackBLS(blsanal):
   return period, duration, t0
 
 def saveBLS(blsanal, h5outputfile):
-  print(blsanal)
+  blsgrp = h5outputfile.create_group('BLS Analysis')
+  for name in blsanal.dtype.names:
+    blsgrp.create_dataset(name, data=blsanal[name])
+  return h5outputfile
 
 def loadLC(h5file, apKey, og_time=None, medianCutoff=5):
   if og_time is None:
@@ -83,7 +85,7 @@ def phaseFold(flux, time, period, t0):
 def genGlobalView(folded_flux, folded_time, period, nbins_global=201):
   bin_width_global = period * 1.2 / nbins_global
   (tmin_global,tmax_global) = (-period / 2, period / 2)
-  view  = median_filter.median_filter(folded_time, folded_flux, nbins_global, \
+  view, error = median_filter.median_filter(folded_time, folded_flux, nbins_global,
                                       bin_width_global, tmin_global,tmax_global)
 
   # Center about zero flux
@@ -94,7 +96,7 @@ def genGlobalView(folded_flux, folded_time, period, nbins_global=201):
   # minindex = np.argmin(view)
   # rotate = int(np.floor(nbins_global/2))
   # view.rotate(rotate - minindex)
-  return np.array(view)
+  return np.array(view), np.array(error)
 
 def genLocalView(folded_flux, folded_time, period, duration, nbins_local=61,
   num_durations=2
@@ -103,7 +105,7 @@ def genLocalView(folded_flux, folded_time, period, duration, nbins_local=61,
   tmin_local = max(-period / 2, -num_durations * duration)
   tmax_local = min(period / 2, num_durations* duration)
 
-  view  = median_filter.median_filter(folded_time, folded_flux, nbins_local, \
+  view, error = median_filter.median_filter(folded_time, folded_flux, nbins_local,
                                       bin_width_local, tmin_local,tmax_local)
 
   # Center about zero flux
@@ -114,14 +116,14 @@ def genLocalView(folded_flux, folded_time, period, duration, nbins_local=61,
   # minindex = np.argmin(view)
   # rotate = int(np.floor(nbins_local/2))
   # view.rotate(rotate - minindex) # hardcoded assuming nbins_local = 61
-  return np.array(view)
+  return np.array(view), np.array(error)
 
 def genSecondaryView(folded_flux, folded_time, period, duration, nbins=201):
   bin_width_local = duration * 0.16
   tmin_local = -period/4
   tmax_local = period/4
 
-  view  = median_filter.median_filter(folded_time, folded_flux, nbins, \
+  view, error = median_filter.median_filter(folded_time, folded_flux, nbins,
                                       bin_width_local, tmin_local,tmax_local)
 
   # Center about zero flux
@@ -132,7 +134,7 @@ def genSecondaryView(folded_flux, folded_time, period, duration, nbins=201):
   # minindex = np.argmin(view)
   # rotate = int(np.floor(nbins_local/2))
   # view.rotate(rotate - minindex) # hardcoded assuming nbins_local = 61
-  return np.array(view)
+  return np.array(view), np.array(error)
 
 def processApertures(h5inputfile, h5outfile, blsanal,
   nbins_global=201,
@@ -141,6 +143,9 @@ def processApertures(h5inputfile, h5outfile, blsanal,
   aps_list = list(h5inputfile["LightCurve"]["AperturePhotometry"].keys())
   globalviews = h5outfile.create_group('GlobalView')
   localviews  = h5outfile.create_group('LocalView')
+
+  globalerrors = globalviews.create_group('Errors')
+  localerrors = localviews.create_group('Errors')
 
   og_time = np.array(h5inputfile["LightCurve"]["BJD"])
   period, duration, t0 = unpackBLS(blsanal)
@@ -157,14 +162,19 @@ def processApertures(h5inputfile, h5outfile, blsanal,
     ##############
     # Global & Local view
     ##############
-    globalview = genGlobalView(folded_flux, folded_time, period, nbins_global)
-    localview  = genLocalView(folded_flux, folded_time, period, duration, nbins_local)
+    globalview, gverror = genGlobalView(folded_flux, folded_time, period, nbins_global)
+    localview, lverror = genLocalView(folded_flux, folded_time, period, duration, nbins_local)
     
     globalviews.create_dataset(apKey,(nbins_global,), data=globalview)
+    globalerrors.create_dataset(apKey,(nbins_global,), data=gverror)
+
     localviews.create_dataset(apKey,(nbins_local,), data=localview)
+    localerrors.create_dataset(apKey,(nbins_local,), data=lverror)
 
 def processEvenOdd(h5inputfile, h5outfile, blsanal, nbins=61):
   evenOdd = h5outfile.create_group('EvenOdd')
+  errorGroup = evenOdd.create_group('Errors')
+
   period, duration, t0 = unpackBLS(blsanal)
 
   bestAp = "Aperture_%.3d" % h5outfile['bestap'][0]
@@ -179,28 +189,33 @@ def processEvenOdd(h5inputfile, h5outfile, blsanal, nbins=61):
   oddFlux = folded_flux[cut_index:]
   oddTime = folded_time[cut_index:] - period/2
 
-  even_view = genLocalView(evenFlux, evenTime, period, duration, nbins)
-  odd_view  = genLocalView(oddFlux, oddTime, period, duration, nbins)
+  even_view, even_error = genLocalView(evenFlux, evenTime, period, duration, nbins)
+  odd_view, odd_error  = genLocalView(oddFlux, oddTime, period, duration, nbins)
 
   evenOdd.create_dataset('Even', (nbins, ), data=even_view)
+  errorGroup.create_dataset('Even', (nbins, ), data=even_error)
+
   evenOdd.create_dataset('Odd', (nbins, ), data=odd_view)
+  errorGroup.create_dataset('Odd', (nbins, ), data=odd_error)
 
 def processSecondary(h5inputfile, h5outfile, blsanal, nbins=201):
   # secondary = h5outfile.create_group('Secondary')
   period, duration, t0 = unpackBLS(blsanal)
+  secondarygroup = h5outfile.create_group('Secondary')
 
   bestAp = "Aperture_%.3d" % h5outfile['bestap'][0]
 
   flux, time = loadLC(h5inputfile, bestAp)
   folded_flux, folded_time = phaseFold(flux, time, period, t0+period/2)
-  secondaryView = genSecondaryView(folded_flux, folded_time, period, duration, nbins)
+  secondaryView, secondaryError = genSecondaryView(folded_flux, folded_time, period, duration, nbins)
 
-  h5outfile.create_dataset('Secondary', (nbins, ), data=secondaryView)
+  secondarygroup.create_dataset('Data', (nbins, ), data=secondaryView)
+  secondarygroup.create_dataset('Error', (nbins, ), data=secondaryError)
 ###
 
 def processLC(lcfile, blsfile, outfile,
   score=None,
-  overwrite=True,
+  overwrite=False,
   verbose=False,
   nbins_global=201,
   nbins_local=61,
@@ -208,7 +223,7 @@ def processLC(lcfile, blsfile, outfile,
   nbins_secondary=201
 ):
   try:
-    h5inputfile, blsanal, h5outputfile = loadFiles(lcfile, blsfile, outfile, overwrite=True)
+    h5inputfile, blsanal, h5outputfile = loadFiles(lcfile, blsfile, outfile, overwrite=overwrite)
   except Exception as e:
     if verbose:
       print('Error reading in {}'.format(lcfile))
@@ -221,7 +236,7 @@ def processLC(lcfile, blsfile, outfile,
   if score is not None:
     h5outputfile.create_dataset('AstroNetScore', (1,), data=score)
 
-  saveBLS(blsanal, h5outputfile)
+  h5outputfile = saveBLS(blsanal, h5outputfile)
 
   return_val = 1
 
