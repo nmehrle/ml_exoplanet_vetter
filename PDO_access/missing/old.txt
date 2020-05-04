@@ -1,0 +1,1766 @@
+Skipped 231663901 ('sector-1', 'cam2', 'ccd4')
+Skipped 149603524 ('sector-1', 'cam4', 'ccd4')
+Skipped 231670397 ('sector-1', 'cam2', 'ccd4')
+Skipped 144065872 ('sector-1', 'cam2', 'ccd3')
+Skipped 38846515 ('sector-1', 'cam4', 'ccd1')
+Skipped 281459670 ('sector-1', 'cam3', 'ccd1')
+Skipped 355703913 ('sector-1', 'cam3', 'ccd1')
+Skipped 388104525 ('sector-1', 'cam4', 'ccd1')
+Skipped 25155310 ('sector-1', 'cam4', 'ccd1')
+Skipped 281541555 ('sector-1', 'cam2', 'ccd2')
+Skipped 238176110 ('sector-1', 'cam3', 'ccd2')
+Skipped 322307342 ('sector-1', 'cam3', 'ccd1')
+Skipped 266980320 ('sector-1', 'cam2', 'ccd2')
+Skipped 278683844 ('sector-1', 'cam4', 'ccd4')
+Skipped 278683844 ('sector-1', 'cam4', 'ccd4')
+Skipped 394137592 ('sector-1', 'cam3', 'ccd1')
+Skipped 231702397 ('sector-1', 'cam2', 'ccd1')
+Skipped 29831208 ('sector-1', 'cam4', 'ccd1')
+Skipped 52368076 ('sector-1', 'cam3', 'ccd1')
+Skipped 52368076 ('sector-1', 'cam3', 'ccd1')
+Skipped 52368076 ('sector-1', 'cam3', 'ccd1')
+Skipped 391949880 ('sector-1', 'cam4', 'ccd2')
+Skipped 201248411 ('sector-1', 'cam2', 'ccd2')
+Skipped 263003176 ('sector-1', 'cam3', 'ccd3')
+Skipped 235037761 ('sector-1', 'cam3', 'ccd1')
+Skipped 89020549 ('sector-1', 'cam2', 'ccd3')
+Skipped 219338557 ('sector-1', 'cam2', 'ccd2')
+Skipped 234994474 ('sector-1', 'cam2', 'ccd2')
+Skipped 267263253 ('sector-1', 'cam3', 'ccd2')
+Skipped 410153553 ('sector-1', 'cam3', 'ccd2')
+Skipped 176957796 ('sector-1', 'cam4', 'ccd3')
+Skipped 277683130 ('sector-1', 'cam2', 'ccd1')
+Skipped 140068425 ('sector-1', 'cam2', 'ccd4')
+Skipped 403224672 ('sector-1', 'cam2', 'ccd1')
+Skipped 261136679 ('sector-1', 'cam4', 'ccd2')
+Skipped 265612438 ('sector-1', 'cam2', 'ccd4')
+Skipped 355636844 ('sector-1', 'cam2', 'ccd2')
+Skipped 220435095 ('sector-1', 'cam4', 'ccd1')
+Skipped 260985861 ('sector-1', 'cam4', 'ccd2')
+Skipped 271893367 ('sector-1', 'cam4', 'ccd2')
+Skipped 382302241 ('sector-1', 'cam4', 'ccd4')
+Skipped 403287048 ('sector-1', 'cam2', 'ccd1')
+Skipped 231081369 ('sector-1', 'cam4', 'ccd1')
+Skipped 220518305 ('sector-1', 'cam3', 'ccd4')
+Skipped 140691463 ('sector-1', 'cam4', 'ccd2')
+Skipped 403136413 ('sector-1', 'cam2', 'ccd4')
+Skipped 394657039 ('sector-1', 'cam3', 'ccd3')
+Skipped 348770361 ('sector-1', 'cam3', 'ccd3')
+Skipped 179317684 ('sector-1', 'cam4', 'ccd2')
+Skipped 79395355 ('sector-1', 'cam2', 'ccd4')
+Skipped 350743714 ('sector-1', 'cam4', 'ccd4')
+Skipped 149990841 ('sector-1', 'cam4', 'ccd4')
+Skipped 183120439 ('sector-1', 'cam3', 'ccd3')
+Skipped 394698182 ('sector-1', 'cam3', 'ccd3')
+Skipped 309257814 ('sector-1', 'cam4', 'ccd3')
+Skipped 309257814 ('sector-1', 'cam4', 'ccd3')
+Skipped 270341214 ('sector-1', 'cam3', 'ccd3')
+Skipped 425997655 ('sector-1', 'cam4', 'ccd1')
+Skipped 425997655 ('sector-1', 'cam4', 'ccd1')
+Skipped 425997655 ('sector-1', 'cam4', 'ccd1')
+Skipped 425997655 ('sector-1', 'cam4', 'ccd1')
+Skipped 307210830 ('sector-2', 'cam4', 'ccd3')
+Skipped 307210830 ('sector-2', 'cam4', 'ccd3')
+Skipped 307210830 ('sector-2', 'cam4', 'ccd3')
+Skipped 272086159 ('sector-2', 'cam4', 'ccd3')
+Skipped 262530407 ('sector-2', 'cam2', 'ccd2')
+Skipped 251848941 ('sector-2', 'cam2', 'ccd3')
+Skipped 251848941 ('sector-2', 'cam2', 'ccd3')
+Skipped 251848941 ('sector-2', 'cam2', 'ccd3')
+Skipped 207141131 ('sector-2', 'cam3', 'ccd4')
+Skipped 51912829 ('sector-1', 'cam3', 'ccd1')
+Skipped 76923707 ('sector-2', 'cam1', 'ccd1')
+Skipped 76989773 ('sector-2', 'cam1', 'ccd1')
+Skipped 183979262 ('sector-1', 'cam3', 'ccd3')
+Skipped 300871545 ('sector-1', 'cam4', 'ccd3')
+Skipped 100100827 ('sector-2', 'cam2', 'ccd2')
+Skipped 279741379 ('sector-1', 'cam3', 'ccd4')
+Skipped 260304296 ('sector-1', 'cam4', 'ccd4')
+Skipped 280830734 ('sector-1', 'cam3', 'ccd4')
+Skipped 278866211 ('sector-1', 'cam4', 'ccd4')
+Skipped 166739520 ('sector-2', 'cam3', 'ccd1')
+Skipped 183532609 ('sector-2', 'cam2', 'ccd3')
+Skipped 183537452 ('sector-2', 'cam2', 'ccd4')
+Skipped 183985250 ('sector-2', 'cam2', 'ccd4')
+Skipped 211438925 ('sector-2', 'cam1', 'ccd2')
+Skipped 230982885 ('sector-2', 'cam3', 'ccd1')
+Skipped 234519192 ('sector-1', 'cam3', 'ccd1')
+Skipped 441462736 ('sector-2', 'cam1', 'ccd3')
+Skipped 12421862 ('sector-2', 'cam1', 'ccd2')
+Skipped 309792357 ('sector-1', 'cam4', 'ccd4')
+Skipped 410214986 ('sector-1', 'cam3', 'ccd2')
+Skipped 350618622 ('sector-1', 'cam4', 'ccd4')
+Skipped 350618622 ('sector-1', 'cam4', 'ccd4')
+Skipped 259962054 ('sector-1', 'cam3', 'ccd4')
+Skipped 281781375 ('sector-1', 'cam3', 'ccd1')
+Skipped 281575427 ('sector-1', 'cam3', 'ccd1')
+Skipped 55650590 ('sector-1', 'cam4', 'ccd1')
+Skipped 260271203 ('sector-1', 'cam4', 'ccd4')
+Skipped 314865962 ('sector-1', 'cam3', 'ccd4')
+Skipped 52204645 ('sector-1', 'cam3', 'ccd1')
+Skipped 141608198 ('sector-1', 'cam4', 'ccd2')
+Skipped 300293197 ('sector-1', 'cam4', 'ccd3')
+Skipped 206609630 ('sector-1', 'cam3', 'ccd1')
+Skipped 234345288 ('sector-1', 'cam3', 'ccd4')
+Skipped 167415965 ('sector-1', 'cam4', 'ccd2')
+Skipped 167415965 ('sector-1', 'cam4', 'ccd2')
+Skipped 231912935 ('sector-1', 'cam3', 'ccd1')
+Skipped 55652896 ('sector-1', 'cam4', 'ccd1')
+Skipped 55652896 ('sector-1', 'cam4', 'ccd1')
+Skipped 260043723 ('sector-1', 'cam4', 'ccd4')
+Skipped 260609205 ('sector-1', 'cam4', 'ccd4')
+Skipped 150098860 ('sector-1', 'cam4', 'ccd4')
+Skipped 316937670 ('sector-1', 'cam2', 'ccd2')
+Skipped 144440290 ('sector-2', 'cam2', 'ccd4')
+Skipped 326453034 ('sector-2', 'cam1', 'ccd4')
+Skipped 70797900 ('sector-2', 'cam1', 'ccd2')
+Skipped 47525799 ('sector-2', 'cam1', 'ccd4')
+Skipped 47484268 ('sector-2', 'cam1', 'ccd4')
+Skipped 77044471 ('sector-2', 'cam1', 'ccd2')
+Skipped 120610833 ('sector-2', 'cam2', 'ccd3')
+Skipped 160074939 ('sector-2', 'cam1', 'ccd1')
+Skipped 204376737 ('sector-2', 'cam1', 'ccd4')
+Skipped 402026209 ('sector-2', 'cam2', 'ccd4')
+Skipped 415969908 ('sector-2', 'cam1', 'ccd4')
+Skipped 280095254 ('sector-2', 'cam3', 'ccd3')
+Skipped 9727392 ('sector-2', 'cam1', 'ccd3')
+Skipped 305048087 ('sector-2', 'cam1', 'ccd1')
+Skipped 9006668 ('sector-2', 'cam1', 'ccd4')
+Skipped 9725627 ('sector-2', 'cam1', 'ccd3')
+Skipped 101948569 ('sector-2', 'cam2', 'ccd2')
+Skipped 77031414 ('sector-2', 'cam1', 'ccd1')
+Skipped 120585579 ('sector-2', 'cam2', 'ccd3')
+Skipped 149010208 ('sector-2', 'cam1', 'ccd2')
+Skipped 118327550 ('sector-2', 'cam2', 'ccd3')
+Skipped 154618248 ('sector-2', 'cam1', 'ccd1')
+Skipped 158623531 ('sector-2', 'cam3', 'ccd1')
+Skipped 160148385 ('sector-2', 'cam2', 'ccd1')
+Skipped 201793781 ('sector-2', 'cam3', 'ccd1')
+Skipped 179985715 ('sector-2', 'cam2', 'ccd3')
+Skipped 184240683 ('sector-2', 'cam2', 'ccd4')
+Skipped 224225541 ('sector-2', 'cam2', 'ccd4')
+Skipped 237924601 ('sector-1', 'cam4', 'ccd1')
+Skipped 322063810 ('sector-2', 'cam2', 'ccd2')
+Skipped 49687222 ('sector-2', 'cam1', 'ccd3')
+Skipped 92226327 ('sector-3', 'cam1', 'ccd1')
+Skipped 92226327 ('sector-3', 'cam1', 'ccd1')
+Skipped 200723869 ('sector-3', 'cam3', 'ccd1')
+Skipped 350445771 ('sector-1', 'cam4', 'ccd4')
+Skipped 12862099 ('sector-3', 'cam1', 'ccd4')
+Skipped 37749396 ('sector-3', 'cam1', 'ccd4')
+Skipped 63898957 ('sector-3', 'cam1', 'ccd1')
+Skipped 63898957 ('sector-3', 'cam1', 'ccd1')
+Skipped 70513361 ('sector-3', 'cam2', 'ccd3')
+Skipped 122612091 ('sector-3', 'cam2', 'ccd2')
+Skipped 159951311 ('sector-3', 'cam3', 'ccd1')
+Skipped 164767175 ('sector-3', 'cam1', 'ccd2')
+Skipped 164767175 ('sector-3', 'cam1', 'ccd2')
+Skipped 166836920 ('sector-3', 'cam3', 'ccd2')
+Skipped 219253008 ('sector-3', 'cam3', 'ccd4')
+Skipped 220479565 ('sector-4', 'cam3', 'ccd4')
+Skipped 259377017 ('sector-3', 'cam3', 'ccd4')
+Skipped 259377017 ('sector-3', 'cam3', 'ccd4')
+Skipped 259377017 ('sector-3', 'cam3', 'ccd4')
+Skipped 259511357 ('sector-3', 'cam3', 'ccd4')
+Skipped 268766053 ('sector-3', 'cam2', 'ccd3')
+Skipped 279740441 ('sector-1', 'cam3', 'ccd4')
+Skipped 281979481 ('sector-10', 'cam3', 'ccd4')
+Skipped 373844472 ('sector-1', 'cam4', 'ccd1')
+Skipped 382188882 ('sector-1', 'cam4', 'ccd4')
+Skipped 439456714 ('sector-3', 'cam1', 'ccd1')
+Skipped 244161191 ('sector-3', 'cam1', 'ccd4')
+Skipped 122613513 ('sector-3', 'cam2', 'ccd2')
+Skipped 42054565 ('sector-3', 'cam2', 'ccd1')
+Skipped 38696105 ('sector-1', 'cam4', 'ccd1')
+Skipped 29781292 ('sector-1', 'cam4', 'ccd1')
+Skipped 29781292 ('sector-1', 'cam4', 'ccd1')
+Skipped 29781292 ('sector-1', 'cam4', 'ccd1')
+Skipped 382626661 ('sector-1', 'cam4', 'ccd3')
+Skipped 277103955 ('sector-1', 'cam4', 'ccd1')
+Skipped 220459976 ('sector-2', 'cam4', 'ccd1')
+Skipped 150030205 ('sector-1', 'cam4', 'ccd4')
+Skipped 150030205 ('sector-1', 'cam4', 'ccd4')
+Skipped 2758565 ('sector-2', 'cam1', 'ccd3')
+Skipped 47316976 ('sector-2', 'cam1', 'ccd1')
+Skipped 201292545 ('sector-1', 'cam2', 'ccd2')
+Skipped 201233610 ('sector-2', 'cam2', 'ccd1')
+Skipped 49710555 ('sector-2', 'cam1', 'ccd3')
+Skipped 180285396 ('sector-2', 'cam2', 'ccd3')
+Skipped 355637190 ('sector-1', 'cam2', 'ccd2')
+Skipped 188570092 ('sector-2', 'cam1', 'ccd4')
+Skipped 327952677 ('sector-2', 'cam1', 'ccd3')
+Skipped 382463648 ('sector-2', 'cam2', 'ccd4')
+Skipped 115242351 ('sector-2', 'cam2', 'ccd3')
+Skipped 206686292 ('sector-2', 'cam1', 'ccd1')
+Skipped 156075294 ('sector-2', 'cam2', 'ccd2')
+Skipped 166697854 ('sector-2', 'cam3', 'ccd1')
+Skipped 144301052 ('sector-2', 'cam2', 'ccd4')
+Skipped 229111835 ('sector-2', 'cam2', 'ccd2')
+Skipped 145750719 ('sector-2', 'cam1', 'ccd4')
+Skipped 262530873 ('sector-2', 'cam2', 'ccd2')
+Skipped 102030574 ('sector-2', 'cam2', 'ccd2')
+Skipped 114749636 ('sector-2', 'cam1', 'ccd2')
+Skipped 9100874 ('sector-2', 'cam1', 'ccd4')
+Skipped 281710229 ('sector-2', 'cam2', 'ccd1')
+Skipped 228507250 ('sector-2', 'cam1', 'ccd3')
+Skipped 175477257 ('sector-2', 'cam2', 'ccd4')
+Skipped 434105231 ('sector-2', 'cam1', 'ccd3')
+Skipped 180145006 ('sector-2', 'cam2', 'ccd3')
+Skipped 9102327 ('sector-2', 'cam1', 'ccd3')
+Skipped 316769613 ('sector-2', 'cam1', 'ccd1')
+Skipped 66356824 ('sector-2', 'cam2', 'ccd3')
+Skipped 8988289 ('sector-2', 'cam1', 'ccd3')
+Skipped 402319411 ('sector-2', 'cam1', 'ccd3')
+Skipped 206352378 ('sector-1', 'cam2', 'ccd2')
+Skipped 389753172 ('sector-1', 'cam2', 'ccd3')
+Skipped 188593930 ('sector-2', 'cam1', 'ccd4')
+Skipped 175476629 ('sector-2', 'cam2', 'ccd4')
+Skipped 198077394 ('sector-2', 'cam4', 'ccd1')
+Skipped 251852984 ('sector-2', 'cam2', 'ccd3')
+Skipped 156002449 ('sector-2', 'cam2', 'ccd1')
+Skipped 66413476 ('sector-2', 'cam2', 'ccd3')
+Skipped 144336525 ('sector-2', 'cam2', 'ccd4')
+Skipped 206669860 ('sector-2', 'cam1', 'ccd1')
+Skipped 139357541 ('sector-2', 'cam2', 'ccd4')
+Skipped 169765334 ('sector-2', 'cam1', 'ccd3')
+Skipped 27966179 ('sector-2', 'cam1', 'ccd2')
+Skipped 262531275 ('sector-2', 'cam2', 'ccd2')
+Skipped 139285832 ('sector-1', 'cam2', 'ccd3')
+Skipped 224245334 ('sector-2', 'cam2', 'ccd4')
+Skipped 233964642 ('sector-1', 'cam3', 'ccd4')
+Skipped 41865539 ('sector-2', 'cam2', 'ccd2')
+Skipped 55452495 ('sector-1', 'cam4', 'ccd1')
+Skipped 155986102 ('sector-2', 'cam2', 'ccd1')
+Skipped 116156517 ('sector-2', 'cam2', 'ccd3')
+Skipped 69838258 ('sector-2', 'cam1', 'ccd4')
+Skipped 80439101 ('sector-2', 'cam2', 'ccd2')
+Skipped 33911302 ('sector-2', 'cam1', 'ccd2')
+Skipped 415969574 ('sector-2', 'cam1', 'ccd4')
+Skipped 66497310 ('sector-2', 'cam1', 'ccd3')
+Skipped 13023378 ('sector-2', 'cam1', 'ccd1')
+Skipped 308208458 ('sector-2', 'cam2', 'ccd3')
+Skipped 118327533 ('sector-2', 'cam2', 'ccd3')
+Skipped 224271611 ('sector-2', 'cam2', 'ccd4')
+Skipped 70785910 ('sector-2', 'cam1', 'ccd2')
+Skipped 382474101 ('sector-2', 'cam2', 'ccd1')
+Skipped 199731190 ('sector-2', 'cam2', 'ccd2')
+Skipped 228381868 ('sector-2', 'cam1', 'ccd3')
+Skipped 47423120 ('sector-2', 'cam1', 'ccd4')
+Skipped 100099031 ('sector-2', 'cam2', 'ccd2')
+Skipped 100097716 ('sector-2', 'cam2', 'ccd2')
+Skipped 183593642 ('sector-2', 'cam2', 'ccd3')
+Skipped 369336146 ('sector-2', 'cam2', 'ccd3')
+Skipped 220016044 ('sector-2', 'cam3', 'ccd1')
+Skipped 321982642 ('sector-2', 'cam2', 'ccd1')
+Skipped 80432617 ('sector-2', 'cam2', 'ccd2')
+Skipped 13023738 ('sector-2', 'cam1', 'ccd1')
+Skipped 144276942 ('sector-2', 'cam2', 'ccd4')
+Skipped 305048116 ('sector-2', 'cam1', 'ccd1')
+Skipped 262530780 ('sector-2', 'cam2', 'ccd2')
+Skipped 47425697 ('sector-2', 'cam1', 'ccd4')
+Skipped 118586896 ('sector-2', 'cam2', 'ccd3')
+Skipped 251878904 ('sector-2', 'cam2', 'ccd3')
+Skipped 9033144 ('sector-2', 'cam1', 'ccd4')
+Skipped 77031413 ('sector-2', 'cam1', 'ccd1')
+Skipped 175482273 ('sector-2', 'cam2', 'ccd4')
+Skipped 251855940 ('sector-2', 'cam2', 'ccd3')
+Skipped 156016136 ('sector-2', 'cam2', 'ccd1')
+Skipped 441075486 ('sector-2', 'cam1', 'ccd3')
+Skipped 9032368 ('sector-2', 'cam1', 'ccd3')
+Skipped 183675732 ('sector-2', 'cam2', 'ccd4')
+Skipped 280097543 ('sector-1', 'cam3', 'ccd3')
+Skipped 144301273 ('sector-2', 'cam2', 'ccd4')
+Skipped 139285736 ('sector-1', 'cam2', 'ccd3')
+Skipped 20892672 ('sector-2', 'cam1', 'ccd2')
+Skipped 220396259 ('sector-2', 'cam4', 'ccd1')
+Skipped 100014359 ('sector-2', 'cam2', 'ccd2')
+Skipped 207084429 ('sector-2', 'cam3', 'ccd1')
+Skipped 229091748 ('sector-2', 'cam2', 'ccd1')
+Skipped 167418898 ('sector-1', 'cam4', 'ccd3')
+Skipped 155995204 ('sector-2', 'cam2', 'ccd1')
+Skipped 300810086 ('sector-1', 'cam4', 'ccd3')
+Skipped 238059180 ('sector-2', 'cam4', 'ccd4')
+Skipped 92359850 ('sector-4', 'cam2', 'ccd3')
+Skipped 271900960 ('sector-1', 'cam4', 'ccd2')
+Skipped 38541473 ('sector-4', 'cam2', 'ccd3')
+Skipped 178155732 ('sector-3', 'cam2', 'ccd2')
+Skipped 178155732 ('sector-3', 'cam2', 'ccd2')
+Skipped 219379012 ('sector-4', 'cam3', 'ccd4')
+Skipped 219388773 ('sector-4', 'cam3', 'ccd4')
+Skipped 259701242 ('sector-4', 'cam3', 'ccd4')
+Skipped 120896927 ('sector-3', 'cam2', 'ccd3')
+Skipped 120896927 ('sector-3', 'cam2', 'ccd3')
+Skipped 257567854 ('sector-4', 'cam2', 'ccd3')
+Skipped 166833457 ('sector-4', 'cam2', 'ccd2')
+Skipped 176984236 ('sector-1', 'cam4', 'ccd3')
+Skipped 153065527 ('sector-3', 'cam3', 'ccd1')
+Skipped 349518800 ('sector-1', 'cam4', 'ccd3')
+Skipped 176778112 ('sector-4', 'cam2', 'ccd1')
+Skipped 167754523 ('sector-1', 'cam4', 'ccd3')
+Skipped 206466531 ('sector-3', 'cam3', 'ccd4')
+Skipped 100990000 ('sector-3', 'cam3', 'ccd1')
+Skipped 100990000 ('sector-3', 'cam3', 'ccd1')
+Skipped 7624182 ('sector-4', 'cam3', 'ccd1')
+Skipped 170634116 ('sector-4', 'cam2', 'ccd2')
+Skipped 152476657 ('sector-4', 'cam3', 'ccd1')
+Skipped 339733013 ('sector-1', 'cam4', 'ccd3')
+Skipped 178284730 ('sector-4', 'cam2', 'ccd3')
+Skipped 279251651 ('sector-2', 'cam4', 'ccd4')
+Skipped 408159788 ('sector-5', 'cam1', 'ccd3')
+Skipped 94986319 ('sector-5', 'cam2', 'ccd3')
+Skipped 117979455 ('sector-5', 'cam2', 'ccd3')
+Skipped 43647325 ('sector-5', 'cam1', 'ccd2')
+Skipped 117979694 ('sector-5', 'cam2', 'ccd3')
+Skipped 169532369 ('sector-5', 'cam2', 'ccd3')
+Skipped 189013224 ('sector-5', 'cam2', 'ccd3')
+Skipped 70914192 ('sector-5', 'cam2', 'ccd4')
+Skipped 117979850 ('sector-5', 'cam2', 'ccd3')
+Skipped 259592689 ('sector-3', 'cam3', 'ccd4')
+Skipped 459942762 ('sector-5', 'cam1', 'ccd4')
+Skipped 31374837 ('sector-5', 'cam2', 'ccd2')
+Skipped 31374837 ('sector-5', 'cam2', 'ccd2')
+Skipped 38686737 ('sector-5', 'cam2', 'ccd4')
+Skipped 188989177 ('sector-5', 'cam2', 'ccd3')
+Skipped 78055054 ('sector-5', 'cam3', 'ccd1')
+Skipped 44647437 ('sector-4', 'cam2', 'ccd2')
+Skipped 44745077 ('sector-4', 'cam2', 'ccd2')
+Skipped 32499655 ('sector-5', 'cam2', 'ccd2')
+Skipped 468880077 ('sector-5', 'cam1', 'ccd4')
+Skipped 13021029 ('sector-5', 'cam2', 'ccd2')
+Skipped 143350972 ('sector-5', 'cam2', 'ccd3')
+Skipped 316916655 ('sector-5', 'cam2', 'ccd3')
+Skipped 70899085 ('sector-5', 'cam2', 'ccd4')
+Skipped 117979897 ('sector-5', 'cam2', 'ccd3')
+Skipped 179034327 ('sector-4', 'cam2', 'ccd2')
+Skipped 14091704 ('sector-5', 'cam3', 'ccd1')
+Skipped 1449640 ('sector-5', 'cam3', 'ccd1')
+Skipped 14091633 ('sector-5', 'cam3', 'ccd1')
+Skipped 1528696 ('sector-5', 'cam2', 'ccd2')
+Skipped 139528693 ('sector-5', 'cam2', 'ccd1')
+Skipped 77951245 ('sector-5', 'cam3', 'ccd1')
+Skipped 257605131 ('sector-4', 'cam3', 'ccd1')
+Skipped 139733308 ('sector-5', 'cam2', 'ccd1')
+Skipped 452808876 ('sector-5', 'cam1', 'ccd2')
+Skipped 153077621 ('sector-3', 'cam3', 'ccd1')
+Skipped 98796344 ('sector-4', 'cam2', 'ccd4')
+Skipped 64071894 ('sector-4', 'cam2', 'ccd4')
+Skipped 38603673 ('sector-1', 'cam4', 'ccd1')
+Skipped 176831592 ('sector-4', 'cam2', 'ccd1')
+Skipped 4616072 ('sector-6', 'cam2', 'ccd2')
+Skipped 20178111 ('sector-6', 'cam3', 'ccd2')
+Skipped 33521996 ('sector-6', 'cam2', 'ccd1')
+Skipped 33692729 ('sector-6', 'cam2', 'ccd3')
+Skipped 37770169 ('sector-6', 'cam2', 'ccd2')
+Skipped 47911178 ('sector-6', 'cam2', 'ccd2')
+Skipped 52280468 ('sector-6', 'cam3', 'ccd1')
+Skipped 52640302 ('sector-6', 'cam3', 'ccd1')
+Skipped 59843967 ('sector-6', 'cam2', 'ccd2')
+Skipped 100608026 ('sector-5', 'cam3', 'ccd1')
+Skipped 156987351 ('sector-6', 'cam3', 'ccd4')
+Skipped 170102285 ('sector-6', 'cam3', 'ccd4')
+Skipped 172464366 ('sector-6', 'cam2', 'ccd2')
+Skipped 306362738 ('sector-6', 'cam2', 'ccd4')
+Skipped 317548889 ('sector-6', 'cam2', 'ccd4')
+Skipped 339672028 ('sector-7', 'cam4', 'ccd1')
+Skipped 365639282 ('sector-6', 'cam1', 'ccd4')
+Skipped 393414358 ('sector-6', 'cam3', 'ccd1')
+Skipped 427348923 ('sector-6', 'cam1', 'ccd1')
+Skipped 427352241 ('sector-6', 'cam1', 'ccd1')
+Skipped 260708537 ('sector-1', 'cam4', 'ccd4')
+Skipped 31852980 ('sector-1', 'cam3', 'ccd4')
+Skipped 31852980 ('sector-1', 'cam3', 'ccd4')
+Skipped 452866790 ('sector-7', 'cam1', 'ccd3')
+Skipped 455096220 ('sector-7', 'cam1', 'ccd3')
+Skipped 455135327 ('sector-7', 'cam1', 'ccd3')
+Skipped 468987719 ('sector-7', 'cam1', 'ccd3')
+Skipped 17746821 ('sector-7', 'cam1', 'ccd4')
+Skipped 19025965 ('sector-7', 'cam1', 'ccd4')
+Skipped 19519368 ('sector-7', 'cam1', 'ccd2')
+Skipped 22529346 ('sector-7', 'cam3', 'ccd2')
+Skipped 88977253 ('sector-7', 'cam1', 'ccd2')
+Skipped 108645766 ('sector-7', 'cam2', 'ccd2')
+Skipped 121338379 ('sector-7', 'cam1', 'ccd2')
+Skipped 123702439 ('sector-7', 'cam3', 'ccd1')
+Skipped 134200185 ('sector-6', 'cam3', 'ccd4')
+Skipped 134537478 ('sector-7', 'cam3', 'ccd1')
+Skipped 172193428 ('sector-6', 'cam2', 'ccd2')
+Skipped 186812530 ('sector-7', 'cam1', 'ccd3')
+Skipped 219164808 ('sector-1', 'cam4', 'ccd4')
+Skipped 268644785 ('sector-7', 'cam3', 'ccd4')
+Skipped 274138511 ('sector-7', 'cam1', 'ccd4')
+Skipped 348538431 ('sector-7', 'cam2', 'ccd3')
+Skipped 425206121 ('sector-7', 'cam1', 'ccd4')
+Skipped 453211454 ('sector-7', 'cam1', 'ccd4')
+Skipped 238086647 ('sector-6', 'cam3', 'ccd4')
+Skipped 440777904 ('sector-7', 'cam1', 'ccd4')
+Skipped 119292328 ('sector-6', 'cam3', 'ccd1')
+Skipped 308307606 ('sector-1', 'cam4', 'ccd3')
+Skipped 264979636 ('sector-7', 'cam1', 'ccd4')
+Skipped 148479278 ('sector-6', 'cam3', 'ccd1')
+Skipped 27649847 ('sector-7', 'cam1', 'ccd3')
+Skipped 19451711 ('sector-7', 'cam1', 'ccd2')
+Skipped 93125144 ('sector-6', 'cam2', 'ccd1')
+Skipped 365690646 ('sector-6', 'cam1', 'ccd4')
+Skipped 71512186 ('sector-6', 'cam2', 'ccd4')
+Skipped 200593988 ('sector-6', 'cam1', 'ccd4')
+Skipped 148228019 ('sector-6', 'cam3', 'ccd1')
+Skipped 403693875 ('sector-6', 'cam1', 'ccd3')
+Skipped 387690507 ('sector-6', 'cam1', 'ccd3')
+Skipped 144700903 ('sector-6', 'cam1', 'ccd4')
+Skipped 309791156 ('sector-1', 'cam4', 'ccd1')
+Skipped 234112540 ('sector-6', 'cam1', 'ccd2')
+Skipped 238004786 ('sector-2', 'cam4', 'ccd4')
+Skipped 200322593 ('sector-4', 'cam3', 'ccd4')
+Skipped 50618703 ('sector-6', 'cam1', 'ccd1')
+Skipped 36440357 ('sector-6', 'cam1', 'ccd2')
+Skipped 36352297 ('sector-6', 'cam1', 'ccd2')
+Skipped 42821097 ('sector-6', 'cam1', 'ccd2')
+Skipped 311183180 ('sector-5', 'cam1', 'ccd4')
+Skipped 311183180 ('sector-5', 'cam1', 'ccd4')
+Skipped 161477033 ('sector-4', 'cam3', 'ccd4')
+Skipped 161477033 ('sector-4', 'cam3', 'ccd4')
+Skipped 161477033 ('sector-4', 'cam3', 'ccd4')
+Skipped 407966340 ('sector-5', 'cam1', 'ccd4')
+Skipped 59003115 ('sector-5', 'cam1', 'ccd4')
+Skipped 55488511 ('sector-5', 'cam2', 'ccd4')
+Skipped 207110080 ('sector-2', 'cam3', 'ccd4')
+Skipped 209459275 ('sector-4', 'cam2', 'ccd1')
+Skipped 101011575 ('sector-8', 'cam2', 'ccd4')
+Skipped 413248763 ('sector-8', 'cam2', 'ccd3')
+Skipped 405454160 ('sector-8', 'cam2', 'ccd3')
+Skipped 1003831 ('sector-8', 'cam2', 'ccd4')
+Skipped 1103432 ('sector-8', 'cam2', 'ccd4')
+Skipped 1133072 ('sector-8', 'cam2', 'ccd1')
+Skipped 13349647 ('sector-8', 'cam1', 'ccd1')
+Skipped 37575651 ('sector-8', 'cam2', 'ccd2')
+Skipped 123482865 ('sector-7', 'cam3', 'ccd1')
+Skipped 126733133 ('sector-8', 'cam3', 'ccd1')
+Skipped 289535142 ('sector-8', 'cam2', 'ccd4')
+Skipped 315002523 ('sector-8', 'cam2', 'ccd3')
+Skipped 386435344 ('sector-8', 'cam2', 'ccd4')
+Skipped 408310006 ('sector-8', 'cam2', 'ccd3')
+Skipped 410094645 ('sector-8', 'cam2', 'ccd4')
+Skipped 423275733 ('sector-8', 'cam2', 'ccd3')
+Skipped 238061845 ('sector-6', 'cam3', 'ccd4')
+Skipped 81419525 ('sector-8', 'cam3', 'ccd1')
+Skipped 180987952 ('sector-8', 'cam3', 'ccd1')
+Skipped 287474726 ('sector-8', 'cam2', 'ccd1')
+Skipped 131743355 ('sector-7', 'cam3', 'ccd1')
+Skipped 74482749 ('sector-8', 'cam3', 'ccd1')
+Skipped 190990336 ('sector-8', 'cam2', 'ccd2')
+Skipped 131979339 ('sector-7', 'cam3', 'ccd1')
+Skipped 294090620 ('sector-8', 'cam2', 'ccd4')
+Skipped 130415266 ('sector-6', 'cam3', 'ccd4')
+Skipped 412961700 ('sector-8', 'cam2', 'ccd4')
+Skipped 270841724 ('sector-8', 'cam3', 'ccd1')
+Skipped 146261607 ('sector-7', 'cam3', 'ccd1')
+Skipped 196286587 ('sector-7', 'cam2', 'ccd2')
+Skipped 128463355 ('sector-7', 'cam2', 'ccd2')
+Skipped 146406806 ('sector-7', 'cam2', 'ccd2')
+Skipped 287329267 ('sector-1', 'cam4', 'ccd3')
+Skipped 144956678 ('sector-7', 'cam3', 'ccd1')
+Skipped 146208651 ('sector-8', 'cam3', 'ccd1')
+Skipped 81429971 ('sector-7', 'cam3', 'ccd1')
+Skipped 145982812 ('sector-8', 'cam3', 'ccd1')
+Skipped 134396419 ('sector-7', 'cam3', 'ccd1')
+Skipped 141363913 ('sector-8', 'cam3', 'ccd1')
+Skipped 175176327 ('sector-7', 'cam3', 'ccd1')
+Skipped 145027461 ('sector-7', 'cam2', 'ccd2')
+Skipped 181304295 ('sector-8', 'cam2', 'ccd2')
+Skipped 122262940 ('sector-8', 'cam3', 'ccd4')
+Skipped 153651591 ('sector-7', 'cam2', 'ccd2')
+Skipped 186547153 ('sector-8', 'cam2', 'ccd2')
+Skipped 134404603 ('sector-7', 'cam3', 'ccd1')
+Skipped 80275202 ('sector-7', 'cam3', 'ccd1')
+Skipped 154459165 ('sector-7', 'cam2', 'ccd2')
+Skipped 284738182 ('sector-7', 'cam3', 'ccd1')
+Skipped 118021229 ('sector-8', 'cam2', 'ccd4')
+Skipped 190496853 ('sector-8', 'cam3', 'ccd1')
+Skipped 145879095 ('sector-8', 'cam3', 'ccd1')
+Skipped 141227133 ('sector-8', 'cam3', 'ccd1')
+Skipped 173640199 ('sector-7', 'cam3', 'ccd1')
+Skipped 267527924 ('sector-7', 'cam3', 'ccd4')
+Skipped 30828562 ('sector-8', 'cam3', 'ccd1')
+Skipped 83092282 ('sector-8', 'cam3', 'ccd1')
+Skipped 101395259 ('sector-8', 'cam2', 'ccd3')
+Skipped 399870368 ('sector-5', 'cam1', 'ccd3')
+Skipped 379929661 ('sector-7', 'cam1', 'ccd3')
+Skipped 65412605 ('sector-7', 'cam2', 'ccd1')
+Skipped 365781372 ('sector-6', 'cam1', 'ccd4')
+Skipped 281408474 ('sector-6', 'cam1', 'ccd2')
+Skipped 293853437 ('sector-6', 'cam1', 'ccd2')
+Skipped 123898871 ('sector-6', 'cam2', 'ccd1')
+Skipped 97158538 ('sector-7', 'cam2', 'ccd1')
+Skipped 349790953 ('sector-1', 'cam4', 'ccd3')
+Skipped 133334108 ('sector-7', 'cam3', 'ccd1')
+Skipped 147977348 ('sector-6', 'cam3', 'ccd1')
+Skipped 49079670 ('sector-6', 'cam2', 'ccd2')
+Skipped 79292541 ('sector-6', 'cam2', 'ccd2')
+Skipped 63303499 ('sector-6', 'cam2', 'ccd2')
+Skipped 157568289 ('sector-6', 'cam3', 'ccd1')
+Skipped 238197709 ('sector-2', 'cam4', 'ccd2')
+Skipped 92992033 ('sector-6', 'cam2', 'ccd1')
+Skipped 78672342 ('sector-6', 'cam2', 'ccd2')
+Skipped 35582553 ('sector-6', 'cam2', 'ccd3')
+Skipped 349373192 ('sector-1', 'cam4', 'ccd3')
+Skipped 72090501 ('sector-6', 'cam2', 'ccd4')
+Skipped 22221375 ('sector-9', 'cam2', 'ccd4')
+Skipped 33153766 ('sector-9', 'cam3', 'ccd2')
+Skipped 35009898 ('sector-9', 'cam1', 'ccd4')
+Skipped 35516889 ('sector-9', 'cam2', 'ccd2')
+Skipped 36734222 ('sector-9', 'cam1', 'ccd1')
+Skipped 48103627 ('sector-9', 'cam2', 'ccd1')
+Skipped 48476907 ('sector-9', 'cam2', 'ccd1')
+Skipped 48476908 ('sector-9', 'cam2', 'ccd1')
+Skipped 53189332 ('sector-9', 'cam1', 'ccd4')
+Skipped 53735810 ('sector-9', 'cam2', 'ccd3')
+Skipped 54085154 ('sector-9', 'cam2', 'ccd3')
+Skipped 54962195 ('sector-9', 'cam1', 'ccd4')
+Skipped 54962195 ('sector-9', 'cam1', 'ccd4')
+Skipped 55092869 ('sector-9', 'cam1', 'ccd4')
+Skipped 73723286 ('sector-9', 'cam2', 'ccd2')
+Skipped 82128636 ('sector-8', 'cam3', 'ccd1')
+Skipped 101955023 ('sector-9', 'cam2', 'ccd2')
+Skipped 102195674 ('sector-9', 'cam2', 'ccd2')
+Skipped 124573851 ('sector-9', 'cam1', 'ccd4')
+Skipped 147660201 ('sector-9', 'cam2', 'ccd2')
+Skipped 151681127 ('sector-9', 'cam2', 'ccd2')
+Skipped 151825527 ('sector-9', 'cam2', 'ccd3')
+Skipped 151959065 ('sector-9', 'cam2', 'ccd3')
+Skipped 158588995 ('sector-9', 'cam2', 'ccd3')
+Skipped 169226822 ('sector-9', 'cam1', 'ccd4')
+Skipped 219187649 ('sector-9', 'cam1', 'ccd2')
+Skipped 280206394 ('sector-9', 'cam3', 'ccd1')
+Skipped 294395926 ('sector-7', 'cam3', 'ccd4')
+Skipped 308050066 ('sector-9', 'cam1', 'ccd1')
+Skipped 335499997 ('sector-9', 'cam1', 'ccd3')
+Skipped 410450228 ('sector-1', 'cam4', 'ccd3')
+Skipped 429304876 ('sector-9', 'cam1', 'ccd2')
+Skipped 437248515 ('sector-9', 'cam1', 'ccd2')
+Skipped 462162948 ('sector-9', 'cam3', 'ccd1')
+Skipped 281731203 ('sector-9', 'cam1', 'ccd4')
+Skipped 339857675 ('sector-7', 'cam3', 'ccd4')
+Skipped 74534430 ('sector-8', 'cam3', 'ccd1')
+Skipped 339636032 ('sector-7', 'cam3', 'ccd4')
+Skipped 445822015 ('sector-9', 'cam3', 'ccd1')
+Skipped 101497191 ('sector-9', 'cam2', 'ccd1')
+Skipped 156991337 ('sector-6', 'cam3', 'ccd1')
+Skipped 320417762 ('sector-7', 'cam1', 'ccd4')
+Skipped 458589703 ('sector-7', 'cam1', 'ccd3')
+Skipped 55383975 ('sector-1', 'cam4', 'ccd1')
+Skipped 55559618 ('sector-1', 'cam4', 'ccd1')
+Skipped 77156829 ('sector-4', 'cam3', 'ccd1')
+Skipped 77156829 ('sector-4', 'cam3', 'ccd1')
+Skipped 77253676 ('sector-4', 'cam3', 'ccd1')
+Skipped 141527579 ('sector-1', 'cam4', 'ccd2')
+Skipped 149302744 ('sector-1', 'cam4', 'ccd4')
+Skipped 149302744 ('sector-1', 'cam4', 'ccd4')
+Skipped 150428135 ('sector-1', 'cam4', 'ccd3')
+Skipped 150428135 ('sector-1', 'cam4', 'ccd3')
+Skipped 150428135 ('sector-1', 'cam4', 'ccd3')
+Skipped 219239945 ('sector-3', 'cam3', 'ccd4')
+Skipped 237914496 ('sector-1', 'cam4', 'ccd1')
+Skipped 237928815 ('sector-2', 'cam3', 'ccd4')
+Skipped 237928815 ('sector-2', 'cam3', 'ccd4')
+Skipped 260004324 ('sector-1', 'cam4', 'ccd4')
+Skipped 391904697 ('sector-1', 'cam4', 'ccd2')
+Skipped 219345200 ('sector-4', 'cam3', 'ccd4')
+Skipped 167342439 ('sector-1', 'cam4', 'ccd3')
+Skipped 391821647 ('sector-1', 'cam4', 'ccd2')
+Skipped 309402106 ('sector-1', 'cam4', 'ccd3')
+Skipped 38510224 ('sector-1', 'cam4', 'ccd1')
+Skipped 150151262 ('sector-4', 'cam4', 'ccd4')
+Skipped 150151262 ('sector-4', 'cam4', 'ccd4')
+Skipped 150151262 ('sector-4', 'cam4', 'ccd4')
+Skipped 167600516 ('sector-1', 'cam4', 'ccd3')
+Skipped 167600516 ('sector-1', 'cam4', 'ccd3')
+Skipped 219195044 ('sector-1', 'cam4', 'ccd4')
+Skipped 219195044 ('sector-1', 'cam4', 'ccd4')
+Skipped 119081096 ('sector-8', 'cam2', 'ccd4')
+Skipped 150247134 ('sector-1', 'cam4', 'ccd4')
+Skipped 184952758 ('sector-8', 'cam2', 'ccd1')
+Skipped 131419878 ('sector-7', 'cam3', 'ccd1')
+Skipped 38571020 ('sector-1', 'cam4', 'ccd1')
+Skipped 38509907 ('sector-1', 'cam4', 'ccd1')
+Skipped 177077336 ('sector-2', 'cam4', 'ccd3')
+Skipped 339961200 ('sector-4', 'cam4', 'ccd4')
+Skipped 410245915 ('sector-8', 'cam2', 'ccd4')
+Skipped 174143743 ('sector-7', 'cam3', 'ccd1')
+Skipped 149788158 ('sector-8', 'cam1', 'ccd1')
+Skipped 144138509 ('sector-9', 'cam1', 'ccd3')
+Skipped 34068865 ('sector-9', 'cam3', 'ccd1')
+Skipped 36724087 ('sector-9', 'cam1', 'ccd1')
+Skipped 36724087 ('sector-9', 'cam1', 'ccd1')
+Skipped 106402532 ('sector-9', 'cam2', 'ccd2')
+Skipped 150271680 ('sector-1', 'cam4', 'ccd4')
+Skipped 260304800 ('sector-1', 'cam4', 'ccd4')
+Skipped 279425357 ('sector-2', 'cam4', 'ccd4')
+Skipped 310009611 ('sector-9', 'cam3', 'ccd1')
+Skipped 359271092 ('sector-9', 'cam3', 'ccd4')
+Skipped 373424049 ('sector-9', 'cam3', 'ccd1')
+Skipped 437242640 ('sector-9', 'cam1', 'ccd2')
+Skipped 444842193 ('sector-9', 'cam3', 'ccd1')
+Skipped 167418903 ('sector-1', 'cam4', 'ccd3')
+Skipped 15445551 ('sector-10', 'cam2', 'ccd2')
+Skipped 104024556 ('sector-10', 'cam1', 'ccd2')
+Skipped 14614418 ('sector-10', 'cam1', 'ccd1')
+Skipped 14661418 ('sector-10', 'cam1', 'ccd1')
+Skipped 61538902 ('sector-10', 'cam2', 'ccd4')
+Skipped 72985822 ('sector-10', 'cam2', 'ccd3')
+Skipped 73228647 ('sector-10', 'cam2', 'ccd3')
+Skipped 73649615 ('sector-10', 'cam2', 'ccd3')
+Skipped 130924120 ('sector-10', 'cam1', 'ccd2')
+Skipped 131081852 ('sector-10', 'cam1', 'ccd2')
+Skipped 152147232 ('sector-10', 'cam2', 'ccd4')
+Skipped 162362398 ('sector-10', 'cam2', 'ccd1')
+Skipped 165317334 ('sector-10', 'cam2', 'ccd4')
+Skipped 178709444 ('sector-10', 'cam2', 'ccd1')
+Skipped 178819686 ('sector-10', 'cam2', 'ccd3')
+Skipped 178819686 ('sector-10', 'cam2', 'ccd3')
+Skipped 181159386 ('sector-10', 'cam2', 'ccd4')
+Skipped 219401954 ('sector-4', 'cam3', 'ccd4')
+Skipped 219698950 ('sector-10', 'cam1', 'ccd1')
+Skipped 229047362 ('sector-10', 'cam1', 'ccd2')
+Skipped 229811538 ('sector-10', 'cam1', 'ccd3')
+Skipped 248075138 ('sector-10', 'cam2', 'ccd3')
+Skipped 248111245 ('sector-10', 'cam2', 'ccd3')
+Skipped 277634430 ('sector-10', 'cam3', 'ccd4')
+Skipped 286864983 ('sector-10', 'cam1', 'ccd4')
+Skipped 286865921 ('sector-10', 'cam1', 'ccd4')
+Skipped 294301883 ('sector-10', 'cam1', 'ccd3')
+Skipped 304042899 ('sector-10', 'cam3', 'ccd1')
+Skipped 306996324 ('sector-10', 'cam2', 'ccd4')
+Skipped 306996324 ('sector-10', 'cam2', 'ccd4')
+Skipped 334305570 ('sector-10', 'cam2', 'ccd2')
+Skipped 335630746 ('sector-10', 'cam1', 'ccd3')
+Skipped 374095457 ('sector-9', 'cam2', 'ccd2')
+Skipped 398943781 ('sector-10', 'cam1', 'ccd2')
+Skipped 413376180 ('sector-10', 'cam1', 'ccd1')
+Skipped 429358906 ('sector-10', 'cam1', 'ccd4')
+Skipped 451645081 ('sector-10', 'cam2', 'ccd2')
+Skipped 460984940 ('sector-10', 'cam3', 'ccd1')
+Skipped 374829238 ('sector-2', 'cam4', 'ccd1')
+Skipped 375059587 ('sector-1', 'cam4', 'ccd3')
+Skipped 350584963 ('sector-1', 'cam4', 'ccd4')
+Skipped 349829627 ('sector-1', 'cam4', 'ccd3')
+Skipped 300710077 ('sector-1', 'cam4', 'ccd3')
+Skipped 308994098 ('sector-1', 'cam4', 'ccd3')
+Skipped 306472057 ('sector-1', 'cam4', 'ccd3')
+Skipped 294780517 ('sector-1', 'cam4', 'ccd1')
+Skipped 300013921 ('sector-1', 'cam4', 'ccd3')
+Skipped 299945285 ('sector-2', 'cam4', 'ccd3')
+Skipped 278895705 ('sector-1', 'cam4', 'ccd4')
+Skipped 277099925 ('sector-1', 'cam4', 'ccd1')
+Skipped 271596225 ('sector-1', 'cam4', 'ccd2')
+Skipped 271596225 ('sector-1', 'cam4', 'ccd2')
+Skipped 260640693 ('sector-1', 'cam4', 'ccd4')
+Skipped 255685030 ('sector-2', 'cam4', 'ccd4')
+Skipped 179308757 ('sector-2', 'cam4', 'ccd2')
+Skipped 177258735 ('sector-1', 'cam4', 'ccd2')
+Skipped 167303382 ('sector-1', 'cam4', 'ccd3')
+Skipped 143526444 ('sector-7', 'cam2', 'ccd3')
+Skipped 41227743 ('sector-1', 'cam4', 'ccd2')
+Skipped 38460940 ('sector-1', 'cam4', 'ccd1')
+Skipped 33831980 ('sector-1', 'cam3', 'ccd3')
+Skipped 30853470 ('sector-1', 'cam4', 'ccd1')
+Skipped 30122649 ('sector-8', 'cam3', 'ccd1')
+Skipped 149301575 ('sector-1', 'cam4', 'ccd4')
+Skipped 388106759 ('sector-1', 'cam4', 'ccd1')
+Skipped 100757807 ('sector-5', 'cam3', 'ccd1')
+Skipped 363914762 ('sector-5', 'cam3', 'ccd4')
+Skipped 55525572 ('sector-1', 'cam4', 'ccd1')
+Skipped 255760319 ('sector-2', 'cam4', 'ccd4')
+Skipped 102840239 ('sector-9', 'cam2', 'ccd2')
+Skipped 175180796 ('sector-7', 'cam3', 'ccd1')
+Skipped 30312676 ('sector-1', 'cam4', 'ccd1')
+Skipped 73717937 ('sector-10', 'cam2', 'ccd3')
+Skipped 193641523 ('sector-12', 'cam2', 'ccd4')
+Skipped 270507305 ('sector-1', 'cam4', 'ccd2')
+Skipped 281924357 ('sector-10', 'cam3', 'ccd4')
+Skipped 350332997 ('sector-1', 'cam4', 'ccd4')
+Skipped 362249359 ('sector-9', 'cam3', 'ccd4')
+Skipped 460205581 ('sector-10', 'cam3', 'ccd1')
+Skipped 238932509 ('sector-1', 'cam4', 'ccd4')
+Skipped 141768070 ('sector-1', 'cam4', 'ccd2')
+Skipped 380886535 ('sector-3', 'cam1', 'ccd3')
+Skipped 32283946 ('sector-3', 'cam2', 'ccd4')
+Skipped 229141709 ('sector-2', 'cam3', 'ccd1')
+Skipped 231289421 ('sector-2', 'cam3', 'ccd4')
+Skipped 42015200 ('sector-3', 'cam2', 'ccd1')
+Skipped 33595516 ('sector-3', 'cam2', 'ccd3')
+Skipped 423670610 ('sector-3', 'cam1', 'ccd1')
+Skipped 40083958 ('sector-3', 'cam1', 'ccd4')
+Skipped 29918916 ('sector-3', 'cam1', 'ccd3')
+Skipped 138727432 ('sector-3', 'cam2', 'ccd2')
+Skipped 160222069 ('sector-3', 'cam2', 'ccd1')
+Skipped 269558487 ('sector-3', 'cam1', 'ccd3')
+Skipped 306338882 ('sector-3', 'cam1', 'ccd1')
+Skipped 404467699 ('sector-3', 'cam1', 'ccd2')
+Skipped 198008005 ('sector-3', 'cam3', 'ccd4')
+Skipped 150430484 ('sector-1', 'cam4', 'ccd4')
+Skipped 321011127 ('sector-3', 'cam3', 'ccd1')
+Skipped 372913430 ('sector-1', 'cam4', 'ccd3')
+Skipped 309254930 ('sector-1', 'cam4', 'ccd3')
+Skipped 238898571 ('sector-5', 'cam3', 'ccd4')
+Skipped 231728511 ('sector-4', 'cam3', 'ccd4')
+Skipped 44797824 ('sector-4', 'cam2', 'ccd2')
+Skipped 381976956 ('sector-1', 'cam4', 'ccd4')
+Skipped 358460246 ('sector-1', 'cam4', 'ccd3')
+Skipped 271596418 ('sector-1', 'cam4', 'ccd2')
+Skipped 200807066 ('sector-3', 'cam3', 'ccd4')
+Skipped 219229644 ('sector-3', 'cam3', 'ccd4')
+Skipped 219344917 ('sector-4', 'cam3', 'ccd4')
+Skipped 220459826 ('sector-2', 'cam4', 'ccd1')
+Skipped 237920046 ('sector-1', 'cam4', 'ccd1')
+Skipped 232025086 ('sector-5', 'cam3', 'ccd4')
+Skipped 14165625 ('sector-5', 'cam3', 'ccd1')
+Skipped 32497972 ('sector-5', 'cam2', 'ccd2')
+Skipped 255704097 ('sector-6', 'cam3', 'ccd4')
+Skipped 219380235 ('sector-4', 'cam3', 'ccd4')
+Skipped 37084932 ('sector-6', 'cam1', 'ccd2')
+Skipped 34077285 ('sector-6', 'cam2', 'ccd3')
+Skipped 237808867 ('sector-6', 'cam1', 'ccd3')
+Skipped 92013169 ('sector-6', 'cam1', 'ccd4')
+Skipped 123846039 ('sector-6', 'cam1', 'ccd2')
+Skipped 167031605 ('sector-6', 'cam1', 'ccd3')
+Skipped 25334160 ('sector-6', 'cam2', 'ccd3')
+Skipped 120269103 ('sector-6', 'cam1', 'ccd2')
+Skipped 437984134 ('sector-6', 'cam1', 'ccd3')
+Skipped 438295981 ('sector-6', 'cam1', 'ccd3')
+Skipped 284288080 ('sector-6', 'cam3', 'ccd4')
+Skipped 333607525 ('sector-6', 'cam2', 'ccd3')
+Skipped 33690636 ('sector-6', 'cam2', 'ccd3')
+Skipped 66561343 ('sector-6', 'cam2', 'ccd4')
+Skipped 123958679 ('sector-6', 'cam2', 'ccd3')
+Skipped 42755801 ('sector-6', 'cam1', 'ccd2')
+Skipped 250484865 ('sector-6', 'cam1', 'ccd2')
+Skipped 102283403 ('sector-6', 'cam1', 'ccd4')
+Skipped 229384040 ('sector-6', 'cam1', 'ccd3')
+Skipped 124543547 ('sector-6', 'cam2', 'ccd3')
+Skipped 177162886 ('sector-1', 'cam4', 'ccd2')
+Skipped 238197638 ('sector-2', 'cam4', 'ccd2')
+Skipped 261257684 ('sector-12', 'cam3', 'ccd4')
+Skipped 261867566 ('sector-12', 'cam2', 'ccd1')
+Skipped 305424003 ('sector-12', 'cam2', 'ccd3')
+Skipped 350153977 ('sector-1', 'cam3', 'ccd3')
+Skipped 364107753 ('sector-12', 'cam2', 'ccd2')
+Skipped 369327947 ('sector-12', 'cam3', 'ccd1')
+Skipped 406941612 ('sector-12', 'cam3', 'ccd1')
+Skipped 407126408 ('sector-12', 'cam3', 'ccd1')
+Skipped 153027658 ('sector-3', 'cam3', 'ccd1')
+Skipped 259389219 ('sector-3', 'cam3', 'ccd4')
+Skipped 348844154 ('sector-1', 'cam4', 'ccd3')
+Skipped 207237016 ('sector-2', 'cam3', 'ccd4')
+Skipped 294869729 ('sector-1', 'cam4', 'ccd1')
+Skipped 150167117 ('sector-1', 'cam4', 'ccd4')
+Skipped 271722899 ('sector-1', 'cam4', 'ccd2')
+Skipped 278775625 ('sector-1', 'cam4', 'ccd4')
+Skipped 278199349 ('sector-4', 'cam4', 'ccd3')
+Skipped 301051430 ('sector-3', 'cam3', 'ccd1')
+Skipped 382068562 ('sector-1', 'cam4', 'ccd4')
+Skipped 300599466 ('sector-1', 'cam4', 'ccd3')
+Skipped 176796997 ('sector-4', 'cam2', 'ccd1')
+Skipped 261258875 ('sector-1', 'cam4', 'ccd2')
+Skipped 300557619 ('sector-1', 'cam4', 'ccd3')
+Skipped 175532955 ('sector-3', 'cam3', 'ccd1')
+Skipped 100921768 ('sector-3', 'cam3', 'ccd1')
+Skipped 206474443 ('sector-4', 'cam3', 'ccd2')
+Skipped 260417932 ('sector-1', 'cam4', 'ccd4')
+Skipped 260130483 ('sector-1', 'cam4', 'ccd4')
+Skipped 220475245 ('sector-2', 'cam4', 'ccd1')
+Skipped 260476837 ('sector-1', 'cam4', 'ccd4')
+Skipped 278198753 ('sector-1', 'cam4', 'ccd2')
+Skipped 425163745 ('sector-5', 'cam1', 'ccd1')
+Skipped 332660150 ('sector-5', 'cam2', 'ccd4')
+Skipped 67772767 ('sector-5', 'cam1', 'ccd1')
+Skipped 248434716 ('sector-5', 'cam1', 'ccd2')
+Skipped 408137826 ('sector-5', 'cam1', 'ccd3')
+Skipped 146520535 ('sector-5', 'cam2', 'ccd2')
+Skipped 399871011 ('sector-5', 'cam1', 'ccd3')
+Skipped 434234955 ('sector-5', 'cam1', 'ccd4')
+Skipped 167714792 ('sector-5', 'cam3', 'ccd1')
+Skipped 219205407 ('sector-1', 'cam4', 'ccd4')
+Skipped 262330063 ('sector-5', 'cam1', 'ccd2')
+Skipped 146438872 ('sector-5', 'cam2', 'ccd2')
+Skipped 189013222 ('sector-5', 'cam2', 'ccd3')
+Skipped 245947683 ('sector-5', 'cam1', 'ccd3')
+Skipped 449050247 ('sector-5', 'cam1', 'ccd3')
+Skipped 319312479 ('sector-5', 'cam2', 'ccd4')
+Skipped 449050248 ('sector-5', 'cam1', 'ccd3')
+Skipped 44792534 ('sector-4', 'cam2', 'ccd2')
+Skipped 146467675 ('sector-5', 'cam2', 'ccd2')
+Skipped 146434840 ('sector-5', 'cam2', 'ccd2')
+Skipped 249067445 ('sector-5', 'cam1', 'ccd2')
+Skipped 92880568 ('sector-5', 'cam2', 'ccd2')
+Skipped 279999655 ('sector-7', 'cam1', 'ccd4')
+Skipped 5109298 ('sector-7', 'cam1', 'ccd1')
+Skipped 265077027 ('sector-7', 'cam1', 'ccd3')
+Skipped 141776043 ('sector-7', 'cam2', 'ccd3')
+Skipped 25799609 ('sector-7', 'cam1', 'ccd2')
+Skipped 179155220 ('sector-7', 'cam2', 'ccd4')
+Skipped 179159972 ('sector-7', 'cam2', 'ccd4')
+Skipped 178367144 ('sector-7', 'cam1', 'ccd2')
+Skipped 445586472 ('sector-7', 'cam3', 'ccd4')
+Skipped 453209605 ('sector-7', 'cam1', 'ccd4')
+Skipped 280437559 ('sector-7', 'cam1', 'ccd1')
+Skipped 174599051 ('sector-7', 'cam3', 'ccd1')
+Skipped 177722855 ('sector-7', 'cam2', 'ccd4')
+Skipped 125894957 ('sector-7', 'cam2', 'ccd2')
+Skipped 409459226 ('sector-7', 'cam2', 'ccd4')
+Skipped 333821572 ('sector-7', 'cam2', 'ccd3')
+Skipped 133654092 ('sector-7', 'cam3', 'ccd1')
+Skipped 347098457 ('sector-7', 'cam2', 'ccd3')
+Skipped 268371979 ('sector-7', 'cam1', 'ccd1')
+Skipped 73038411 ('sector-7', 'cam1', 'ccd2')
+Skipped 5772442 ('sector-7', 'cam1', 'ccd1')
+Skipped 93594834 ('sector-7', 'cam1', 'ccd1')
+Skipped 127476180 ('sector-7', 'cam2', 'ccd2')
+Skipped 177126182 ('sector-7', 'cam2', 'ccd4')
+Skipped 148659924 ('sector-7', 'cam2', 'ccd2')
+Skipped 33091633 ('sector-7', 'cam1', 'ccd1')
+Skipped 425220920 ('sector-7', 'cam1', 'ccd4')
+Skipped 320536216 ('sector-7', 'cam1', 'ccd3')
+Skipped 52548453 ('sector-7', 'cam3', 'ccd2')
+Skipped 113553629 ('sector-7', 'cam2', 'ccd2')
+Skipped 207277638 ('sector-7', 'cam1', 'ccd4')
+Skipped 88684250 ('sector-7', 'cam1', 'ccd2')
+Skipped 7561203 ('sector-7', 'cam2', 'ccd4')
+Skipped 108835813 ('sector-7', 'cam2', 'ccd2')
+Skipped 259353953 ('sector-7', 'cam2', 'ccd4')
+Skipped 93963408 ('sector-7', 'cam2', 'ccd4')
+Skipped 317951248 ('sector-7', 'cam1', 'ccd4')
+Skipped 142918609 ('sector-7', 'cam2', 'ccd3')
+Skipped 341729521 ('sector-7', 'cam4', 'ccd1')
+Skipped 54390047 ('sector-7', 'cam2', 'ccd3')
+Skipped 341186896 ('sector-7', 'cam4', 'ccd1')
+Skipped 50365310 ('sector-7', 'cam2', 'ccd4')
+Skipped 88863718 ('sector-7', 'cam1', 'ccd2')
+Skipped 124709665 ('sector-7', 'cam2', 'ccd4')
+Skipped 106997505 ('sector-7', 'cam2', 'ccd1')
+Skipped 238597883 ('sector-7', 'cam3', 'ccd4')
+Skipped 169904935 ('sector-7', 'cam2', 'ccd3')
+Skipped 156115721 ('sector-7', 'cam2', 'ccd2')
+Skipped 65212867 ('sector-7', 'cam1', 'ccd1')
+Skipped 440801822 ('sector-7', 'cam1', 'ccd4')
+Skipped 107782586 ('sector-7', 'cam2', 'ccd1')
+Skipped 139853601 ('sector-7', 'cam2', 'ccd1')
+Skipped 114018671 ('sector-7', 'cam2', 'ccd2')
+Skipped 427508467 ('sector-7', 'cam1', 'ccd4')
+Skipped 97700520 ('sector-7', 'cam2', 'ccd1')
+Skipped 96246348 ('sector-6', 'cam3', 'ccd1')
+Skipped 155044736 ('sector-7', 'cam2', 'ccd2')
+Skipped 175310067 ('sector-7', 'cam3', 'ccd1')
+Skipped 182943944 ('sector-8', 'cam3', 'ccd2')
+Skipped 291555748 ('sector-7', 'cam3', 'ccd4')
+Skipped 341420329 ('sector-7', 'cam3', 'ccd4')
+Skipped 140706664 ('sector-8', 'cam3', 'ccd1')
+Skipped 143994283 ('sector-7', 'cam3', 'ccd1')
+Skipped 47384844 ('sector-9', 'cam1', 'ccd4')
+Skipped 238374636 ('sector-7', 'cam3', 'ccd4')
+Skipped 141482386 ('sector-1', 'cam4', 'ccd2')
+Skipped 297967252 ('sector-9', 'cam3', 'ccd1')
+Skipped 388624270 ('sector-8', 'cam3', 'ccd4')
+Skipped 20318757 ('sector-9', 'cam2', 'ccd3')
+Skipped 447283466 ('sector-9', 'cam3', 'ccd1')
+Skipped 374908020 ('sector-2', 'cam4', 'ccd1')
+Skipped 464296022 ('sector-9', 'cam3', 'ccd1')
+Skipped 304021498 ('sector-9', 'cam3', 'ccd4')
+Skipped 146589986 ('sector-9', 'cam2', 'ccd2')
+Skipped 149601557 ('sector-1', 'cam4', 'ccd4')
+Skipped 400595342 ('sector-8', 'cam3', 'ccd1')
+Skipped 361413119 ('sector-9', 'cam3', 'ccd4')
+Skipped 146172354 ('sector-9', 'cam2', 'ccd2')
+Skipped 363260203 ('sector-9', 'cam3', 'ccd4')
+Skipped 90544017 ('sector-8', 'cam3', 'ccd1')
+Skipped 461867584 ('sector-9', 'cam3', 'ccd1')
+Skipped 310483807 ('sector-8', 'cam3', 'ccd4')
+Skipped 385624852 ('sector-9', 'cam3', 'ccd1')
+Skipped 360286627 ('sector-9', 'cam3', 'ccd4')
+Skipped 90448944 ('sector-8', 'cam3', 'ccd4')
+Skipped 463402815 ('sector-9', 'cam3', 'ccd1')
+Skipped 54044474 ('sector-9', 'cam2', 'ccd3')
+Skipped 309787037 ('sector-8', 'cam3', 'ccd4')
+Skipped 370745311 ('sector-9', 'cam3', 'ccd4')
+Skipped 384549882 ('sector-8', 'cam3', 'ccd4')
+Skipped 259863352 ('sector-1', 'cam3', 'ccd4')
+Skipped 317060587 ('sector-1', 'cam3', 'ccd2')
+Skipped 421894914 ('sector-1', 'cam3', 'ccd2')
+Skipped 323132914 ('sector-10', 'cam4', 'ccd1')
+Skipped 299799658 ('sector-1', 'cam3', 'ccd3')
+Skipped 406976746 ('sector-12', 'cam3', 'ccd1')
+Skipped 140830390 ('sector-1', 'cam4', 'ccd2')
+Skipped 369960846 ('sector-12', 'cam3', 'ccd4')
+Skipped 261108236 ('sector-1', 'cam4', 'ccd2')
+Skipped 322270620 ('sector-12', 'cam3', 'ccd1')
+Skipped 381979901 ('sector-2', 'cam4', 'ccd1')
+Skipped 468148930 ('sector-12', 'cam3', 'ccd4')
+Skipped 426077080 ('sector-12', 'cam3', 'ccd1')
+Skipped 343648136 ('sector-12', 'cam3', 'ccd1')
+Skipped 129319156 ('sector-12', 'cam2', 'ccd4')
+Skipped 361034196 ('sector-12', 'cam2', 'ccd2')
+Skipped 193413306 ('sector-12', 'cam2', 'ccd4')
+Skipped 387079085 ('sector-12', 'cam2', 'ccd1')
+Skipped 382331352 ('sector-12', 'cam2', 'ccd1')
+Skipped 136274063 ('sector-12', 'cam2', 'ccd4')
+Skipped 375223080 ('sector-10', 'cam3', 'ccd4')
+Skipped 375225453 ('sector-10', 'cam3', 'ccd4')
+Skipped 360630575 ('sector-11', 'cam3', 'ccd1')
+Skipped 383390264 ('sector-12', 'cam3', 'ccd4')
+Skipped 318608749 ('sector-1', 'cam3', 'ccd3')
+Skipped 311890977 ('sector-12', 'cam3', 'ccd1')
+Skipped 451599528 ('sector-12', 'cam3', 'ccd1')
+Skipped 274151135 ('sector-12', 'cam3', 'ccd4')
+Skipped 384513078 ('sector-12', 'cam3', 'ccd1')
+Skipped 394561119 ('sector-11', 'cam3', 'ccd4')
+Skipped 50309953 ('sector-1', 'cam3', 'ccd3')
+Skipped 369864738 ('sector-12', 'cam3', 'ccd4')
+Skipped 304100538 ('sector-1', 'cam3', 'ccd3')
+Skipped 198213332 ('sector-17', 'cam4', 'ccd3')
+Skipped 267489265 ('sector-15', 'cam2', 'ccd3')
+Skipped 154872375 ('sector-14', 'cam4', 'ccd2')
+Skipped 142276270 ('sector-14', 'cam4', 'ccd1')
+Skipped 142276270 ('sector-14', 'cam4', 'ccd1')
+Skipped 142276270 ('sector-14', 'cam4', 'ccd1')
+Skipped 202563254 ('sector-15', 'cam1', 'ccd2')
+Skipped 320525204 ('sector-17', 'cam4', 'ccd4')
+Skipped 159510109 ('sector-18', 'cam4', 'ccd2')
+Skipped 284450803 ('sector-15', 'cam2', 'ccd2')
+Skipped 160268701 ('sector-14', 'cam4', 'ccd2')
+Skipped 28230919 ('sector-15', 'cam2', 'ccd3')
+Skipped 349827430 ('sector-14', 'cam4', 'ccd3')
+Skipped 16740101 ('sector-15', 'cam1', 'ccd2')
+Skipped 154840461 ('sector-14', 'cam4', 'ccd2')
+Skipped 459970307 ('sector-17', 'cam4', 'ccd3')
+Skipped 161450762 ('sector-15', 'cam1', 'ccd2')
+Skipped 147576037 ('sector-14', 'cam4', 'ccd3')
+Skipped 158324245 ('sector-15', 'cam2', 'ccd3')
+Skipped 13419950 ('sector-15', 'cam1', 'ccd2')
+Skipped 16102323 ('sector-15', 'cam1', 'ccd2')
+Skipped 458478250 ('sector-17', 'cam4', 'ccd3')
+Skipped 232967666 ('sector-14', 'cam4', 'ccd1')
+Skipped 41330864 ('sector-15', 'cam1', 'ccd2')
+Skipped 302518439 ('sector-14', 'cam4', 'ccd3')
+Skipped 294176967 ('sector-15', 'cam2', 'ccd3')
+Skipped 1717732429 ('sector-15', 'cam2', 'ccd2')
+Skipped 232967440 ('sector-14', 'cam4', 'ccd1')
+Skipped 154089169 ('sector-14', 'cam4', 'ccd1')
+Skipped 230088370 ('sector-17', 'cam4', 'ccd3')
+Skipped 169177766 ('sector-15', 'cam2', 'ccd3')
+Skipped 359496368 ('sector-15', 'cam2', 'ccd2')
+Skipped 148914726 ('sector-14', 'cam4', 'ccd1')
+Skipped 229510866 ('sector-15', 'cam2', 'ccd1')
+Skipped 341544930 ('sector-14', 'cam4', 'ccd1')
+Skipped 258777137 ('sector-17', 'cam4', 'ccd2')
+Skipped 233087860 ('sector-17', 'cam4', 'ccd4')
+Skipped 289539327 ('sector-17', 'cam4', 'ccd3')
+Skipped 372757221 ('sector-14', 'cam4', 'ccd2')
+Skipped 15247229 ('sector-15', 'cam1', 'ccd2')
+Skipped 287196418 ('sector-17', 'cam4', 'ccd1')
+Skipped 147950620 ('sector-14', 'cam4', 'ccd3')
+Skipped 203189770 ('sector-15', 'cam1', 'ccd2')
+Skipped 99869022 ('sector-14', 'cam4', 'ccd4')
+Skipped 327017634 ('sector-12', 'cam2', 'ccd1')
+Skipped 23434737 ('sector-9', 'cam2', 'ccd3')
+Skipped 467666275 ('sector-10', 'cam3', 'ccd1')
+Skipped 287776397 ('sector-10', 'cam3', 'ccd4')
+Skipped 308034948 ('sector-10', 'cam2', 'ccd2')
+Skipped 364393429 ('sector-1', 'cam4', 'ccd3')
+Skipped 273985865 ('sector-1', 'cam3', 'ccd3')
+Skipped 30037565 ('sector-1', 'cam4', 'ccd1')
+Skipped 33878688 ('sector-1', 'cam4', 'ccd2')
+Skipped 50312495 ('sector-2', 'cam3', 'ccd3')
+Skipped 389924075 ('sector-1', 'cam4', 'ccd2')
+Skipped 399144800 ('sector-10', 'cam3', 'ccd1')
+Skipped 451606970 ('sector-12', 'cam3', 'ccd1')
+Skipped 453260209 ('sector-10', 'cam3', 'ccd4')
+Skipped 141527965 ('sector-1', 'cam4', 'ccd2')
+Skipped 248092710 ('sector-10', 'cam2', 'ccd3')
+Skipped 294781547 ('sector-1', 'cam4', 'ccd1')
+Skipped 294981566 ('sector-1', 'cam4', 'ccd1')
+Skipped 319259194 ('sector-1', 'cam4', 'ccd2')
+Skipped 349095149 ('sector-1', 'cam4', 'ccd3')
+Skipped 374997123 ('sector-1', 'cam4', 'ccd3')
+Skipped 382437043 ('sector-1', 'cam4', 'ccd3')
+Skipped 299798795 ('sector-1', 'cam3', 'ccd3')
+Skipped 150428703 ('sector-1', 'cam4', 'ccd3')
+Skipped 177115354 ('sector-1', 'cam4', 'ccd3')
+Skipped 300038935 ('sector-1', 'cam4', 'ccd3')
+Skipped 140760434 ('sector-1', 'cam4', 'ccd2')
+Skipped 287156968 ('sector-11', 'cam3', 'ccd4')
+Skipped 447061717 ('sector-9', 'cam3', 'ccd1')
+Skipped 364395234 ('sector-1', 'cam4', 'ccd3')
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2')
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2')
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2')
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2')
+Skipped 103633434 ('sector-14', 'cam4', 'ccd3')
+Skipped 153951307 ('sector-14', 'cam4', 'ccd1')
+Skipped 153951307 ('sector-14', 'cam4', 'ccd1')
+Skipped 154716798 ('sector-14', 'cam4', 'ccd2')
+Skipped 159107668 ('sector-15', 'cam2', 'ccd3')
+Skipped 198212955 ('sector-17', 'cam4', 'ccd3')
+Skipped 219698776 ('sector-14', 'cam4', 'ccd3')
+Skipped 219850915 ('sector-17', 'cam4', 'ccd3')
+Skipped 229781583 ('sector-17', 'cam4', 'ccd2')
+Skipped 230127302 ('sector-17', 'cam4', 'ccd3')
+Skipped 230127302 ('sector-17', 'cam4', 'ccd3')
+Skipped 230127302 ('sector-17', 'cam4', 'ccd3')
+Skipped 232612416 ('sector-17', 'cam4', 'ccd4')
+Skipped 232976128 ('sector-14', 'cam4', 'ccd1')
+Skipped 233059608 ('sector-17', 'cam4', 'ccd4')
+Skipped 233120979 ('sector-18', 'cam4', 'ccd4')
+Skipped 233211762 ('sector-17', 'cam4', 'ccd2')
+Skipped 233684822 ('sector-17', 'cam4', 'ccd3')
+Skipped 236714379 ('sector-17', 'cam4', 'ccd3')
+Skipped 237222864 ('sector-17', 'cam4', 'ccd2')
+Skipped 288132261 ('sector-14', 'cam4', 'ccd2')
+Skipped 288735205 ('sector-17', 'cam4', 'ccd2')
+Skipped 355867695 ('sector-14', 'cam4', 'ccd3')
+Skipped 355867695 ('sector-14', 'cam4', 'ccd3')
+Skipped 356311210 ('sector-17', 'cam4', 'ccd4')
+Skipped 365938305 ('sector-14', 'cam4', 'ccd2')
+Skipped 416195870 ('sector-15', 'cam2', 'ccd2')
+Skipped 424865156 ('sector-15', 'cam2', 'ccd3')
+Skipped 467179528 ('sector-14', 'cam4', 'ccd1')
+Skipped 467179528 ('sector-14', 'cam4', 'ccd1')
+Skipped 158561566 ('sector-15', 'cam2', 'ccd3')
+Skipped 142394656 ('sector-15', 'cam4', 'ccd2')
+Skipped 198241702 ('sector-17', 'cam4', 'ccd3')
+Skipped 198241702 ('sector-17', 'cam4', 'ccd3')
+Skipped 237200747 ('sector-17', 'cam4', 'ccd2')
+Skipped 286923464 ('sector-15', 'cam4', 'ccd4')
+Skipped 417948359 ('sector-15', 'cam4', 'ccd4')
+Skipped 445859771 ('sector-15', 'cam4', 'ccd1')
+Skipped 459969957 ('sector-17', 'cam4', 'ccd3')
+Skipped 13499636 ('sector-15', 'cam1', 'ccd3')
+Skipped 43064903 ('sector-15', 'cam1', 'ccd2')
+Skipped 153949511 ('sector-14', 'cam4', 'ccd4')
+Skipped 153949511 ('sector-14', 'cam4', 'ccd4')
+Skipped 163539739 ('sector-15', 'cam1', 'ccd4')
+Skipped 224297258 ('sector-15', 'cam4', 'ccd3')
+Skipped 230017324 ('sector-15', 'cam2', 'ccd1')
+Skipped 232971294 ('sector-14', 'cam4', 'ccd1')
+Skipped 236445129 ('sector-15', 'cam1', 'ccd3')
+Skipped 266593143 ('sector-15', 'cam1', 'ccd4')
+Skipped 267561446 ('sector-15', 'cam2', 'ccd4')
+Skipped 274662200 ('sector-15', 'cam1', 'ccd1')
+Skipped 277507814 ('sector-15', 'cam2', 'ccd4')
+Skipped 352764091 ('sector-15', 'cam2', 'ccd1')
+Skipped 365733349 ('sector-15', 'cam2', 'ccd1')
+Skipped 408203470 ('sector-15', 'cam1', 'ccd2')
+Skipped 417676622 ('sector-15', 'cam2', 'ccd3')
+Skipped 198186769 ('sector-17', 'cam4', 'ccd3')
+Skipped 199688472 ('sector-17', 'cam4', 'ccd4')
+Skipped 202504234 ('sector-23', 'cam3', 'ccd4')
+Skipped 219852584 ('sector-17', 'cam4', 'ccd3')
+Skipped 219854185 ('sector-17', 'cam4', 'ccd3')
+Skipped 229536616 ('sector-14', 'cam4', 'ccd1')
+Skipped 237104103 ('sector-17', 'cam4', 'ccd3')
+Skipped 258777134 ('sector-17', 'cam4', 'ccd2')
+Skipped 293687315 ('sector-15', 'cam4', 'ccd1')
+Skipped 356867115 ('sector-17', 'cam4', 'ccd2')
+Skipped 441797803 ('sector-17', 'cam4', 'ccd2')
+Skipped 185405474 ('sector-15', 'cam2', 'ccd3')
+Skipped 186000935 ('sector-15', 'cam2', 'ccd3')
+Skipped 232679662 ('sector-15', 'cam2', 'ccd2')
+Skipped 233735068 ('sector-15', 'cam2', 'ccd2')
+Skipped 236815160 ('sector-15', 'cam2', 'ccd2')
+Skipped 277014266 ('sector-15', 'cam2', 'ccd4')
+Skipped 287190564 ('sector-15', 'cam2', 'ccd2')
+Skipped 294179389 ('sector-15', 'cam2', 'ccd3')
+Skipped 378159598 ('sector-15', 'cam2', 'ccd3')
+Skipped 405904232 ('sector-15', 'cam2', 'ccd3')
+Skipped 11111899 ('sector-15', 'cam1', 'ccd2')
+Skipped 15565627 ('sector-15', 'cam1', 'ccd2')
+Skipped 167092385 ('sector-15', 'cam1', 'ccd1')
+Skipped 167098530 ('sector-15', 'cam1', 'ccd1')
+Skipped 167403519 ('sector-15', 'cam1', 'ccd1')
+Skipped 195199644 ('sector-15', 'cam1', 'ccd2')
+Skipped 240450679 ('sector-15', 'cam1', 'ccd1')
+Skipped 256886630 ('sector-15', 'cam1', 'ccd1')
+Skipped 266688542 ('sector-15', 'cam1', 'ccd1')
+Skipped 274942910 ('sector-15', 'cam1', 'ccd1')
+Skipped 275111900 ('sector-15', 'cam1', 'ccd1')
+Skipped 312083267 ('sector-15', 'cam1', 'ccd2')
+Skipped 330332501 ('sector-15', 'cam1', 'ccd1')
+Skipped 345996087 ('sector-15', 'cam1', 'ccd1')
+Skipped 357457104 ('sector-15', 'cam1', 'ccd1')
+Skipped 387664866 ('sector-15', 'cam1', 'ccd1')
+Skipped 387664868 ('sector-15', 'cam1', 'ccd1')
+Skipped 395171208 ('sector-15', 'cam1', 'ccd1')
+Skipped 42123111 ('sector-15', 'cam1', 'ccd2')
+Skipped 89759617 ('sector-15', 'cam1', 'ccd2')
+Skipped 92783821 ('sector-15', 'cam1', 'ccd2')
+Skipped 260128333 ('sector-1', 'cam4', 'ccd4')
+Skipped 269701147 ('sector-15', 'cam2', 'ccd1')
+Skipped 269701147 ('sector-15', 'cam2', 'ccd1')
+Skipped 269701147 ('sector-15', 'cam2', 'ccd1')
+Skipped 233681149 ('sector-17', 'cam4', 'ccd3')
+Skipped 233390838 ('sector-15', 'cam2', 'ccd1')
+Skipped 256621916 ('sector-15', 'cam2', 'ccd1')
+Skipped 358631536 ('sector-15', 'cam1', 'ccd1')
+Skipped 1400770435 ('sector-17', 'cam4', 'ccd4')
+Skipped 160487753 ('sector-19', 'cam4', 'ccd2')
+Skipped 219852882 ('sector-17', 'cam4', 'ccd3')
+Skipped 219852882 ('sector-17', 'cam4', 'ccd3')
+Skipped 229747848 ('sector-17', 'cam4', 'ccd2')
+Skipped 229770036 ('sector-17', 'cam4', 'ccd2')
+Skipped 272635712 ('sector-17', 'cam4', 'ccd3')
+Skipped 233953967 ('sector-15', 'cam2', 'ccd4')
+Skipped 1718201850 ('sector-17', 'cam4', 'ccd2')
+Skipped 279177746 ('sector-15', 'cam1', 'ccd1')
+Skipped 365683032 ('sector-15', 'cam2', 'ccd4')
+Skipped 277566483 ('sector-15', 'cam2', 'ccd4')
+Skipped 357972447 ('sector-15', 'cam2', 'ccd4')
+Skipped 416624606 ('sector-15', 'cam2', 'ccd4')
+Skipped 330468175 ('sector-15', 'cam1', 'ccd1')
+Skipped 277447970 ('sector-15', 'cam2', 'ccd4')
+Skipped 230017325 ('sector-15', 'cam2', 'ccd1')
+Skipped 162130054 ('sector-15', 'cam1', 'ccd4')
+Skipped 190430205 ('sector-15', 'cam1', 'ccd1')
+Skipped 190442486 ('sector-15', 'cam1', 'ccd1')
+Skipped 190743990 ('sector-15', 'cam1', 'ccd1')
+Skipped 240613164 ('sector-15', 'cam1', 'ccd1')
+Skipped 274170255 ('sector-15', 'cam1', 'ccd1')
+Skipped 275722992 ('sector-15', 'cam1', 'ccd1')
+Skipped 353038705 ('sector-15', 'cam1', 'ccd4')
+Skipped 365389353 ('sector-15', 'cam2', 'ccd4')
+Skipped 416987878 ('sector-15', 'cam1', 'ccd1')
+Skipped 468472950 ('sector-15', 'cam1', 'ccd1')
+Skipped 258801269 ('sector-15', 'cam2', 'ccd1')
+Skipped 259126549 ('sector-15', 'cam2', 'ccd1')
+Skipped 259129875 ('sector-15', 'cam2', 'ccd1')
+Skipped 352239069 ('sector-15', 'cam2', 'ccd2')
+Skipped 231736113 ('sector-4', 'cam3', 'ccd4')
+Skipped 69747919 ('sector-2', 'cam1', 'ccd4')
+Skipped 116483514 ('sector-16', 'cam4', 'ccd1')
+Skipped 116483734 ('sector-16', 'cam4', 'ccd1')
+Skipped 148782377 ('sector-16', 'cam4', 'ccd4')
+Skipped 158025009 ('sector-16', 'cam4', 'ccd4')
+Skipped 224600500 ('sector-17', 'cam4', 'ccd4')
+Skipped 311035838 ('sector-16', 'cam4', 'ccd3')
+Skipped 377304435 ('sector-15', 'cam2', 'ccd2')
+Skipped 138968089 ('sector-15', 'cam2', 'ccd3')
+Skipped 293954617 ('sector-15', 'cam2', 'ccd3')
+Skipped 375506058 ('sector-15', 'cam2', 'ccd4')
+Skipped 256783784 ('sector-15', 'cam1', 'ccd4')
+Skipped 13684720 ('sector-15', 'cam1', 'ccd2')
+Skipped 138588540 ('sector-14', 'cam4', 'ccd4')
+Skipped 153976959 ('sector-14', 'cam4', 'ccd1')
+Skipped 154383539 ('sector-15', 'cam4', 'ccd1')
+Skipped 198356533 ('sector-17', 'cam4', 'ccd4')
+Skipped 229650439 ('sector-17', 'cam4', 'ccd2')
+Skipped 229650439 ('sector-17', 'cam4', 'ccd2')
+Skipped 232982558 ('sector-17', 'cam4', 'ccd3')
+Skipped 233617847 ('sector-15', 'cam2', 'ccd1')
+Skipped 233951353 ('sector-15', 'cam2', 'ccd4')
+Skipped 235683377 ('sector-17', 'cam4', 'ccd2')
+Skipped 237232044 ('sector-17', 'cam4', 'ccd2')
+Skipped 258514800 ('sector-15', 'cam2', 'ccd1')
+Skipped 259172391 ('sector-17', 'cam4', 'ccd2')
+Skipped 294471966 ('sector-15', 'cam2', 'ccd3')
+Skipped 298073824 ('sector-14', 'cam4', 'ccd2')
+Skipped 343628284 ('sector-15', 'cam2', 'ccd4')
+Skipped 356158613 ('sector-15', 'cam1', 'ccd2')
+Skipped 356158613 ('sector-15', 'cam1', 'ccd2')
+Skipped 377293776 ('sector-15', 'cam2', 'ccd2')
+Skipped 417931607 ('sector-14', 'cam4', 'ccd4')
+Skipped 420112589 ('sector-17', 'cam4', 'ccd2')
+Skipped 198390247 ('sector-17', 'cam4', 'ccd4')
+Skipped 198390247 ('sector-17', 'cam4', 'ccd4')
+Skipped 294179385 ('sector-15', 'cam2', 'ccd3')
+Skipped 387259626 ('sector-15', 'cam2', 'ccd1')
+Skipped 199376584 ('sector-15', 'cam1', 'ccd2')
+Skipped 188768068 ('sector-17', 'cam4', 'ccd4')
+Skipped 229944666 ('sector-15', 'cam2', 'ccd1')
+Skipped 236887394 ('sector-15', 'cam2', 'ccd1')
+Skipped 237086564 ('sector-15', 'cam2', 'ccd1')
+Skipped 240968774 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 409794137 ('sector-7', 'cam2', 'ccd3')
+Skipped 421308357 ('sector-15', 'cam2', 'ccd2')
+Skipped 377191482 ('sector-15', 'cam2', 'ccd2')
+Skipped 233541860 ('sector-15', 'cam2', 'ccd2')
+Skipped 459978312 ('sector-17', 'cam4', 'ccd3')
+Skipped 198457103 ('sector-17', 'cam4', 'ccd4')
+Skipped 219751469 ('sector-17', 'cam4', 'ccd4')
+Skipped 316402246 ('sector-15', 'cam2', 'ccd4')
+Skipped 314338017 ('sector-15', 'cam2', 'ccd4')
+Skipped 276380902 ('sector-15', 'cam2', 'ccd4')
+Skipped 313761775 ('sector-15', 'cam2', 'ccd4')
+Skipped 241065596 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 326919774 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 327341626 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 299158887 ('sector-15', 'cam2', 'ccd3')
+Skipped 441732151 ('sector-17', 'cam4', 'ccd3')
+Skipped 241040309 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 241076290 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 250724252 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 292321872 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 302773669 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 307111282 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 327011842 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 354400186 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 354469661 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 370759867 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 374400599 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 458914949 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 50120414 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 71854745 ('sector-18-spoc-bgsub', 'cam2', 'ccd3')
+Skipped 229951289 ('sector-17', 'cam4', 'ccd1')
+Skipped 219776325 ('sector-17', 'cam4', 'ccd4')
+Skipped 387260717 ('sector-19', 'cam4', 'ccd1')
+Skipped 284475976 ('sector-15', 'cam2', 'ccd2')
+Skipped 310003988 ('sector-16', 'cam4', 'ccd1')
+Skipped 165551882 ('sector-17', 'cam4', 'ccd4')
+Skipped 230086768 ('sector-17', 'cam4', 'ccd3')
+Skipped 229940491 ('sector-15', 'cam2', 'ccd1')
+Skipped 298647682 ('sector-15', 'cam2', 'ccd2')
+Skipped 387527558 ('sector-19', 'cam4', 'ccd1')
+Skipped 154927364 ('sector-14', 'cam4', 'ccd2')
+Skipped 376353509 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 154867950 ('sector-14', 'cam4', 'ccd2')
+Skipped 258829450 ('sector-15', 'cam2', 'ccd1')
+Skipped 353782445 ('sector-15', 'cam2', 'ccd2')
+Skipped 441739020 ('sector-18', 'cam4', 'ccd2')
+Skipped 81831095 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 259168516 ('sector-15', 'cam2', 'ccd1')
+Skipped 198384408 ('sector-17', 'cam4', 'ccd4')
+Skipped 288636342 ('sector-17', 'cam4', 'ccd2')
+Skipped 1884091865 ('sector-15', 'cam2', 'ccd1')
+Skipped 230377505 ('sector-15', 'cam2', 'ccd2')
+Skipped 224596152 ('sector-17', 'cam4', 'ccd4')
+Skipped 365673804 ('sector-15', 'cam2', 'ccd1')
+Skipped 408618999 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 233009109 ('sector-17', 'cam4', 'ccd3')
+Skipped 198206613 ('sector-17', 'cam4', 'ccd3')
+Skipped 219857012 ('sector-17', 'cam4', 'ccd3')
+Skipped 219860288 ('sector-17', 'cam4', 'ccd3')
+Skipped 229455001 ('sector-15', 'cam2', 'ccd1')
+Skipped 232635922 ('sector-15', 'cam2', 'ccd2')
+Skipped 232650365 ('sector-15', 'cam2', 'ccd2')
+Skipped 233071822 ('sector-17', 'cam4', 'ccd4')
+Skipped 233071926 ('sector-17', 'cam4', 'ccd4')
+Skipped 233602827 ('sector-15', 'cam2', 'ccd1')
+Skipped 233602827 ('sector-15', 'cam2', 'ccd1')
+Skipped 237099296 ('sector-17', 'cam4', 'ccd3')
+Skipped 287080092 ('sector-17', 'cam4', 'ccd3')
+Skipped 287139872 ('sector-17', 'cam4', 'ccd4')
+Skipped 289580577 ('sector-18', 'cam4', 'ccd3')
+Skipped 332477926 ('sector-17', 'cam4', 'ccd4')
+Skipped 356978132 ('sector-15', 'cam2', 'ccd2')
+Skipped 364074068 ('sector-20', 'cam4', 'ccd1')
+Skipped 367753709 ('sector-18', 'cam4', 'ccd2')
+Skipped 420112587 ('sector-17', 'cam4', 'ccd2')
+Skipped 424391516 ('sector-17', 'cam4', 'ccd2')
+Skipped 441739871 ('sector-17', 'cam4', 'ccd2')
+Skipped 1551345500 ('sector-15', 'cam2', 'ccd2')
+Skipped 272672133 ('sector-17', 'cam4', 'ccd3')
+Skipped 99834717 ('sector-14', 'cam4', 'ccd4')
+Skipped 160045097 ('sector-14', 'cam4', 'ccd1')
+Skipped 229938290 ('sector-15', 'cam2', 'ccd1')
+Skipped 230386259 ('sector-15', 'cam2', 'ccd1')
+Skipped 310981412 ('sector-14', 'cam4', 'ccd3')
+Skipped 233684293 ('sector-17', 'cam4', 'ccd4')
+Skipped 304142124 ('sector-10', 'cam3', 'ccd1')
+Missing 336732616  
+Missing 92352620  
+Missing 289793076  
+Missing 29344935  
+Missing 97409519  
+Missing 207081058  
+Missing 290131778  
+Missing 70440470  
+Missing 234523599  
+Missing 62483237  
+Missing 425934411  
+Missing 25375553  
+Missing 393940766  
+Missing 389525208  
+Missing 129637892  
+Missing 253917293  
+Missing 99493790  
+Missing 147203645  
+Missing 369457671  
+Missing 29857954  
+Missing 355509914  
+Missing 32090583  
+Missing 2760710  
+Missing 12423815  
+Missing 204317710  
+Missing 120916706  
+Missing 422655579  
+Missing 250386181  
+Missing 382391899  
+Missing 328350926  
+Missing 29960109  
+Missing 9858404  
+Missing 1129033  
+Missing 35857242  
+Missing 325680697  
+Missing 49899799  
+Missing 77228304  
+Missing 89256802  
+Missing 9804616  
+Missing 4646810  
+Missing 420049884  
+Missing 398733009  
+Missing 270380593  
+Missing 431999925  
+Missing 366576758  
+Missing 366622912  
+Missing 318937509  
+Missing 218795833  
+Missing 438490744  
+Missing 302895996  
+Missing 281909674  
+Missing 280210963  
+Missing 234825296  
+Missing 237751146  
+Missing 143271144  
+Missing 49771092  
+Missing 53593457  
+Missing 37168957  
+Missing 32830028  
+Missing 192826603  
+Missing 44737596  
+Missing 170849515  
+Missing 377064495  
+Missing 377064495  
+Missing 377064495  
+Missing 270468559  
+Missing 296780789  
+Missing 262746281  
+Missing 77527511  
+Missing 296739893  
+Missing 348755723  
+Missing 344926234  
+Missing 286132427  
+Missing 146463781  
+Missing 78154865  
+Missing 82362447  
+Missing 432008938  
+Missing 396720998  
+Missing 271971130  
+Missing 275248683  
+Missing 96097215  
+Missing 11561667  
+Missing 146846569  
+Missing 181804752  
+Missing 181804752  
+Missing 219189765  
+Missing 434486077  
+Missing 5868998  
+Missing 61988212  
+Missing 46096489  
+Missing 111991770  
+Missing 125405602  
+Missing 127530399  
+Missing 158978373  
+Missing 220029715  
+Missing 243200602  
+Missing 271168962  
+Missing 276128561  
+Missing 307610438  
+Missing 404340025  
+Missing 405700729  
+Missing 440887364  
+Missing 440887364  
+Missing 461271719  
+Missing 466840711  
+Missing 287563610  
+Missing 437333618  
+Missing 210873792  
+Missing 214361331  
+Missing 216935214  
+Missing 298372701  
+Missing 389070884  
+Missing 16288184  
+Missing 66818296  
+Missing 112395568  
+Missing 366989877  
+Missing 320004517  
+Missing 31553893  
+Missing 380783252  
+Missing 101230735  
+Missing 253990973  
+Missing 79748331  
+Missing 79748331  
+Missing 7088246  
+Missing 201604954  
+Missing 201642601  
+Missing 6663331  
+Missing 31858843  
+Missing 31858844  
+Missing 120247528  
+Missing 158297421  
+Missing 327301957  
+Missing 351601843  
+Missing 360742636  
+Missing 370133522  
+Missing 379240073  
+Missing 161032923  
+Missing 253728991  
+Missing 380589029  
+Missing 290348383  
+Missing 271581073  
+Missing 351603103  
+Missing 295599256  
+Missing 446549905  
+Missing 412014494  
+Missing 290348382  
+Missing 409934330  
+Missing 379286801  
+Missing 295541511  
+Missing 90919952  
+Missing 261369656  
+Missing 143257766  
+Missing 24094603  
+Missing 304774444  
+Missing 469782185  
+Missing 128790976  
+Missing 80166433  
+Missing 405862830  
+Missing 269450900  
+Missing 425721385  
+Missing 91576611  
+Missing 254113311  
+Missing 254113311  
+Missing 69997672  
+Missing 122220263  
+Missing 89389197  
+Missing 110428269  
+Missing 350995812  
+Missing 21755546  
+Missing 288391628  
+Missing 117789567  
+Missing 69679391  
+Missing 237184773  
+Missing 117256577  
+Missing 379931600  
+Missing 48188920  
+Missing 89510024  
+Missing 375542276  
+Missing 138361973  
+Missing 101929303  
+Missing 30329585  
+Missing 158002130  
+Missing 83210867  
+Missing 112026224  
+Missing 237185205  
+Missing 158276040  
+Missing 89643259  
+Missing 24364065  
+Missing 69068526  
+Missing 92677094  
+Missing 288185138  
+Missing 29960110  
+Missing 360156606  
+Missing 90504905  
+Missing 120757718  
+Missing 120960812  
+Missing 158170594  
+Missing 232540264  
+Missing 274762761  
+Missing 278348461  
+Missing 406672232  
+Missing 219015370  
+Missing 136848581  
+Missing 137284119  
+Missing 165523947  
+Missing 160708862  
+Missing 336740528  
+Missing 372264750  
+Missing 275501623  
+Missing 395142888  
+Missing 26880783  
+Missing 367099243  
+Missing 120602501  
+Missing 129539786  
+Missing 136971594  
+Missing 155005217  
+Missing 155114483  
+Missing 164150539  
+Missing 176899385  
+Missing 249812036  
+Missing 252490659  
+Missing 276360911  
+Missing 313506357  
+Missing 328167090  
+Missing 329864959  
+Missing 343019899  
+Missing 343442463  
+Missing 346338552  
+Missing 389182138  
+Missing 430528566  
+Missing 431156009  
+Missing 468845640  
+Missing 64553698  
+Missing 66445643  
+Missing 66783360  
+Missing 328750515  
+Missing 387834907  
+Missing 364186197  
+Missing 115771549  
+Missing 199444169  
+Missing 119700084  
+Missing 125442121  
+Missing 164173105  
+Missing 321857016  
+Missing 329277372  
+Missing 333473672  
+Missing 346418409  
+Missing 418959198  
+Missing 350132371  
+Missing 128501004  
+Missing 2041563029  
+Missing 176860064  
+Missing 191284318  
+Missing 16920150  
+Missing 17005768  
+Missing 44631965  
+Missing 190998418  
+Missing 243185500  
+Missing 243185500  
+Missing 283722336  
+Missing 283722336  
+Missing 284441182  
+Missing 306263608  
+Missing 306955329  
+Missing 352413427  
+Missing 427654774  
+Missing 431514478  
+Missing 432549364  
+Missing 240681314  
+Missing 335483600  
+Missing 197650870  
+Missing 252616865  
+Missing 452803785  
+Missing 67309890  
+Missing 283474780  
+Missing 53875855  
+Missing 354594208  
+Missing 15692883  
+Missing 411608801  
+Missing 431148743  
+Missing 384045439  
+Missing 371673488  
+Missing 414870287  
+Missing 377420580  
+Missing 329145325  
+Missing 410528770  
+Missing 428065977  
+Missing 326114850  
+Missing 331034236  
+Missing 64836837  
+Missing 430677414  
+Missing 415741431  
+Missing 272828463  
+Missing 377739433  
+Missing 376682699  
+Missing 434718964  
+Missing 269509393  
+Missing 270238522  
+Missing 470709084  
+Missing 376637093  
+Missing 455962313  
+Missing 427761355  
+Missing 272049972  
+Missing 269238073  
+Missing 366074069  
+Missing 367102581  
+Missing 387413037  
+Missing 202375913  
+Missing 285543785  
+Missing 312259170  
+Missing 312469860  
+Missing 312678993  
+Missing 327579226  
+Missing 345143460  
+Missing 354600221  
+Missing 420288086  
+Missing 445137888  
+Missing 173612049  
+Missing 177244357  
+Missing 252636888  
+Missing 318746829  
+Missing 319068154  
+Missing 367607434  
+Missing 431585347  
+Missing 455791689  
+Missing 127425841  
+Missing 194203348  
+Missing 409520860  
+Missing 440100539  
+Missing 191146556  
+Missing 288348498  
+Missing 405794804  
+Missing 320506985  
+Missing 117322779  
+Missing 245462406  
+Missing 249862365  
+Missing 249945230  
+Missing 251384275  
+Missing 256414077  
+Missing 259151170  
+Missing 284050395  
+Missing 285666479  
+Missing 285674856  
+Missing 285677945  
+Missing 316254876  
+Missing 332154944  
+Missing 348135793  
+Missing 403256331  
+Missing 418987806  
+Missing 444415148  
+Missing 445144327  
+Missing 52041724  
+Missing 82010657  
+Missing 186599508  
+Missing 192372961  
+Missing 201154493  
+Missing 385105624  
+Missing 431899140  
+Missing 68152139  
+Missing 67418624  
+Missing 129979528  
+Missing 187029841  
+Missing 139375960  
+Missing 129991079  
+Missing 73448352  
+Missing 118301361  
+Missing 101037590  
+Missing 125735470  
+Missing 26433869  
+Missing 138017750  
+Missing 264678534  
+Missing 268403451  
+Missing 272625214  
+Missing 317397615  
+Missing 317507345  
+Missing 322054600  
+Missing 322202434  
+Missing 376838000  
+Missing 377144784  
+Missing 378291076  
+Missing 388076005  
+Missing 407394748  
+Missing 461387302  
+Missing 470852531  
+Missing 157586003  
+Missing 424435940  
+Missing 317597583  
+Missing 29054413  
+Missing 51024887  
+Missing 201186294  
+Missing 269892793  
+Missing 286355915  
+Missing 312862941  
+Missing 348673213  
+Missing 396562848  
+Missing 422923265  
+Missing 22843856  
+Missing 184679932  
+Missing 116608612  
+Missing 122485078  
+Missing 138168780  
+Missing 156724719  
+Missing 266500992  
+Missing 267694283  
+Missing 27677846  
+Missing 286561122  
+Missing 288631580  
+Missing 311121985  
+Missing 312122956  
+Missing 339538183  
+Missing 353367071  
+Missing 354006740  
+Missing 368536386  
+Missing 409183335  
+Missing 417705690  
+Missing 428679607  
+Missing 459903429  
+Missing 468828873  
+Missing 470315428  
+Missing 73104318  
+Missing 8400842  
+Missing 87090944  
+Missing 96291218  
+Missing 9837861  
+Missing 321041369  
+Missing 367366318  
+Missing 58542531  
+Missing 85031598  
+Missing 28900646  
+Missing 102672709  
+Missing 103448870  
+Missing 121966220  
+Missing 267574918  
+Missing 268334473  
+Missing 353475866  
+Missing 396740648  
+Missing 422756130  
+Missing 470381900  
+Missing 190223929  
+Missing 22705558  
+Missing 23650642  
+Missing 274215536  
+Missing 371210825  
+Missing 453387619  
+Missing 95129101  
+Missing 137500798  
+Missing 240148934  
+Missing 241173474  
+Missing 29119552  
+Missing 445805961  
+Missing 461662295  
+Missing 67926921  
+Missing 15863518  
+Missing 239154970  
+Missing 142090065  
+Missing 14336130  
+Missing 149833117  
+Missing 257241363  
+Missing 293617835  
+Missing 356473034  
+Missing 51234631  
+Missing 85242435  
+Missing 71431780  
+Missing 81212286  
+Missing 86396382  
+Missing 130181866  
+Missing 130181866  
+Missing 241225337  
+Missing 285048486  
+Missing 298666530  
+Missing 318022259  
+Missing 318022259  
+Missing 371234684  
+Missing 470987100  
+Missing 53427308  
+Missing 104208182  
+Missing 159418353  
+Missing 174041208  
+Missing 367858035  
+Missing 408636441  
+Missing 435680451  
+Missing 67666096  
+Missing 8767448  
+Missing 137906197  
+Missing 287225295  
+Missing 457138169  
+Missing 252479260  
+Missing 85293053  
+Missing 332064670  
+Missing 4897275  
+Missing 9348006  
+Missing 21535395  
+Missing 29191624  
+Missing 39699648  
+Missing 67646988  
+Missing 137881699  
+Missing 241196395  
+Missing 86280613  
+Missing 372730331  
+Missing 450327768  
+Missing 172518755  
+Missing 29191596  
