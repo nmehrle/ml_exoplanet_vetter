@@ -168,6 +168,51 @@ def rerunFatalSector(outDir, sector, verbose=False):
 
   return ngood
 
+# def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
+#   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
+#   allSectors = [sector for sector in allSectors if 'spoc' not in sector]
+#   # Sort sectors in descending order
+#   sector_nums = [int(sector.split('-')[1][:-1]) for sector in allSectors]
+#   sorted_idx = np.argsort(sector_nums)
+#   sorted_sectors = list(np.array(allSectors)[sorted_idx])[::-1]
+#   foundTics    = []
+#   foundSectors = []
+
+#   fileCount = 0
+#   duplicateCount = 0
+
+#   for sector in tqdm(sorted_sectors):
+#     # Path to lightcurves
+#     lcPath = os.path.join(dataPath, sector, subpath)
+
+#     # Path to duplicate Lightcurves
+#     duplicatePath = os.path.join(lcPath, 'duplicates/')
+#     if not os.path.exists(duplicatePath):
+#       os.mkdir(duplicatePath)
+
+#     for lcfile in tqdm(os.listdir(lcPath)):
+#       # get TIC ID from lightcurve files
+#       if '.h5' not in lcfile:
+#         continue
+#       tic = lcfile.split('.')[0]
+
+#       if tic in foundTics:
+#         # This TIC ID has been found in a later sector
+#         # Move the lightcurve file to the duplicate folder
+#         idx = np.where(np.array(foundTics) == tic)[0][0]
+#         srcName = os.path.join(lcPath,lcfile)
+#         newFileName = str(tic)+'_'+foundSectors[idx][:-1]+'.h5'
+#         destName = os.path.join(duplicatePath, newFileName)
+#         os.rename(srcName, destName)
+#         duplicateCount+=1
+#       else:
+#         # New TIC ID, log that it was found
+#         foundTics.append(tic)
+#         foundSectors.append(sector)
+#       fileCount+=1
+
+#   print(str(fileCount) + ' files found, '+str(duplicateCount)+' duplicates, '+str(fileCount-duplicateCount)+'  originals')
+
 def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
   allSectors = [sector for sector in allSectors if 'spoc' not in sector]
@@ -175,13 +220,13 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
   sector_nums = [int(sector.split('-')[1][:-1]) for sector in allSectors]
   sorted_idx = np.argsort(sector_nums)
   sorted_sectors = list(np.array(allSectors)[sorted_idx])[::-1]
-  foundTics    = []
-  foundSectors = []
+
+  higherSectors = []
 
   fileCount = 0
   duplicateCount = 0
 
-  for sector in tqdm(sorted_sectors):
+  for sector in tqdm(sorted_sectors, desc='sector'):
     # Path to lightcurves
     lcPath = os.path.join(dataPath, sector, subpath)
 
@@ -196,20 +241,21 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
         continue
       tic = lcfile.split('.')[0]
 
-      if tic in foundTics:
-        # This TIC ID has been found in a later sector
-        # Move the lightcurve file to the duplicate folder
-        idx = np.where(np.array(foundTics) == tic)[0][0]
-        srcName = os.path.join(lcPath,lcfile)
-        newFileName = str(tic)+'_'+foundSectors[idx][:-1]+'.h5'
-        destName = os.path.join(duplicatePath, newFileName)
-        os.rename(srcName, destName)
-        duplicateCount+=1
-      else:
-        # New TIC ID, log that it was found
-        foundTics.append(tic)
-        foundSectors.append(sector)
+      # look through the above sectors for this tic ID
+      for higherSector in higherSectors:
+        higherLCPath = os.path.join(dataPath, higherSector, subpath)
+        # if found, mark this one as duplicate
+        if os.path.exists(os.path.join(higherLCPath, lcfile)):
+          srcName = os.path.join(lcPath,lcfile)
+          newFileName = str(tic)+'_'+higherSector[:-1]+'.h5'
+          destName = os.path.join(duplicatePath, newFileName)
+          os.rename(srcName, destName)
+          duplicateCount+=1
+          break
+        else:
+          continue
       fileCount+=1
+    higherSectors.append(sector)
 
   print(str(fileCount) + ' files found, '+str(duplicateCount)+' duplicates, '+str(fileCount-duplicateCount)+'  originals')
 
