@@ -228,7 +228,7 @@ def processLC(lcfile, blsfile, outfile,
     if verbose:
       print('Error reading in {}'.format(lcfile))
       print(e)
-    return -1
+    return -1, e
 
   best_ap = "Aperture_%.3d" % h5inputfile["LightCurve"]["AperturePhotometry"].attrs['bestap']
   h5outputfile.create_dataset("bestap",(1,), data =  int(best_ap[-3:]))
@@ -271,4 +271,4 @@ def processLC(lcfile, blsfile, outfile,
   h5inputfile.close()
   h5outputfile.close()
 
-  return return_val
+  return return_val, 0

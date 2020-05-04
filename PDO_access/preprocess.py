@@ -11,6 +11,8 @@ def parseFileList(lines, sector, outputFolder, limitTo=None, verbose=False):
   ngood  = 0
   errors = []
   fatal  = []
+  prev   = []
+  fatal_msgs = []
   for i, line in enumerate(tqdm(lines)):
     lcfile, blsfile, score = line.strip().split(' ')
     if limitTo is not None:
@@ -19,22 +21,34 @@ def parseFileList(lines, sector, outputFolder, limitTo=None, verbose=False):
         
     lcname = lcfile.split('/')[-1]
     outfile = os.path.join(outputFolder, lcname)
+    if os.path.exists(outfile):
+      prev.append(lcfile)
+      continue
 
-    val = processLC(lcfile, blsfile, outfile, score, verbose=verbose)
+    val, e = processLC(lcfile, blsfile, outfile, score, verbose=verbose)
     if val == 1:
       ngood+=1
     elif val == 0:
       errors.append(lcfile)
     elif val == -1:
       fatal.append(lcfile)
+      fatal_msgs.append(e)
 
-  return ngood, errors, fatal
+  return ngood, errors, fatal, prev, fatal_msgs
+
+def saveFatal(fileName, fatal, fatal_msgs):
+  with open(fileName,'w') as f:
+    for i in range(len(fatal)):
+      print(fatal[i], '----', fatal_msgs[i], file=f)
 
 def runPreprocess(baseDir, outDir, sector, threshold=0.09, verbose=False):
   print(sector)
   print('--')
   fatalParse = parseANO(baseDir, outDir, sector, threshold=threshold)
+  fatal_msgs = ["Error Reading Astronet Output"]*len(fatalParse)
+
   fileList = os.path.join(outDir, sector, 'filesToPreProc.txt')
+
   with open(fileList,'r') as f:
     lines = f.readlines()
 
@@ -44,11 +58,13 @@ def runPreprocess(baseDir, outDir, sector, threshold=0.09, verbose=False):
   except OSError:
     pass
   
-  ngood, errors, fatal = parseFileList(lines, sector, outputFolder,verbose=verbose)
+  ngood, errors, fatal, prev, parse_errors = parseFileList(lines, sector, outputFolder,verbose=verbose)
   fatal = np.hstack((fatalParse,fatal))
+  fatal_msgs = np.hstack((fatal_msgs, parse_errors))
 
   print('Processed {} lightcurves'.format(len(lines)))
   print('  --  {} Done successfully'.format(ngood))
+  print('  --  {} already done'.format(len(prev)))
   print('  --  {} Done partially'.format(len(errors)))
   print('  --  {} failed'.format(len(fatal)))
 
@@ -56,9 +72,7 @@ def runPreprocess(baseDir, outDir, sector, threshold=0.09, verbose=False):
     for each in errors:
       print(each, file=f)
 
-  with open(os.path.join(outDir, sector, 'preproc_fatal.txt'),'w') as f:
-    for each in fatal:
-      print(each, file=f)
+  saveFatal(os.path.join(outDir, sector, 'preproc_fatal.txt'), fatal, fatal_msgs)
 
 def getStellarParamsSector(outDir, sector):
   try:
@@ -116,7 +130,7 @@ def getStellarParamsSector(outDir, sector):
   print('')
   print('')
 
-def rerunFatalSector(outDir, sector):
+def rerunFatalSector(outDir, sector, verbose=False):
   print(sector)
   print('--')
 
@@ -128,27 +142,29 @@ def rerunFatalSector(outDir, sector):
   with open(fatalFiles,'r') as f:
     rawFatalLines = f.readlines()
 
-  fatalLines = []
+  fatalLines  = []
   for fl in rawFatalLines:
-    fatalLines.append(fl.strip())
+    try:
+      line = fl.split('----')[0].strip()
+      if '_CH' in line:
+        line = ''.join(line.split('_CH'))
+      fatalLines.append(line)
+    except IndexError:
+      fatalLines.append(fl.strip())
 
   print('Rerunning {} failed lightcurves'.format(len(fatalLines)))
 
   outputFolder = os.path.join(outDir, sector,'preprocessed/')
-  ngood, errors, fatal = parseFileList(lines, sector, outputFolder, fatalLines)
-  print('Processed {} lightcurves'.format(len(lines)))
+  ngood, errors, fatal, prev, parse_errors = parseFileList(lines, sector, outputFolder, fatalLines, verbose=verbose)
+  print('Processed {} lightcurves'.format(len(fatalLines)))
   print('  --  {} Done successfully'.format(ngood))
+  print('  --  {} already done'.format(len(prev)))
   print('  --  {} Done partially'.format(len(errors)))
   print('  --  {} failed'.format(len(fatal)))
   print('')
   print('')
 
-  saveName = 'fatal_preproc_'+datetime.now().strftime("%d/%m/%Y_%H:%M:%S")+'.txt'
-  os.rename(fatalFiles, os.path.join(outDir,sector, saveName))
-  with open(fatalFiles,'w') as f:
-    for each in fatal:
-      print(each, file=f)
-
+  saveFatal(fatalFiles, fatal, parse_errors)
 
   return ngood
 
@@ -156,10 +172,9 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
   allSectors = [sector for sector in allSectors if 'spoc' not in sector]
   # Sort sectors in descending order
-  sector_nums = [int(sector.split('-')[1]) for sector in allSectors]
+  sector_nums = [int(sector.split('-')[1][:-1]) for sector in allSectors]
   sorted_idx = np.argsort(sector_nums)
   sorted_sectors = list(np.array(allSectors)[sorted_idx])[::-1]
-
   foundTics    = []
   foundSectors = []
 
@@ -175,7 +190,7 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
     if not os.path.exists(duplicatePath):
       os.mkdir(duplicatePath)
 
-    for lcfile in os.listdir(lcPath):
+    for lcfile in tqdm(os.listdir(lcPath)):
       # get TIC ID from lightcurve files
       if '.h5' not in lcfile:
         continue
@@ -186,7 +201,8 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
         # Move the lightcurve file to the duplicate folder
         idx = np.where(np.array(foundTics) == tic)[0][0]
         srcName = os.path.join(lcPath,lcfile)
-        destName = os.path.join(duplicatePath, str(tic)+'_'+str(foundSectors[idx])+'.h5')
+        newFileName = str(tic)+'_'+foundSectors[idx][:-1]+'.h5'
+        destName = os.path.join(duplicatePath, newFileName)
         os.rename(srcName, destName)
         duplicateCount+=1
       else:
@@ -218,7 +234,8 @@ def test():
   # getStellarParamsSector(outDir, 'sector-16/')
   # getStellarParamsSector(outDir, 'sector-15/')
   # getStellarParamsSector(outDir, 'sector-14/')
-  runPreprocess(baseDir, outDir, 'sector-1/',.09,verbose=True)
+  # runPreprocess(baseDir, outDir, 'sector-1/',.09,verbose=True)
+  rerunFatalSector(outDir, 'sector-9/',verbose=True)
 
 def main():
   hasPreprocessed = False

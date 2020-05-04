@@ -1,0 +1,10 @@
+1693 unique systems with planets
+
+Have found -- 1154
+Not found on PDO -- 111
+Found on PDO but not looked at -- 428
+
+of those 428--
+  73  AstroNetFile DNE
+  321  TIC not in AN File
+  34  Score found but below .09 threshold
