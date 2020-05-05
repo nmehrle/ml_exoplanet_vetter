@@ -1,0 +1,1693 @@
+Found 149603524 sector-9
+Found 38846515 sector-9
+Found 281459670 sector-2
+Found 388104525 sector-2
+Found 25155310 sector-10
+Found 322307342 sector-2
+Found 266980320 sector-1
+Found 278683844 sector-9
+Found 394137592 sector-2
+Found 29831208 sector-11
+Found 52368076 sector-2
+Found 391949880 sector-13
+Found 201248411 sector-1
+Found 263003176 sector-13
+Found 234994474 sector-1
+Found 261136679 sector-11
+Found 355636844 sector-2
+Found 220435095 sector-9
+Found 260985861 sector-11
+Found 271893367 sector-9
+Found 382302241 sector-9
+Found 231081369 sector-9
+Found 140691463 sector-13
+Found 394657039 sector-13
+Found 348770361 sector-13
+Found 179317684 sector-9
+Found 350743714 sector-9
+Found 149990841 sector-11
+Found 183120439 sector-13
+Found 394698182 sector-13
+Found 309257814 sector-9
+Found 270341214 sector-13
+Found 425997655 sector-2
+Found 307210830 sector-9
+Found 272086159 sector-13
+Found 262530407 sector-2
+Found 207141131 sector-2
+Found 76923707 sector-2
+Found 300871545 sector-9
+Found 260304296 sector-9
+Found 278866211 sector-9
+Found 166739520 sector-2
+Found 183532609 sector-2
+Found 183537452 sector-2
+Found 183985250 sector-2
+Found 211438925 sector-2
+Found 230982885 sector-2
+Found 234519192 sector-2
+Found 441462736 sector-2
+Found 12421862 sector-2
+Found 350618622 sector-4
+Found 260271203 sector-13
+Found 314865962 sector-13
+Found 52204645 sector-2
+Found 141608198 sector-13
+Found 300293197 sector-9
+Found 234345288 sector-13
+Found 167415965 sector-9
+Found 55652896 sector-9
+Found 260043723 sector-9
+Found 260609205 sector-13
+Found 150098860 sector-10
+Found 77044471 sector-2
+Found 120610833 sector-2
+Found 204376737 sector-2
+Found 280095254 sector-13
+Found 9727392 sector-2
+Found 9725627 sector-2
+Found 101948569 sector-2
+Found 77031414 sector-2
+Found 149010208 sector-2
+Found 158623531 sector-2
+Found 160148385 sector-2
+Found 184240683 sector-2
+Found 200723869 sector-4
+Found 350445771 sector-9
+Found 122612091 sector-4
+Found 159951311 sector-4
+Found 219253008 sector-4
+Found 259377017 sector-4
+Found 259511357 sector-4
+Found 279740441 sector-1
+Found 373844472 sector-10
+Found 382188882 sector-9
+Found 439456714 sector-3
+Found 122613513 sector-4
+Found 38696105 sector-9
+Found 382626661 sector-9
+Found 277103955 sector-10
+Found 150030205 sector-10
+Found 2758565 sector-2
+Found 201292545 sector-1
+Found 355637190 sector-1
+Found 188570092 sector-2
+Found 115242351 sector-2
+Found 166697854 sector-2
+Found 145750719 sector-2
+Found 281710229 sector-2
+Found 9102327 sector-2
+Found 316769613 sector-2
+Found 198077394 sector-2
+Found 66413476 sector-2
+Found 144336525 sector-2
+Found 169765334 sector-2
+Found 139285832 sector-2
+Found 233964642 sector-2
+Found 55452495 sector-9
+Found 155986102 sector-2
+Found 116156517 sector-2
+Found 13023378 sector-2
+Found 382474101 sector-2
+Found 47423120 sector-2
+Found 183593642 sector-2
+Found 144276942 sector-2
+Found 9033144 sector-2
+Found 175482273 sector-2
+Found 280097543 sector-1
+Found 139285736 sector-2
+Found 20892672 sector-2
+Found 220396259 sector-9
+Found 207084429 sector-2
+Found 167418898 sector-9
+Found 300810086 sector-10
+Found 238059180 sector-6
+Found 92359850 sector-4
+Found 271900960 sector-10
+Found 38541473 sector-4
+Found 178155732 sector-4
+Found 219379012 sector-6
+Found 219388773 sector-6
+Found 259701242 sector-4
+Found 257567854 sector-4
+Found 176984236 sector-9
+Found 153065527 sector-4
+Found 349518800 sector-13
+Found 176778112 sector-4
+Found 167754523 sector-9
+Found 206466531 sector-4
+Found 7624182 sector-4
+Found 170634116 sector-4
+Found 152476657 sector-4
+Found 339733013 sector-9
+Found 178284730 sector-4
+Found 279251651 sector-9
+Found 408159788 sector-5
+Found 94986319 sector-6
+Found 117979455 sector-5
+Found 117979694 sector-5
+Found 169532369 sector-5
+Found 189013224 sector-5
+Found 70914192 sector-5
+Found 117979850 sector-5
+Found 459942762 sector-5
+Found 31374837 sector-5
+Found 188989177 sector-5
+Found 44647437 sector-5
+Found 468880077 sector-5
+Found 143350972 sector-6
+Found 316916655 sector-5
+Found 70899085 sector-5
+Found 179034327 sector-5
+Found 14091704 sector-5
+Found 1449640 sector-5
+Found 14091633 sector-5
+Found 139528693 sector-5
+Found 257605131 sector-5
+Found 139733308 sector-5
+Found 452808876 sector-5
+Found 98796344 sector-4
+Found 64071894 sector-4
+Found 38603673 sector-9
+Found 176831592 sector-4
+Found 20178111 sector-6
+Found 33692729 sector-6
+Found 37770169 sector-6
+Found 47911178 sector-6
+Found 52280468 sector-7
+Found 52640302 sector-6
+Found 156987351 sector-6
+Found 170102285 sector-6
+Found 172464366 sector-6
+Found 306362738 sector-6
+Found 317548889 sector-6
+Found 339672028 sector-9
+Found 393414358 sector-6
+Found 260708537 sector-9
+Found 31852980 sector-10
+Found 452866790 sector-7
+Found 455096220 sector-7
+Found 455135327 sector-7
+Found 17746821 sector-7
+Found 19025965 sector-7
+Found 19519368 sector-7
+Found 22529346 sector-7
+Found 88977253 sector-7
+Found 121338379 sector-7
+Found 123702439 sector-7
+Found 134200185 sector-7
+Found 134537478 sector-7
+Found 172193428 sector-6
+Found 186812530 sector-7
+Found 219164808 sector-11
+Found 268644785 sector-9
+Found 425206121 sector-7
+Found 453211454 sector-7
+Found 238086647 sector-8
+Found 440777904 sector-7
+Found 19451711 sector-7
+Found 71512186 sector-6
+Found 309791156 sector-10
+Found 238004786 sector-6
+Found 311183180 sector-5
+Found 407966340 sector-5
+Found 207110080 sector-2
+Found 209459275 sector-4
+Found 101011575 sector-8
+Found 377064495 sector-8
+Found 413248763 sector-8
+Found 405454160 sector-8
+Found 1003831 sector-8
+Found 1103432 sector-8
+Found 37575651 sector-8
+Found 123482865 sector-7
+Found 126733133 sector-9
+Found 270468559 sector-8
+Found 289535142 sector-8
+Found 408310006 sector-8
+Found 410094645 sector-8
+Found 238061845 sector-6
+Found 81419525 sector-8
+Found 180987952 sector-9
+Found 287474726 sector-8
+Found 131743355 sector-7
+Found 74482749 sector-9
+Found 190990336 sector-9
+Found 131979339 sector-7
+Found 294090620 sector-8
+Found 130415266 sector-8
+Found 412961700 sector-8
+Found 270841724 sector-9
+Found 146261607 sector-7
+Found 196286587 sector-7
+Found 128463355 sector-8
+Found 146406806 sector-7
+Found 287329267 sector-9
+Found 144956678 sector-7
+Found 146208651 sector-9
+Found 81429971 sector-7
+Found 145982812 sector-9
+Found 134396419 sector-7
+Found 141363913 sector-9
+Found 175176327 sector-7
+Found 262746281 sector-8
+Found 145027461 sector-7
+Found 181304295 sector-8
+Found 122262940 sector-10
+Found 153651591 sector-8
+Found 186547153 sector-8
+Found 134404603 sector-7
+Found 80275202 sector-7
+Found 154459165 sector-7
+Found 284738182 sector-7
+Found 77527511 sector-8
+Found 118021229 sector-8
+Found 190496853 sector-9
+Found 145879095 sector-9
+Found 141227133 sector-9
+Found 173640199 sector-7
+Found 267527924 sector-7
+Found 296739893 sector-8
+Found 83092282 sector-9
+Found 101395259 sector-9
+Found 399870368 sector-5
+Found 379929661 sector-7
+Found 65412605 sector-7
+Found 365781372 sector-6
+Found 281408474 sector-6
+Found 293853437 sector-6
+Found 123898871 sector-6
+Found 97158538 sector-7
+Found 349790953 sector-9
+Found 133334108 sector-8
+Found 147977348 sector-6
+Found 49079670 sector-6
+Found 79292541 sector-6
+Found 63303499 sector-6
+Found 157568289 sector-6
+Found 238197709 sector-9
+Found 92992033 sector-6
+Found 78672342 sector-6
+Found 35582553 sector-6
+Found 349373192 sector-9
+Found 72090501 sector-6
+Found 22221375 sector-9
+Found 35516889 sector-9
+Found 48476907 sector-9
+Found 48476908 sector-9
+Found 53189332 sector-9
+Found 53735810 sector-9
+Found 54085154 sector-9
+Found 54962195 sector-9
+Found 55092869 sector-9
+Found 73723286 sector-9
+Found 101955023 sector-9
+Found 102195674 sector-9
+Found 124573851 sector-9
+Found 147660201 sector-9
+Found 151681127 sector-9
+Found 151825527 sector-9
+Found 151959065 sector-9
+Found 158588995 sector-9
+Found 169226822 sector-9
+Found 280206394 sector-9
+Found 294395926 sector-9
+Found 308050066 sector-9
+Found 335499997 sector-9
+Found 410450228 sector-8
+Found 429304876 sector-9
+Found 437248515 sector-9
+Found 462162948 sector-9
+Found 281731203 sector-9
+Found 74534430 sector-9
+Found 339636032 sector-9
+Found 445822015 sector-9
+Found 101497191 sector-9
+Found 156991337 sector-7
+Found 458589703 sector-7
+Found 55383975 sector-9
+Found 55559618 sector-9
+Found 77156829 sector-5
+Found 141527579 sector-12
+Found 150428135 sector-13
+Found 219239945 sector-5
+Found 260004324 sector-9
+Found 219345200 sector-4
+Found 391821647 sector-13
+Found 150151262 sector-4
+Found 167600516 sector-13
+Found 219195044 sector-6
+Found 119081096 sector-8
+Found 275248683 sector-8
+Found 184952758 sector-8
+Found 131419878 sector-7
+Found 38571020 sector-12
+Found 38509907 sector-9
+Found 177077336 sector-9
+Found 339961200 sector-9
+Found 410245915 sector-8
+Found 260304800 sector-13
+Found 279425357 sector-9
+Found 310009611 sector-9
+Found 373424049 sector-10
+Found 437242640 sector-9
+Found 167418903 sector-2
+Found 104024556 sector-10
+Found 14614418 sector-10
+Found 131081852 sector-10
+Found 152147232 sector-10
+Found 162362398 sector-10
+Found 219698950 sector-10
+Found 229047362 sector-10
+Found 248075138 sector-10
+Found 286864983 sector-10
+Found 286865921 sector-10
+Found 334305570 sector-10
+Found 335630746 sector-10
+Found 374095457 sector-9
+Found 398943781 sector-10
+Found 460984940 sector-11
+Found 350584963 sector-10
+Found 299945285 sector-10
+Found 271596225 sector-9
+Found 179308757 sector-12
+Found 100757807 sector-6
+Found 363914762 sector-6
+Found 255760319 sector-6
+Found 102840239 sector-9
+Found 175180796 sector-7
+Found 30312676 sector-10
+Found 46096489 sector-11
+Found 111991770 sector-11
+Found 127530399 sector-11
+Found 158978373 sector-11
+Found 270507305 sector-11
+Found 271168962 sector-11
+Found 276128561 sector-11
+Found 281924357 sector-11
+Found 307610438 sector-11
+Found 350332997 sector-6
+Found 440887364 sector-11
+Found 460205581 sector-10
+Found 141768070 sector-12
+Found 437333618 sector-11
+Found 229141709 sector-2
+Found 231289421 sector-2
+Found 423670610 sector-3
+Found 40083958 sector-3
+Found 269558487 sector-3
+Found 306338882 sector-3
+Found 404467699 sector-3
+Found 198008005 sector-4
+Found 150430484 sector-9
+Found 321011127 sector-4
+Found 372913430 sector-9
+Found 309254930 sector-9
+Found 271596418 sector-8
+Found 220459826 sector-9
+Found 255704097 sector-6
+Found 219380235 sector-6
+Found 37084932 sector-6
+Found 34077285 sector-6
+Found 237808867 sector-6
+Found 92013169 sector-6
+Found 167031605 sector-6
+Found 25334160 sector-6
+Found 437984134 sector-6
+Found 438295981 sector-6
+Found 284288080 sector-6
+Found 33690636 sector-6
+Found 66561343 sector-6
+Found 123958679 sector-6
+Found 42755801 sector-6
+Found 124543547 sector-6
+Found 177162886 sector-9
+Found 238197638 sector-9
+Found 261257684 sector-13
+Found 350153977 sector-13
+Found 369327947 sector-13
+Found 406941612 sector-12
+Found 407126408 sector-12
+Found 153027658 sector-4
+Found 259389219 sector-4
+Found 348844154 sector-9
+Found 207237016 sector-2
+Found 294869729 sector-9
+Found 150167117 sector-9
+Found 271722899 sector-10
+Found 278775625 sector-9
+Found 278199349 sector-10
+Found 301051430 sector-4
+Found 382068562 sector-9
+Found 300599466 sector-11
+Found 176796997 sector-4
+Found 261258875 sector-11
+Found 300557619 sector-10
+Found 175532955 sector-4
+Found 206474443 sector-4
+Found 260417932 sector-6
+Found 260130483 sector-9
+Found 220475245 sector-2
+Found 260476837 sector-12
+Found 278198753 sector-13
+Found 425163745 sector-5
+Found 67772767 sector-5
+Found 248434716 sector-5
+Found 408137826 sector-5
+Found 146520535 sector-5
+Found 399871011 sector-5
+Found 434234955 sector-5
+Found 167714792 sector-6
+Found 219205407 sector-6
+Found 262330063 sector-5
+Found 146438872 sector-5
+Found 189013222 sector-5
+Found 245947683 sector-5
+Found 449050247 sector-5
+Found 319312479 sector-5
+Found 449050248 sector-5
+Found 44792534 sector-4
+Found 146467675 sector-5
+Found 146434840 sector-5
+Found 249067445 sector-5
+Found 92880568 sector-5
+Found 279999655 sector-7
+Found 5109298 sector-7
+Found 265077027 sector-7
+Found 141776043 sector-7
+Found 25799609 sector-7
+Found 179155220 sector-7
+Found 179159972 sector-7
+Found 178367144 sector-7
+Found 445586472 sector-10
+Found 453209605 sector-7
+Found 280437559 sector-7
+Found 174599051 sector-7
+Found 177722855 sector-7
+Found 125894957 sector-7
+Found 409459226 sector-7
+Found 333821572 sector-7
+Found 133654092 sector-7
+Found 347098457 sector-7
+Found 268371979 sector-7
+Found 73038411 sector-7
+Found 5772442 sector-7
+Found 93594834 sector-7
+Found 127476180 sector-7
+Found 177126182 sector-7
+Found 148659924 sector-7
+Found 33091633 sector-7
+Found 425220920 sector-7
+Found 320536216 sector-7
+Found 52548453 sector-7
+Found 113553629 sector-7
+Found 207277638 sector-7
+Found 88684250 sector-7
+Found 7561203 sector-7
+Found 108835813 sector-7
+Found 259353953 sector-7
+Found 93963408 sector-7
+Found 317951248 sector-7
+Found 142918609 sector-7
+Found 341729521 sector-9
+Found 54390047 sector-7
+Found 341186896 sector-9
+Found 50365310 sector-7
+Found 88863718 sector-7
+Found 124709665 sector-7
+Found 106997505 sector-7
+Found 238597883 sector-9
+Found 169904935 sector-7
+Found 156115721 sector-7
+Found 65212867 sector-7
+Found 440801822 sector-7
+Found 107782586 sector-7
+Found 139853601 sector-7
+Found 114018671 sector-7
+Found 427508467 sector-7
+Found 97700520 sector-7
+Found 96246348 sector-6
+Found 155044736 sector-7
+Found 175310067 sector-7
+Found 182943944 sector-8
+Found 291555748 sector-9
+Found 341420329 sector-9
+Found 140706664 sector-9
+Found 143994283 sector-7
+Found 47384844 sector-9
+Found 238374636 sector-9
+Found 141482386 sector-9
+Found 297967252 sector-9
+Found 388624270 sector-9
+Found 20318757 sector-9
+Found 447283466 sector-9
+Found 374908020 sector-9
+Found 464296022 sector-9
+Found 304021498 sector-9
+Found 146589986 sector-9
+Found 149601557 sector-9
+Found 400595342 sector-9
+Found 361413119 sector-9
+Found 146172354 sector-9
+Found 363260203 sector-9
+Found 90544017 sector-9
+Found 461867584 sector-9
+Found 310483807 sector-9
+Found 385624852 sector-9
+Found 360286627 sector-9
+Found 90448944 sector-9
+Found 463402815 sector-9
+Found 54044474 sector-9
+Found 309787037 sector-9
+Found 370745311 sector-9
+Found 384549882 sector-9
+Found 112395568 sector-13
+Found 320004517 sector-13
+Found 421894914 sector-13
+Found 323132914 sector-12
+Found 380783252 sector-13
+Found 253990973 sector-13
+Found 299799658 sector-13
+Found 406976746 sector-13
+Found 201642601 sector-13
+Found 6663331 sector-13
+Found 31858843 sector-13
+Found 31858844 sector-13
+Found 120247528 sector-13
+Found 140830390 sector-9
+Found 327301957 sector-13
+Found 360742636 sector-13
+Found 369960846 sector-13
+Found 370133522 sector-13
+Found 261108236 sector-13
+Found 380589029 sector-13
+Found 381979901 sector-9
+Found 468148930 sector-13
+Found 426077080 sector-12
+Found 343648136 sector-12
+Found 129319156 sector-12
+Found 361034196 sector-12
+Found 193413306 sector-12
+Found 387079085 sector-12
+Found 382331352 sector-12
+Found 136274063 sector-12
+Found 375223080 sector-10
+Found 375225453 sector-12
+Found 360630575 sector-12
+Found 383390264 sector-13
+Found 290348383 sector-13
+Found 318608749 sector-13
+Found 271581073 sector-13
+Found 311890977 sector-12
+Found 351603103 sector-13
+Found 451599528 sector-12
+Found 274151135 sector-13
+Found 384513078 sector-13
+Found 394561119 sector-11
+Found 295599256 sector-13
+Found 50309953 sector-13
+Found 446549905 sector-13
+Found 412014494 sector-13
+Found 369864738 sector-12
+Found 290348382 sector-13
+Found 409934330 sector-13
+Found 379286801 sector-13
+Found 304100538 sector-13
+Found 295541511 sector-13
+Found 90919952 sector-13
+Found 261369656 sector-13
+Found 143257766 sector-13
+Found 24094603 sector-13
+Found 304774444 sector-13
+Found 469782185 sector-13
+Found 128790976 sector-13
+Found 80166433 sector-13
+Found 405862830 sector-13
+Found 269450900 sector-13
+Found 425721385 sector-13
+Found 91576611 sector-13
+Found 254113311 sector-13
+Found 198213332 sector-18
+Found 267489265 sector-15
+Found 69997672 sector-14
+Found 122220263 sector-14
+Found 154872375 sector-20
+Found 142276270 sector-15
+Found 89389197 sector-14
+Found 110428269 sector-14
+Found 202563254 sector-15
+Found 320525204 sector-18
+Found 159510109 sector-18
+Found 284450803 sector-15
+Found 160268701 sector-20
+Found 28230919 sector-15
+Found 350995812 sector-14
+Found 21755546 sector-14
+Found 288391628 sector-18
+Found 349827430 sector-20
+Found 117789567 sector-14
+Found 16740101 sector-15
+Found 69679391 sector-14
+Found 237184773 sector-14
+Found 154840461 sector-20
+Found 459970307 sector-18
+Found 161450762 sector-15
+Found 117256577 sector-14
+Found 147576037 sector-20
+Found 379931600 sector-14
+Found 48188920 sector-14
+Found 89510024 sector-14
+Found 158324245 sector-15
+Found 13419950 sector-15
+Found 375542276 sector-14
+Found 16102323 sector-15
+Found 458478250 sector-15
+Found 138361973 sector-14
+Found 232967666 sector-15
+Found 41330864 sector-15
+Found 302518439 sector-20
+Found 294176967 sector-15
+Found 101929303 sector-14
+Found 1717732429 sector-15
+Found 232967440 sector-15
+Found 154089169 sector-15
+Found 30329585 sector-14
+Found 230088370 sector-18
+Found 169177766 sector-15
+Found 359496368 sector-18
+Found 148914726 sector-15
+Found 158002130 sector-20
+Found 229510866 sector-18
+Found 341544930 sector-15
+Found 258777137 sector-18
+Found 233087860 sector-18
+Found 83210867 sector-14
+Found 289539327 sector-18
+Found 372757221 sector-20
+Found 15247229 sector-15
+Found 112026224 sector-14
+Found 287196418 sector-23
+Found 237185205 sector-14
+Found 158276040 sector-14
+Found 89643259 sector-14
+Found 147950620 sector-20
+Found 24364065 sector-14
+Found 69068526 sector-14
+Found 92677094 sector-14
+Found 203189770 sector-15
+Found 99869022 sector-14
+Found 288185138 sector-19
+Found 399144800 sector-11
+Found 150428703 sector-10
+Found 177115354 sector-12
+Found 140760434 sector-9
+Found 287156968 sector-13
+Found 447061717 sector-10
+Found 364395234 sector-9
+Found 103633434 sector-21
+Found 120757718 sector-14
+Found 153951307 sector-15
+Found 154716798 sector-20
+Found 159107668 sector-15
+Found 198212955 sector-18
+Found 219850915 sector-23
+Found 229781583 sector-18
+Found 230127302 sector-23
+Found 232540264 sector-20
+Found 232612416 sector-15
+Found 232976128 sector-15
+Found 233120979 sector-18
+Found 233211762 sector-18
+Found 233684822 sector-18
+Found 236714379 sector-18
+Found 237222864 sector-15
+Found 278348461 sector-14
+Found 288132261 sector-20
+Found 288735205 sector-18
+Found 416195870 sector-15
+Found 424865156 sector-15
+Found 467179528 sector-22
+Found 158561566 sector-15
+Found 142394656 sector-15
+Found 198241702 sector-15
+Found 237200747 sector-18
+Found 286923464 sector-15
+Found 417948359 sector-15
+Found 445859771 sector-15
+Found 459969957 sector-18
+Found 153949511 sector-21
+Found 224297258 sector-22
+Found 230017324 sector-18
+Found 232971294 sector-20
+Found 236445129 sector-15
+Found 267561446 sector-17
+Found 274662200 sector-16
+Found 277507814 sector-15
+Found 365733349 sector-18
+Found 198186769 sector-18
+Found 199688472 sector-18
+Found 202504234 sector-15
+Found 219015370 sector-15
+Found 219852584 sector-18
+Found 219854185 sector-18
+Found 229536616 sector-15
+Found 237104103 sector-18
+Found 258777134 sector-18
+Found 293687315 sector-15
+Found 356867115 sector-18
+Found 441797803 sector-18
+Found 185405474 sector-15
+Found 186000935 sector-15
+Found 232679662 sector-15
+Found 233735068 sector-18
+Found 236815160 sector-18
+Found 277014266 sector-15
+Found 287190564 sector-15
+Found 294179389 sector-15
+Found 378159598 sector-15
+Found 405904232 sector-15
+Found 11111899 sector-15
+Found 136848581 sector-16
+Found 137284119 sector-16
+Found 15565627 sector-15
+Found 195199644 sector-15
+Found 240450679 sector-16
+Found 266688542 sector-16
+Found 274942910 sector-16
+Found 312083267 sector-15
+Found 330332501 sector-16
+Found 345996087 sector-16
+Found 357457104 sector-16
+Found 387664866 sector-16
+Found 387664868 sector-16
+Found 395171208 sector-16
+Found 42123111 sector-15
+Found 89759617 sector-15
+Found 92783821 sector-15
+Found 160708862 sector-11
+Found 260128333 sector-9
+Found 269701147 sector-18
+Found 233681149 sector-18
+Found 233390838 sector-15
+Found 256621916 sector-15
+Found 358631536 sector-16
+Found 1400770435 sector-18
+Found 160487753 sector-16
+Found 219852882 sector-18
+Found 229747848 sector-20
+Found 229770036 sector-23
+Found 272635712 sector-16
+Found 233953967 sector-14
+Found 1718201850 sector-18
+Found 336740528 sector-17
+Found 279177746 sector-16
+Found 365683032 sector-16
+Found 372264750 sector-18
+Found 277566483 sector-16
+Found 357972447 sector-16
+Found 275501623 sector-17
+Found 416624606 sector-15
+Found 330468175 sector-16
+Found 277447970 sector-15
+Found 395142888 sector-17
+Found 230017325 sector-18
+Found 26880783 sector-16
+Found 367099243 sector-18
+Found 120602501 sector-16
+Found 129539786 sector-16
+Found 136971594 sector-16
+Found 155005217 sector-16
+Found 155114483 sector-17
+Found 162130054 sector-16
+Found 164150539 sector-16
+Found 176899385 sector-17
+Found 190430205 sector-16
+Found 190442486 sector-16
+Found 190743990 sector-16
+Found 240613164 sector-16
+Found 249812036 sector-17
+Found 252490659 sector-16
+Found 274170255 sector-16
+Found 275722992 sector-16
+Found 276360911 sector-16
+Found 313506357 sector-17
+Found 328167090 sector-17
+Found 329864959 sector-17
+Found 343019899 sector-16
+Found 343442463 sector-17
+Found 346338552 sector-16
+Found 353038705 sector-16
+Found 365389353 sector-16
+Found 389182138 sector-17
+Found 416987878 sector-16
+Found 430528566 sector-17
+Found 431156009 sector-17
+Found 468472950 sector-16
+Found 468845640 sector-17
+Found 64553698 sector-17
+Found 66445643 sector-17
+Found 66783360 sector-17
+Found 258801269 sector-18
+Found 259126549 sector-18
+Found 259129875 sector-18
+Found 328750515 sector-17
+Found 352239069 sector-23
+Found 387834907 sector-18
+Found 231736113 sector-6
+Found 364186197 sector-18
+Found 115771549 sector-16
+Found 199444169 sector-16
+Found 116483514 sector-16
+Found 116483734 sector-16
+Found 125442121 sector-16
+Found 158025009 sector-16
+Found 311035838 sector-16
+Found 321857016 sector-18
+Found 329277372 sector-17
+Found 333473672 sector-17
+Found 346418409 sector-16
+Found 350132371 sector-18
+Found 128501004 sector-16
+Found 2041563029 sector-17
+Found 377304435 sector-23
+Found 293954617 sector-15
+Found 375506058 sector-15
+Found 256783784 sector-16
+Found 13684720 sector-15
+Found 138588540 sector-21
+Found 198356533 sector-20
+Found 229650439 sector-18
+Found 232982558 sector-23
+Found 235683377 sector-18
+Found 237232044 sector-18
+Found 258514800 sector-19
+Found 259172391 sector-23
+Found 417931607 sector-21
+Found 198390247 sector-23
+Found 294179385 sector-15
+Found 387259626 sector-18
+Found 199376584 sector-15
+Found 176860064 sector-17
+Found 191284318 sector-17
+Found 17005768 sector-17
+Found 44631965 sector-17
+Found 190998418 sector-17
+Found 229944666 sector-23
+Found 236887394 sector-18
+Found 237086564 sector-17
+Found 240968774 sector-18
+Found 243185500 sector-17
+Found 283722336 sector-17
+Found 306955329 sector-17
+Found 432549364 sector-17
+Found 240681314 sector-17
+Found 409794137 sector-7
+Found 421308357 sector-15
+Found 335483600 sector-18
+Found 197650870 sector-17
+Found 252616865 sector-17
+Found 452803785 sector-17
+Found 67309890 sector-17
+Found 377191482 sector-17
+Found 233541860 sector-18
+Found 459978312 sector-17
+Found 198457103 sector-17
+Found 219751469 sector-17
+Found 283474780 sector-17
+Found 53875855 sector-17
+Found 354594208 sector-17
+Found 15692883 sector-17
+Found 411608801 sector-17
+Found 431148743 sector-17
+Found 384045439 sector-17
+Found 371673488 sector-17
+Found 316402246 sector-15
+Found 414870287 sector-17
+Found 377420580 sector-17
+Found 329145325 sector-17
+Found 410528770 sector-17
+Found 428065977 sector-17
+Found 326114850 sector-17
+Found 331034236 sector-17
+Found 64836837 sector-17
+Found 430677414 sector-17
+Found 415741431 sector-17
+Found 272828463 sector-18
+Found 377739433 sector-18
+Found 376682699 sector-18
+Found 434718964 sector-18
+Found 269509393 sector-17
+Found 270238522 sector-18
+Found 470709084 sector-18
+Found 376637093 sector-18
+Found 455962313 sector-18
+Found 427761355 sector-18
+Found 272049972 sector-18
+Found 269238073 sector-18
+Found 366074069 sector-18
+Found 367102581 sector-18
+Found 387413037 sector-18
+Found 314338017 sector-17
+Found 276380902 sector-17
+Found 313761775 sector-17
+Found 202375913 sector-17
+Found 285543785 sector-18
+Found 312259170 sector-18
+Found 312469860 sector-18
+Found 312678993 sector-18
+Found 327579226 sector-18
+Found 345143460 sector-17
+Found 354600221 sector-18
+Found 420288086 sector-18
+Found 445137888 sector-18
+Found 173612049 sector-17
+Found 177244357 sector-17
+Found 252636888 sector-17
+Found 318746829 sector-17
+Found 319068154 sector-17
+Found 367607434 sector-17
+Found 431585347 sector-17
+Found 455791689 sector-17
+Found 127425841 sector-17
+Found 194203348 sector-17
+Found 409520860 sector-17
+Found 440100539 sector-17
+Found 191146556 sector-17
+Found 241065596 sector-18
+Found 288348498 sector-17
+Found 326919774 sector-18
+Found 327341626 sector-18
+Found 299158887 sector-15
+Found 441732151 sector-18
+Found 405794804 sector-18
+Found 320506985 sector-18
+Found 117322779 sector-18
+Found 241040309 sector-18
+Found 241076290 sector-18
+Found 245462406 sector-18
+Found 249862365 sector-18
+Found 249945230 sector-18
+Found 250724252 sector-18
+Found 251384275 sector-18
+Found 256414077 sector-18
+Found 259151170 sector-18
+Found 284050395 sector-18
+Found 285666479 sector-18
+Found 285674856 sector-18
+Found 285677945 sector-18
+Found 292321872 sector-18
+Found 302773669 sector-18
+Found 307111282 sector-18
+Found 316254876 sector-18
+Found 327011842 sector-18
+Found 332154944 sector-18
+Found 348135793 sector-18
+Found 354400186 sector-18
+Found 354469661 sector-18
+Found 370759867 sector-18
+Found 374400599 sector-18
+Found 403256331 sector-18
+Found 418987806 sector-18
+Found 444415148 sector-18
+Found 445144327 sector-18
+Found 458914949 sector-18
+Found 50120414 sector-18
+Found 52041724 sector-18
+Found 71854745 sector-18
+Found 82010657 sector-18
+Found 186599508 sector-18
+Found 192372961 sector-18
+Found 201154493 sector-18
+Found 385105624 sector-18
+Found 431899140 sector-18
+Found 68152139 sector-18
+Found 67418624 sector-18
+Found 129979528 sector-18
+Found 187029841 sector-18
+Found 139375960 sector-18
+Found 129991079 sector-18
+Found 73448352 sector-18
+Found 118301361 sector-18
+Found 101037590 sector-18
+Found 125735470 sector-18
+Found 26433869 sector-18
+Found 138017750 sector-18
+Found 229951289 sector-18
+Found 219776325 sector-18
+Found 264678534 sector-18
+Found 268403451 sector-18
+Found 272625214 sector-18
+Found 317397615 sector-18
+Found 317507345 sector-18
+Found 322054600 sector-18
+Found 322202434 sector-18
+Found 376838000 sector-18
+Found 377144784 sector-18
+Found 378291076 sector-18
+Found 387260717 sector-18
+Found 388076005 sector-18
+Found 407394748 sector-18
+Found 461387302 sector-18
+Found 470852531 sector-18
+Found 157586003 sector-14
+Found 424435940 sector-14
+Found 284475976 sector-15
+Found 310003988 sector-23
+Found 317597583 sector-18
+Found 201186294 sector-18
+Found 230086768 sector-19
+Found 269892793 sector-18
+Found 286355915 sector-18
+Found 312862941 sector-18
+Found 229940491 sector-23
+Found 298647682 sector-21
+Found 22843856 sector-18
+Found 184679932 sector-18
+Found 154927364 sector-20
+Found 376353509 sector-18
+Found 116608612 sector-19
+Found 122485078 sector-19
+Found 138168780 sector-20
+Found 154867950 sector-20
+Found 156724719 sector-19
+Found 258829450 sector-20
+Found 266500992 sector-19
+Found 267694283 sector-19
+Found 27677846 sector-19
+Found 286561122 sector-19
+Found 288631580 sector-19
+Found 311121985 sector-19
+Found 312122956 sector-19
+Found 339538183 sector-20
+Found 353367071 sector-19
+Found 353782445 sector-23
+Found 354006740 sector-19
+Found 368536386 sector-19
+Found 409183335 sector-19
+Found 417705690 sector-19
+Found 428679607 sector-20
+Found 441739020 sector-23
+Found 459903429 sector-19
+Found 468828873 sector-20
+Found 470315428 sector-19
+Found 73104318 sector-19
+Found 81831095 sector-18
+Found 8400842 sector-19
+Found 87090944 sector-19
+Found 96291218 sector-19
+Found 9837861 sector-19
+Found 321041369 sector-19
+Found 367366318 sector-19
+Found 58542531 sector-19
+Found 85031598 sector-19
+Found 121966220 sector-19
+Found 396740648 sector-20
+Found 1884091865 sector-18
+Found 137500798 sector-20
+Found 230377505 sector-23
+Found 445805961 sector-20
+Found 461662295 sector-20
+Found 142090065 sector-20
+Found 14336130 sector-20
+Found 149833117 sector-20
+Found 293617835 sector-20
+Found 51234631 sector-20
+Found 85242435 sector-20
+Found 71431780 sector-20
+Found 81212286 sector-20
+Found 285048486 sector-20
+Found 470987100 sector-20
+Found 53427308 sector-20
+Found 233009109 sector-23
+Found 219857012 sector-21
+Found 232635922 sector-22
+Found 233071926 sector-18
+Found 233602827 sector-21
+Found 237099296 sector-23
+Found 289580577 sector-23
+Found 332477926 sector-20
+Found 364074068 sector-20
+Found 367753709 sector-20
+Found 367858035 sector-18
+Found 441739871 sector-22
+Found 272672133 sector-15
+Found 67666096 sector-21
+Found 8767448 sector-21
+Found 137906197 sector-21
+Found 287225295 sector-21
+Found 457138169 sector-21
+Found 252479260 sector-21
+Found 85293053 sector-21
+Found 9348006 sector-21
+Found 67646988 sector-21
+Found 99834717 sector-14
+Found 137881699 sector-21
+Found 160045097 sector-20
+Found 230386259 sector-23
+Found 86280613 sector-20
+Found 372730331 sector-21
+Found 450327768 sector-21
+Found 172518755 sector-21
+Found 310981412 sector-21
+Found 233684293 sector-21
+Found 29191596 sector-21
+Found 304142124 sector-10
+Skipped 231663901 ('sector-1', 'cam2', 'ccd4')
+Skipped 231670397 ('sector-1', 'cam2', 'ccd4')
+Skipped 144065872 ('sector-1', 'cam2', 'ccd3')
+Skipped 355703913 ('sector-1', 'cam3', 'ccd1')
+Skipped 281541555 ('sector-1', 'cam2', 'ccd2')
+Skipped 238176110 ('sector-1', 'cam3', 'ccd2')
+Skipped 231702397 ('sector-1', 'cam2', 'ccd1')
+Skipped 235037761 ('sector-1', 'cam3', 'ccd1')
+Skipped 89020549 ('sector-1', 'cam2', 'ccd3')
+Skipped 219338557 ('sector-1', 'cam2', 'ccd2')
+Skipped 267263253 ('sector-1', 'cam3', 'ccd2')
+Skipped 410153553 ('sector-1', 'cam3', 'ccd2')
+Skipped 176957796 ('sector-1', 'cam4', 'ccd3')
+Skipped 277683130 ('sector-1', 'cam2', 'ccd1')
+Skipped 140068425 ('sector-1', 'cam2', 'ccd4')
+Skipped 403224672 ('sector-1', 'cam2', 'ccd1')
+Skipped 265612438 ('sector-1', 'cam2', 'ccd4')
+Skipped 403287048 ('sector-1', 'cam2', 'ccd1')
+Skipped 220518305 ('sector-1', 'cam3', 'ccd4')
+Skipped 403136413 ('sector-1', 'cam2', 'ccd4')
+Skipped 79395355 ('sector-1', 'cam2', 'ccd4')
+Skipped 251848941 ('sector-2', 'cam2', 'ccd3')
+Skipped 51912829 ('sector-1', 'cam3', 'ccd1')
+Skipped 76989773 ('sector-2', 'cam1', 'ccd1')
+Skipped 183979262 ('sector-1', 'cam3', 'ccd3')
+Skipped 100100827 ('sector-2', 'cam2', 'ccd2')
+Skipped 279741379 ('sector-1', 'cam3', 'ccd4')
+Skipped 280830734 ('sector-1', 'cam3', 'ccd4')
+Skipped 309792357 ('sector-1', 'cam4', 'ccd4')
+Skipped 410214986 ('sector-1', 'cam3', 'ccd2')
+Skipped 259962054 ('sector-1', 'cam3', 'ccd4')
+Skipped 281781375 ('sector-1', 'cam3', 'ccd1')
+Skipped 281575427 ('sector-1', 'cam3', 'ccd1')
+Skipped 55650590 ('sector-1', 'cam4', 'ccd1')
+Skipped 206609630 ('sector-1', 'cam3', 'ccd1')
+Skipped 231912935 ('sector-1', 'cam3', 'ccd1')
+Skipped 316937670 ('sector-1', 'cam2', 'ccd2')
+Skipped 144440290 ('sector-2', 'cam2', 'ccd4')
+Skipped 326453034 ('sector-2', 'cam1', 'ccd4')
+Skipped 70797900 ('sector-2', 'cam1', 'ccd2')
+Skipped 47525799 ('sector-2', 'cam1', 'ccd4')
+Skipped 47484268 ('sector-2', 'cam1', 'ccd4')
+Skipped 160074939 ('sector-2', 'cam1', 'ccd1')
+Skipped 402026209 ('sector-2', 'cam2', 'ccd4')
+Skipped 415969908 ('sector-2', 'cam1', 'ccd4')
+Skipped 305048087 ('sector-2', 'cam1', 'ccd1')
+Skipped 9006668 ('sector-2', 'cam1', 'ccd4')
+Skipped 120585579 ('sector-2', 'cam2', 'ccd3')
+Skipped 118327550 ('sector-2', 'cam2', 'ccd3')
+Skipped 154618248 ('sector-2', 'cam1', 'ccd1')
+Skipped 201793781 ('sector-2', 'cam3', 'ccd1')
+Skipped 179985715 ('sector-2', 'cam2', 'ccd3')
+Skipped 224225541 ('sector-2', 'cam2', 'ccd4')
+Skipped 237924601 ('sector-1', 'cam4', 'ccd1')
+Skipped 322063810 ('sector-2', 'cam2', 'ccd2')
+Skipped 49687222 ('sector-2', 'cam1', 'ccd3')
+Skipped 92226327 ('sector-3', 'cam1', 'ccd1')
+Skipped 12862099 ('sector-3', 'cam1', 'ccd4')
+Skipped 37749396 ('sector-3', 'cam1', 'ccd4')
+Skipped 63898957 ('sector-3', 'cam1', 'ccd1')
+Skipped 70513361 ('sector-3', 'cam2', 'ccd3')
+Skipped 164767175 ('sector-3', 'cam1', 'ccd2')
+Skipped 166836920 ('sector-3', 'cam3', 'ccd2')
+Skipped 220479565 ('sector-4', 'cam3', 'ccd4')
+Skipped 268766053 ('sector-3', 'cam2', 'ccd3')
+Skipped 281979481 ('sector-10', 'cam3', 'ccd4')
+Skipped 244161191 ('sector-3', 'cam1', 'ccd4')
+Skipped 42054565 ('sector-3', 'cam2', 'ccd1')
+Skipped 29781292 ('sector-1', 'cam4', 'ccd1')
+Skipped 220459976 ('sector-2', 'cam4', 'ccd1')
+Skipped 47316976 ('sector-2', 'cam1', 'ccd1')
+Skipped 201233610 ('sector-2', 'cam2', 'ccd1')
+Skipped 49710555 ('sector-2', 'cam1', 'ccd3')
+Skipped 180285396 ('sector-2', 'cam2', 'ccd3')
+Skipped 327952677 ('sector-2', 'cam1', 'ccd3')
+Skipped 382463648 ('sector-2', 'cam2', 'ccd4')
+Skipped 206686292 ('sector-2', 'cam1', 'ccd1')
+Skipped 156075294 ('sector-2', 'cam2', 'ccd2')
+Skipped 144301052 ('sector-2', 'cam2', 'ccd4')
+Skipped 229111835 ('sector-2', 'cam2', 'ccd2')
+Skipped 262530873 ('sector-2', 'cam2', 'ccd2')
+Skipped 102030574 ('sector-2', 'cam2', 'ccd2')
+Skipped 114749636 ('sector-2', 'cam1', 'ccd2')
+Skipped 9100874 ('sector-2', 'cam1', 'ccd4')
+Skipped 228507250 ('sector-2', 'cam1', 'ccd3')
+Skipped 175477257 ('sector-2', 'cam2', 'ccd4')
+Skipped 434105231 ('sector-2', 'cam1', 'ccd3')
+Skipped 180145006 ('sector-2', 'cam2', 'ccd3')
+Skipped 66356824 ('sector-2', 'cam2', 'ccd3')
+Skipped 8988289 ('sector-2', 'cam1', 'ccd3')
+Skipped 402319411 ('sector-2', 'cam1', 'ccd3')
+Skipped 206352378 ('sector-1', 'cam2', 'ccd2')
+Skipped 389753172 ('sector-1', 'cam2', 'ccd3')
+Skipped 188593930 ('sector-2', 'cam1', 'ccd4')
+Skipped 175476629 ('sector-2', 'cam2', 'ccd4')
+Skipped 251852984 ('sector-2', 'cam2', 'ccd3')
+Skipped 156002449 ('sector-2', 'cam2', 'ccd1')
+Skipped 206669860 ('sector-2', 'cam1', 'ccd1')
+Skipped 139357541 ('sector-2', 'cam2', 'ccd4')
+Skipped 27966179 ('sector-2', 'cam1', 'ccd2')
+Skipped 262531275 ('sector-2', 'cam2', 'ccd2')
+Skipped 224245334 ('sector-2', 'cam2', 'ccd4')
+Skipped 41865539 ('sector-2', 'cam2', 'ccd2')
+Skipped 69838258 ('sector-2', 'cam1', 'ccd4')
+Skipped 80439101 ('sector-2', 'cam2', 'ccd2')
+Skipped 33911302 ('sector-2', 'cam1', 'ccd2')
+Skipped 415969574 ('sector-2', 'cam1', 'ccd4')
+Skipped 66497310 ('sector-2', 'cam1', 'ccd3')
+Skipped 308208458 ('sector-2', 'cam2', 'ccd3')
+Skipped 118327533 ('sector-2', 'cam2', 'ccd3')
+Skipped 224271611 ('sector-2', 'cam2', 'ccd4')
+Skipped 70785910 ('sector-2', 'cam1', 'ccd2')
+Skipped 199731190 ('sector-2', 'cam2', 'ccd2')
+Skipped 228381868 ('sector-2', 'cam1', 'ccd3')
+Skipped 100099031 ('sector-2', 'cam2', 'ccd2')
+Skipped 100097716 ('sector-2', 'cam2', 'ccd2')
+Skipped 369336146 ('sector-2', 'cam2', 'ccd3')
+Skipped 220016044 ('sector-2', 'cam3', 'ccd1')
+Skipped 321982642 ('sector-2', 'cam2', 'ccd1')
+Skipped 80432617 ('sector-2', 'cam2', 'ccd2')
+Skipped 13023738 ('sector-2', 'cam1', 'ccd1')
+Skipped 305048116 ('sector-2', 'cam1', 'ccd1')
+Skipped 262530780 ('sector-2', 'cam2', 'ccd2')
+Skipped 47425697 ('sector-2', 'cam1', 'ccd4')
+Skipped 118586896 ('sector-2', 'cam2', 'ccd3')
+Skipped 251878904 ('sector-2', 'cam2', 'ccd3')
+Skipped 77031413 ('sector-2', 'cam1', 'ccd1')
+Skipped 251855940 ('sector-2', 'cam2', 'ccd3')
+Skipped 156016136 ('sector-2', 'cam2', 'ccd1')
+Skipped 441075486 ('sector-2', 'cam1', 'ccd3')
+Skipped 9032368 ('sector-2', 'cam1', 'ccd3')
+Skipped 183675732 ('sector-2', 'cam2', 'ccd4')
+Skipped 144301273 ('sector-2', 'cam2', 'ccd4')
+Skipped 100014359 ('sector-2', 'cam2', 'ccd2')
+Skipped 229091748 ('sector-2', 'cam2', 'ccd1')
+Skipped 155995204 ('sector-2', 'cam2', 'ccd1')
+Skipped 120896927 ('sector-3', 'cam2', 'ccd3')
+Skipped 166833457 ('sector-4', 'cam2', 'ccd2')
+Skipped 100990000 ('sector-3', 'cam3', 'ccd1')
+Skipped 43647325 ('sector-5', 'cam1', 'ccd2')
+Skipped 259592689 ('sector-3', 'cam3', 'ccd4')
+Skipped 38686737 ('sector-5', 'cam2', 'ccd4')
+Skipped 78055054 ('sector-5', 'cam3', 'ccd1')
+Skipped 44745077 ('sector-4', 'cam2', 'ccd2')
+Skipped 32499655 ('sector-5', 'cam2', 'ccd2')
+Skipped 13021029 ('sector-5', 'cam2', 'ccd2')
+Skipped 117979897 ('sector-5', 'cam2', 'ccd3')
+Skipped 1528696 ('sector-5', 'cam2', 'ccd2')
+Skipped 77951245 ('sector-5', 'cam3', 'ccd1')
+Skipped 153077621 ('sector-3', 'cam3', 'ccd1')
+Skipped 4616072 ('sector-6', 'cam2', 'ccd2')
+Skipped 33521996 ('sector-6', 'cam2', 'ccd1')
+Skipped 59843967 ('sector-6', 'cam2', 'ccd2')
+Skipped 100608026 ('sector-5', 'cam3', 'ccd1')
+Skipped 365639282 ('sector-6', 'cam1', 'ccd4')
+Skipped 427348923 ('sector-6', 'cam1', 'ccd1')
+Skipped 427352241 ('sector-6', 'cam1', 'ccd1')
+Skipped 468987719 ('sector-7', 'cam1', 'ccd3')
+Skipped 108645766 ('sector-7', 'cam2', 'ccd2')
+Skipped 274138511 ('sector-7', 'cam1', 'ccd4')
+Skipped 348538431 ('sector-7', 'cam2', 'ccd3')
+Skipped 119292328 ('sector-6', 'cam3', 'ccd1')
+Skipped 308307606 ('sector-1', 'cam4', 'ccd3')
+Skipped 264979636 ('sector-7', 'cam1', 'ccd4')
+Skipped 148479278 ('sector-6', 'cam3', 'ccd1')
+Skipped 27649847 ('sector-7', 'cam1', 'ccd3')
+Skipped 93125144 ('sector-6', 'cam2', 'ccd1')
+Skipped 365690646 ('sector-6', 'cam1', 'ccd4')
+Skipped 200593988 ('sector-6', 'cam1', 'ccd4')
+Skipped 148228019 ('sector-6', 'cam3', 'ccd1')
+Skipped 403693875 ('sector-6', 'cam1', 'ccd3')
+Skipped 387690507 ('sector-6', 'cam1', 'ccd3')
+Skipped 144700903 ('sector-6', 'cam1', 'ccd4')
+Skipped 234112540 ('sector-6', 'cam1', 'ccd2')
+Skipped 200322593 ('sector-4', 'cam3', 'ccd4')
+Skipped 50618703 ('sector-6', 'cam1', 'ccd1')
+Skipped 36440357 ('sector-6', 'cam1', 'ccd2')
+Skipped 36352297 ('sector-6', 'cam1', 'ccd2')
+Skipped 42821097 ('sector-6', 'cam1', 'ccd2')
+Skipped 161477033 ('sector-4', 'cam3', 'ccd4')
+Skipped 59003115 ('sector-5', 'cam1', 'ccd4')
+Skipped 55488511 ('sector-5', 'cam2', 'ccd4')
+Skipped 1133072 ('sector-8', 'cam2', 'ccd1')
+Skipped 13349647 ('sector-8', 'cam1', 'ccd1')
+Skipped 315002523 ('sector-8', 'cam2', 'ccd3')
+Skipped 386435344 ('sector-8', 'cam2', 'ccd4')
+Skipped 423275733 ('sector-8', 'cam2', 'ccd3')
+Skipped 30828562 ('sector-8', 'cam3', 'ccd1')
+Skipped 33153766 ('sector-9', 'cam3', 'ccd2')
+Skipped 35009898 ('sector-9', 'cam1', 'ccd4')
+Skipped 36734222 ('sector-9', 'cam1', 'ccd1')
+Skipped 48103627 ('sector-9', 'cam2', 'ccd1')
+Skipped 82128636 ('sector-8', 'cam3', 'ccd1')
+Skipped 219187649 ('sector-9', 'cam1', 'ccd2')
+Skipped 339857675 ('sector-7', 'cam3', 'ccd4')
+Skipped 320417762 ('sector-7', 'cam1', 'ccd4')
+Skipped 77253676 ('sector-4', 'cam3', 'ccd1')
+Skipped 149302744 ('sector-1', 'cam4', 'ccd4')
+Skipped 237914496 ('sector-1', 'cam4', 'ccd1')
+Skipped 237928815 ('sector-2', 'cam3', 'ccd4')
+Skipped 391904697 ('sector-1', 'cam4', 'ccd2')
+Skipped 167342439 ('sector-1', 'cam4', 'ccd3')
+Skipped 309402106 ('sector-1', 'cam4', 'ccd3')
+Skipped 38510224 ('sector-1', 'cam4', 'ccd1')
+Skipped 150247134 ('sector-1', 'cam4', 'ccd4')
+Skipped 174143743 ('sector-7', 'cam3', 'ccd1')
+Skipped 149788158 ('sector-8', 'cam1', 'ccd1')
+Skipped 144138509 ('sector-9', 'cam1', 'ccd3')
+Skipped 34068865 ('sector-9', 'cam3', 'ccd1')
+Skipped 36724087 ('sector-9', 'cam1', 'ccd1')
+Skipped 106402532 ('sector-9', 'cam2', 'ccd2')
+Skipped 150271680 ('sector-1', 'cam4', 'ccd4')
+Skipped 359271092 ('sector-9', 'cam3', 'ccd4')
+Skipped 444842193 ('sector-9', 'cam3', 'ccd1')
+Skipped 15445551 ('sector-10', 'cam2', 'ccd2')
+Skipped 14661418 ('sector-10', 'cam1', 'ccd1')
+Skipped 61538902 ('sector-10', 'cam2', 'ccd4')
+Skipped 72985822 ('sector-10', 'cam2', 'ccd3')
+Skipped 73228647 ('sector-10', 'cam2', 'ccd3')
+Skipped 73649615 ('sector-10', 'cam2', 'ccd3')
+Skipped 130924120 ('sector-10', 'cam1', 'ccd2')
+Skipped 165317334 ('sector-10', 'cam2', 'ccd4')
+Skipped 178709444 ('sector-10', 'cam2', 'ccd1')
+Skipped 178819686 ('sector-10', 'cam2', 'ccd3')
+Skipped 181159386 ('sector-10', 'cam2', 'ccd4')
+Skipped 219401954 ('sector-4', 'cam3', 'ccd4')
+Skipped 229811538 ('sector-10', 'cam1', 'ccd3')
+Skipped 248111245 ('sector-10', 'cam2', 'ccd3')
+Skipped 277634430 ('sector-10', 'cam3', 'ccd4')
+Skipped 294301883 ('sector-10', 'cam1', 'ccd3')
+Skipped 304042899 ('sector-10', 'cam3', 'ccd1')
+Skipped 306996324 ('sector-10', 'cam2', 'ccd4')
+Skipped 413376180 ('sector-10', 'cam1', 'ccd1')
+Skipped 429358906 ('sector-10', 'cam1', 'ccd4')
+Skipped 451645081 ('sector-10', 'cam2', 'ccd2')
+Skipped 374829238 ('sector-2', 'cam4', 'ccd1')
+Skipped 375059587 ('sector-1', 'cam4', 'ccd3')
+Skipped 349829627 ('sector-1', 'cam4', 'ccd3')
+Skipped 300710077 ('sector-1', 'cam4', 'ccd3')
+Skipped 308994098 ('sector-1', 'cam4', 'ccd3')
+Skipped 306472057 ('sector-1', 'cam4', 'ccd3')
+Skipped 294780517 ('sector-1', 'cam4', 'ccd1')
+Skipped 300013921 ('sector-1', 'cam4', 'ccd3')
+Skipped 278895705 ('sector-1', 'cam4', 'ccd4')
+Skipped 277099925 ('sector-1', 'cam4', 'ccd1')
+Skipped 260640693 ('sector-1', 'cam4', 'ccd4')
+Skipped 255685030 ('sector-2', 'cam4', 'ccd4')
+Skipped 177258735 ('sector-1', 'cam4', 'ccd2')
+Skipped 167303382 ('sector-1', 'cam4', 'ccd3')
+Skipped 143526444 ('sector-7', 'cam2', 'ccd3')
+Skipped 41227743 ('sector-1', 'cam4', 'ccd2')
+Skipped 38460940 ('sector-1', 'cam4', 'ccd1')
+Skipped 33831980 ('sector-1', 'cam3', 'ccd3')
+Skipped 30853470 ('sector-1', 'cam4', 'ccd1')
+Skipped 30122649 ('sector-8', 'cam3', 'ccd1')
+Skipped 149301575 ('sector-1', 'cam4', 'ccd4')
+Skipped 388106759 ('sector-1', 'cam4', 'ccd1')
+Skipped 55525572 ('sector-1', 'cam4', 'ccd1')
+Skipped 73717937 ('sector-10', 'cam2', 'ccd3')
+Skipped 193641523 ('sector-12', 'cam2', 'ccd4')
+Skipped 362249359 ('sector-9', 'cam3', 'ccd4')
+Skipped 238932509 ('sector-1', 'cam4', 'ccd4')
+Skipped 380886535 ('sector-3', 'cam1', 'ccd3')
+Skipped 32283946 ('sector-3', 'cam2', 'ccd4')
+Skipped 42015200 ('sector-3', 'cam2', 'ccd1')
+Skipped 33595516 ('sector-3', 'cam2', 'ccd3')
+Skipped 29918916 ('sector-3', 'cam1', 'ccd3')
+Skipped 138727432 ('sector-3', 'cam2', 'ccd2')
+Skipped 160222069 ('sector-3', 'cam2', 'ccd1')
+Skipped 238898571 ('sector-5', 'cam3', 'ccd4')
+Skipped 231728511 ('sector-4', 'cam3', 'ccd4')
+Skipped 44797824 ('sector-4', 'cam2', 'ccd2')
+Skipped 381976956 ('sector-1', 'cam4', 'ccd4')
+Skipped 358460246 ('sector-1', 'cam4', 'ccd3')
+Skipped 200807066 ('sector-3', 'cam3', 'ccd4')
+Skipped 219229644 ('sector-3', 'cam3', 'ccd4')
+Skipped 219344917 ('sector-4', 'cam3', 'ccd4')
+Skipped 237920046 ('sector-1', 'cam4', 'ccd1')
+Skipped 232025086 ('sector-5', 'cam3', 'ccd4')
+Skipped 14165625 ('sector-5', 'cam3', 'ccd1')
+Skipped 32497972 ('sector-5', 'cam2', 'ccd2')
+Skipped 123846039 ('sector-6', 'cam1', 'ccd2')
+Skipped 120269103 ('sector-6', 'cam1', 'ccd2')
+Skipped 333607525 ('sector-6', 'cam2', 'ccd3')
+Skipped 250484865 ('sector-6', 'cam1', 'ccd2')
+Skipped 102283403 ('sector-6', 'cam1', 'ccd4')
+Skipped 229384040 ('sector-6', 'cam1', 'ccd3')
+Skipped 261867566 ('sector-12', 'cam2', 'ccd1')
+Skipped 305424003 ('sector-12', 'cam2', 'ccd3')
+Skipped 364107753 ('sector-12', 'cam2', 'ccd2')
+Skipped 100921768 ('sector-3', 'cam3', 'ccd1')
+Skipped 332660150 ('sector-5', 'cam2', 'ccd4')
+Skipped 259863352 ('sector-1', 'cam3', 'ccd4')
+Skipped 317060587 ('sector-1', 'cam3', 'ccd2')
+Skipped 322270620 ('sector-12', 'cam3', 'ccd1')
+Skipped 327017634 ('sector-12', 'cam2', 'ccd1')
+Skipped 23434737 ('sector-9', 'cam2', 'ccd3')
+Skipped 467666275 ('sector-10', 'cam3', 'ccd1')
+Skipped 287776397 ('sector-10', 'cam3', 'ccd4')
+Skipped 308034948 ('sector-10', 'cam2', 'ccd2')
+Skipped 364393429 ('sector-1', 'cam4', 'ccd3')
+Skipped 273985865 ('sector-1', 'cam3', 'ccd3')
+Skipped 30037565 ('sector-1', 'cam4', 'ccd1')
+Skipped 33878688 ('sector-1', 'cam4', 'ccd2')
+Skipped 50312495 ('sector-2', 'cam3', 'ccd3')
+Skipped 389924075 ('sector-1', 'cam4', 'ccd2')
+Skipped 451606970 ('sector-12', 'cam3', 'ccd1')
+Skipped 453260209 ('sector-10', 'cam3', 'ccd4')
+Skipped 141527965 ('sector-1', 'cam4', 'ccd2')
+Skipped 248092710 ('sector-10', 'cam2', 'ccd3')
+Skipped 294781547 ('sector-1', 'cam4', 'ccd1')
+Skipped 294981566 ('sector-1', 'cam4', 'ccd1')
+Skipped 319259194 ('sector-1', 'cam4', 'ccd2')
+Skipped 349095149 ('sector-1', 'cam4', 'ccd3')
+Skipped 374997123 ('sector-1', 'cam4', 'ccd3')
+Skipped 382437043 ('sector-1', 'cam4', 'ccd3')
+Skipped 299798795 ('sector-1', 'cam3', 'ccd3')
+Skipped 300038935 ('sector-1', 'cam4', 'ccd3')
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2')
+Skipped 219698776 ('sector-14', 'cam4', 'ccd3')
+Skipped 233059608 ('sector-17', 'cam4', 'ccd4')
+Skipped 355867695 ('sector-14', 'cam4', 'ccd3')
+Skipped 356311210 ('sector-17', 'cam4', 'ccd4')
+Skipped 365938305 ('sector-14', 'cam4', 'ccd2')
+Skipped 13499636 ('sector-15', 'cam1', 'ccd3')
+Skipped 43064903 ('sector-15', 'cam1', 'ccd2')
+Skipped 163539739 ('sector-15', 'cam1', 'ccd4')
+Skipped 266593143 ('sector-15', 'cam1', 'ccd4')
+Skipped 352764091 ('sector-15', 'cam2', 'ccd1')
+Skipped 408203470 ('sector-15', 'cam1', 'ccd2')
+Skipped 417676622 ('sector-15', 'cam2', 'ccd3')
+Skipped 167092385 ('sector-15', 'cam1', 'ccd1')
+Skipped 167098530 ('sector-15', 'cam1', 'ccd1')
+Skipped 167403519 ('sector-15', 'cam1', 'ccd1')
+Skipped 256886630 ('sector-15', 'cam1', 'ccd1')
+Skipped 275111900 ('sector-15', 'cam1', 'ccd1')
+Skipped 69747919 ('sector-2', 'cam1', 'ccd4')
+Skipped 148782377 ('sector-16', 'cam4', 'ccd4')
+Skipped 224600500 ('sector-17', 'cam4', 'ccd4')
+Skipped 138968089 ('sector-15', 'cam2', 'ccd3')
+Skipped 153976959 ('sector-14', 'cam4', 'ccd1')
+Skipped 154383539 ('sector-15', 'cam4', 'ccd1')
+Skipped 233617847 ('sector-15', 'cam2', 'ccd1')
+Skipped 233951353 ('sector-15', 'cam2', 'ccd4')
+Skipped 294471966 ('sector-15', 'cam2', 'ccd3')
+Skipped 298073824 ('sector-14', 'cam4', 'ccd2')
+Skipped 343628284 ('sector-15', 'cam2', 'ccd4')
+Skipped 356158613 ('sector-15', 'cam1', 'ccd2')
+Skipped 377293776 ('sector-15', 'cam2', 'ccd2')
+Skipped 420112589 ('sector-17', 'cam4', 'ccd2')
+Skipped 188768068 ('sector-17', 'cam4', 'ccd4')
+Skipped 165551882 ('sector-17', 'cam4', 'ccd4')
+Skipped 387527558 ('sector-19', 'cam4', 'ccd1')
+Skipped 259168516 ('sector-15', 'cam2', 'ccd1')
+Skipped 198384408 ('sector-17', 'cam4', 'ccd4')
+Skipped 288636342 ('sector-17', 'cam4', 'ccd2')
+Skipped 224596152 ('sector-17', 'cam4', 'ccd4')
+Skipped 365673804 ('sector-15', 'cam2', 'ccd1')
+Skipped 408618999 ('sector-18-spoc', 'cam2', 'ccd1')
+Skipped 198206613 ('sector-17', 'cam4', 'ccd3')
+Skipped 219860288 ('sector-17', 'cam4', 'ccd3')
+Skipped 229455001 ('sector-15', 'cam2', 'ccd1')
+Skipped 232650365 ('sector-15', 'cam2', 'ccd2')
+Skipped 233071822 ('sector-17', 'cam4', 'ccd4')
+Skipped 287080092 ('sector-17', 'cam4', 'ccd3')
+Skipped 287139872 ('sector-17', 'cam4', 'ccd4')
+Skipped 356978132 ('sector-15', 'cam2', 'ccd2')
+Skipped 420112587 ('sector-17', 'cam4', 'ccd2')
+Skipped 424391516 ('sector-17', 'cam4', 'ccd2')
+Skipped 1551345500 ('sector-15', 'cam2', 'ccd2')
+Skipped 229938290 ('sector-15', 'cam2', 'ccd1')
+Skipped 366989877 ('sector-13', 'cam2', 'ccd3')
+Skipped 201604954 ('sector-13', 'cam2', 'ccd4')
+Skipped 351601843 ('sector-13', 'cam2', 'ccd2')
+Skipped 379240073 ('sector-13', 'cam2', 'ccd4')
+Skipped 120960812 ('sector-14', 'cam2', 'ccd3')
+Skipped 284441182 ('sector-17', 'cam2', 'ccd1')
+Skipped 431514478 ('sector-17', 'cam2', 'ccd2')
+Skipped 348673213 ('sector-18', 'cam2', 'ccd4')
+Skipped 102672709 ('sector-19', 'cam2', 'ccd2')
+Skipped 103448870 ('sector-19', 'cam2', 'ccd1')
+Skipped 241225337 ('sector-20', 'cam2', 'ccd3')
+Skipped 104208182 ('sector-18', 'cam2', 'ccd4')
+Skipped 174041208 ('sector-17', 'cam2', 'ccd2')
+Skipped 408636441 ('sector-16', 'cam2', 'ccd4')
+Skipped 21535395 ('sector-21', 'cam2', 'ccd4')
+Skipped 29191624 ('sector-21', 'cam2', 'ccd4')
+Skipped 389070884 ('sector-12', 'cam1', 'ccd3')
+Skipped 16288184 ('sector-12', 'cam1', 'ccd3')
+Skipped 396562848 ('sector-18', 'cam3', 'ccd2')
+Skipped 268334473 ('sector-19', 'cam3', 'ccd3')
+Skipped 422756130 ('sector-18', 'cam3', 'ccd2')
+Skipped 159418353 ('sector-14', 'cam3', 'ccd3')
+Skipped 435680451 ('sector-18', 'cam3', 'ccd2')
+Skipped 210873792 ('sector-12', 'cam1', 'ccd4')
+Skipped 66818296 ('sector-12', 'cam1', 'ccd4')
+Skipped 296780789 ('sector-8', 'cam1', 'ccd2')
+Skipped 344926234 ('sector-8', 'cam1', 'ccd3')
+Skipped 286132427 ('sector-8', 'cam1', 'ccd3')
+Skipped 78154865 ('sector-8', 'cam1', 'ccd3')
+Skipped 96097215 ('sector-8', 'cam1', 'ccd2')
+Skipped 125405602 ('sector-11', 'cam1', 'ccd4')
+Skipped 220029715 ('sector-11', 'cam1', 'ccd4')
+Skipped 461271719 ('sector-11', 'cam1', 'ccd1')
+Skipped 214361331 ('sector-12', 'cam1', 'ccd2')
+Skipped 216935214 ('sector-12', 'cam1', 'ccd2')
+Skipped 298372701 ('sector-12', 'cam1', 'ccd1')
+Skipped 31553893 ('sector-13', 'cam1', 'ccd3')
+Skipped 101230735 ('sector-13', 'cam1', 'ccd2')
+Skipped 79748331 ('sector-13', 'cam1', 'ccd2')
+Skipped 7088246 ('sector-13', 'cam1', 'ccd2')
+Skipped 161032923 ('sector-13', 'cam1', 'ccd1')
+Skipped 253728991 ('sector-13', 'cam1', 'ccd4')
+Skipped 406672232 ('sector-14', 'cam1', 'ccd4')
+Skipped 119700084 ('sector-16', 'cam1', 'ccd3')
+Skipped 164173105 ('sector-16', 'cam1', 'ccd3')
+Skipped 418959198 ('sector-16', 'cam1', 'ccd4')
+Skipped 16920150 ('sector-17', 'cam1', 'ccd4')
+Skipped 306263608 ('sector-17', 'cam1', 'ccd4')
+Skipped 352413427 ('sector-17', 'cam1', 'ccd1')
+Skipped 29054413 ('sector-18', 'cam1', 'ccd4')
+Skipped 422923265 ('sector-18', 'cam1', 'ccd2')
+Skipped 28900646 ('sector-19', 'cam1', 'ccd2')
+Skipped 353475866 ('sector-19', 'cam1', 'ccd4')
+Skipped 332064670 ('sector-21', 'cam1', 'ccd3')
+Skipped 4897275 ('sector-21', 'cam1', 'ccd1')
+Skipped 39699648 ('sector-21', 'cam1', 'ccd2')
+Skipped 241196395 ('sector-21', 'cam1', 'ccd4')
+Missing 336732616  
+Missing 92352620  
+Missing 289793076  
+Missing 29344935  
+Missing 97409519  
+Missing 207081058  
+Missing 290131778  
+Missing 70440470  
+Missing 234523599  
+Missing 62483237  
+Missing 425934411  
+Missing 25375553  
+Missing 393940766  
+Missing 389525208  
+Missing 129637892  
+Missing 253917293  
+Missing 99493790  
+Missing 147203645  
+Missing 369457671  
+Missing 29857954  
+Missing 355509914  
+Missing 32090583  
+Missing 2760710  
+Missing 12423815  
+Missing 204317710  
+Missing 120916706  
+Missing 422655579  
+Missing 250386181  
+Missing 382391899  
+Missing 328350926  
+Missing 29960109  
+Missing 9858404  
+Missing 1129033  
+Missing 35857242  
+Missing 325680697  
+Missing 49899799  
+Missing 77228304  
+Missing 89256802  
+Missing 9804616  
+Missing 4646810  
+Missing 420049884  
+Missing 398733009  
+Missing 270380593  
+Missing 431999925  
+Missing 366576758  
+Missing 366622912  
+Missing 318937509  
+Missing 218795833  
+Missing 438490744  
+Missing 302895996  
+Missing 281909674  
+Missing 280210963  
+Missing 234825296  
+Missing 237751146  
+Missing 143271144  
+Missing 49771092  
+Missing 53593457  
+Missing 37168957  
+Missing 32830028  
+Missing 192826603  
+Missing 44737596  
+Missing 170849515  
+Missing 348755723  
+Missing 146463781  
+Missing 82362447  
+Missing 432008938  
+Missing 396720998  
+Missing 271971130  
+Missing 11561667  
+Missing 146846569  
+Missing 181804752  
+Missing 219189765  
+Missing 434486077  
+Missing 5868998  
+Missing 61988212  
+Missing 243200602  
+Missing 404340025  
+Missing 405700729  
+Missing 466840711  
+Missing 287563610  
+Missing 158297421  
+Missing 29960110  
+Missing 360156606  
+Missing 90504905  
+Missing 158170594  
+Missing 274762761  
+Missing 165523947  
+Missing 427654774  
+Missing 51024887  
+Missing 267574918  
+Missing 470381900  
+Missing 190223929  
+Missing 22705558  
+Missing 23650642  
+Missing 274215536  
+Missing 371210825  
+Missing 453387619  
+Missing 95129101  
+Missing 240148934  
+Missing 241173474  
+Missing 29119552  
+Missing 67926921  
+Missing 15863518  
+Missing 239154970  
+Missing 257241363  
+Missing 356473034  
+Missing 86396382  
+Missing 130181866  
+Missing 298666530  
+Missing 318022259  
+Missing 371234684  

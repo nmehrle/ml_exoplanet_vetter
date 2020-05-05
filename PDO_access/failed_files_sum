@@ -1,0 +1,39 @@
+Sector 1-- 633 missing
+  Missing BLS files
+    cam2 - 192
+    cam3 - 441
+Sector 2 -- 0 misssing
+Sector 3 -- 0 misssing
+Sector 4 -- 315 misssing
+  Cam 1 - no LC files only ctoi.ls
+Sector 5 -- 0 misssing
+Sector 6 -- 269 misssing
+  Cam 1 - no LC files only ctoi.ls
+Sector 7 -- 0 misssing
+Sector 8 -- 0 misssing
+Sector 9 -- 0 misssing
+Sector 10 -- 0 missing
+Sector 11 -- 10781 misssing
+  10781 - cam 2 - no LC files only ctoi.ls
+Sector 12 -- 1458 misssing
+  1457 - Missing BLS files
+    cam1 - 1457 LC files found, no BLS file
+  1 - 97013760 -- BLS no LC
+Sector 13 -- 0 misssing
+Sector 14 -- 0 misssing
+Sector 15 -- 1205 misssing
+  1204 - Missing BLS files & LC files
+  1- 467179528 unkown error?
+Sector 16 -- 0 misssing
+Sector 17 -- 0 misssing
+Sector 18 -- 0 misssing
+Sector 19 -- 3324 misssing
+  3324 - LCs under prediction_total instead of cam/ccd
+Sector 20 -- 2850 misssing
+  2850 -- Cant access cam1
+  2850 -- repeated error message saying cant find cam1_total bls
+Sector 21 -- 1 misssing
+  /pdo/qlp-data/sector-21/ffi/cam3/ccd2/LC/467179528.h5 
+  missing blsanal, lc
+Sector 22 -- 0 misssing
+Sector 23 -- 0 misssing

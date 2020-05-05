@@ -1,0 +1,2 @@
+scp ./findmissing.py labels.tsv $pdo:missing
+scp $pdo:missing/*.txt $pdo:missing/set ./

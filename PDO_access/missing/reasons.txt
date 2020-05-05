@@ -1,0 +1,462 @@
+Skipped 231663901 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 231670397 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 144065872 ('sector-1', 'cam2', 'ccd3') TIC not in AN File
+Skipped 355703913 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 281541555 ('sector-1', 'cam2', 'ccd2') TIC not in AN File
+Skipped 238176110 ('sector-1', 'cam3', 'ccd2') TIC not in AN File
+Skipped 231702397 ('sector-1', 'cam2', 'ccd1') TIC not in AN File
+Skipped 235037761 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 89020549 ('sector-1', 'cam2', 'ccd3') TIC not in AN File
+Skipped 219338557 ('sector-1', 'cam2', 'ccd2') TIC not in AN File
+Skipped 267263253 ('sector-1', 'cam3', 'ccd2') TIC not in AN File
+Skipped 410153553 ('sector-1', 'cam3', 'ccd2') TIC not in AN File
+Skipped 176957796 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 277683130 ('sector-1', 'cam2', 'ccd1') TIC not in AN File
+Skipped 140068425 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 403224672 ('sector-1', 'cam2', 'ccd1') TIC not in AN File
+Skipped 265612438 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 403287048 ('sector-1', 'cam2', 'ccd1') TIC not in AN File
+Skipped 220518305 ('sector-1', 'cam3', 'ccd4') TIC not in AN File
+Skipped 403136413 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 79395355 ('sector-1', 'cam2', 'ccd4') TIC not in AN File
+Skipped 251848941 ('sector-2', 'cam2', 'ccd3') AN Score: 0.039
+
+Skipped 51912829 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 76989773 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 183979262 ('sector-1', 'cam3', 'ccd3') TIC not in AN File
+Skipped 100100827 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 279741379 ('sector-1', 'cam3', 'ccd4') AN Score: 0.026
+
+Skipped 280830734 ('sector-1', 'cam3', 'ccd4') TIC not in AN File
+Skipped 309792357 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 410214986 ('sector-1', 'cam3', 'ccd2') TIC not in AN File
+Skipped 259962054 ('sector-1', 'cam3', 'ccd4') TIC not in AN File
+Skipped 281781375 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 281575427 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 55650590 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 206609630 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 231912935 ('sector-1', 'cam3', 'ccd1') TIC not in AN File
+Skipped 316937670 ('sector-1', 'cam2', 'ccd2') TIC not in AN File
+Skipped 144440290 ('sector-2', 'cam2', 'ccd4') AN Score: 0.001
+
+Skipped 326453034 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 70797900 ('sector-2', 'cam1', 'ccd2') AN Score: 0.000
+
+Skipped 47525799 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 47484268 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 160074939 ('sector-2', 'cam1', 'ccd1') AN Score: 0.000
+
+Skipped 402026209 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 415969908 ('sector-2', 'cam1', 'ccd4') AN Score: 0.034
+
+Skipped 305048087 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 9006668 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 120585579 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 118327550 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 154618248 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 201793781 ('sector-2', 'cam3', 'ccd1') TIC not in AN File
+Skipped 179985715 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 224225541 ('sector-2', 'cam2', 'ccd4') AN Score: 0.000
+
+Skipped 237924601 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 322063810 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 49687222 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 92226327 ('sector-3', 'cam1', 'ccd1') AN Score: 0.008
+
+Skipped 12862099 ('sector-3', 'cam1', 'ccd4') TIC not in AN File
+Skipped 37749396 ('sector-3', 'cam1', 'ccd4') AN Score: 0.017
+
+Skipped 63898957 ('sector-3', 'cam1', 'ccd1') TIC not in AN File
+Skipped 70513361 ('sector-3', 'cam2', 'ccd3') AstroNetFile DNE
+Skipped 164767175 ('sector-3', 'cam1', 'ccd2') AN Score: 0.003
+
+Skipped 166836920 ('sector-3', 'cam3', 'ccd2') AstroNetFile DNE
+Skipped 220479565 ('sector-4', 'cam3', 'ccd4') TIC not in AN File
+Skipped 268766053 ('sector-3', 'cam2', 'ccd3') AstroNetFile DNE
+Skipped 281979481 ('sector-10', 'cam3', 'ccd4') TIC not in AN File
+Skipped 244161191 ('sector-3', 'cam1', 'ccd4') TIC not in AN File
+Skipped 42054565 ('sector-3', 'cam2', 'ccd1') AstroNetFile DNE
+Skipped 29781292 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 220459976 ('sector-2', 'cam4', 'ccd1') TIC not in AN File
+Skipped 47316976 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 201233610 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 49710555 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 180285396 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 327952677 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 382463648 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 206686292 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 156075294 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 144301052 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 229111835 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 262530873 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 102030574 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 114749636 ('sector-2', 'cam1', 'ccd2') TIC not in AN File
+Skipped 9100874 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 228507250 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 175477257 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 434105231 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 180145006 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 66356824 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 8988289 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 402319411 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 206352378 ('sector-1', 'cam2', 'ccd2') TIC not in AN File
+Skipped 389753172 ('sector-1', 'cam2', 'ccd3') TIC not in AN File
+Skipped 188593930 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 175476629 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 251852984 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 156002449 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 206669860 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 139357541 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 27966179 ('sector-2', 'cam1', 'ccd2') TIC not in AN File
+Skipped 262531275 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 224245334 ('sector-2', 'cam2', 'ccd4') AN Score: 0.024
+
+Skipped 41865539 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 69838258 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 80439101 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 33911302 ('sector-2', 'cam1', 'ccd2') TIC not in AN File
+Skipped 415969574 ('sector-2', 'cam1', 'ccd4') TIC not in AN File
+Skipped 66497310 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 308208458 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 118327533 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 224271611 ('sector-2', 'cam2', 'ccd4') AN Score: 0.048
+
+Skipped 70785910 ('sector-2', 'cam1', 'ccd2') TIC not in AN File
+Skipped 199731190 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 228381868 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 100099031 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 100097716 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 369336146 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 220016044 ('sector-2', 'cam3', 'ccd1') AN Score: 0.028
+
+Skipped 321982642 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 80432617 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 13023738 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 305048116 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 262530780 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 47425697 ('sector-2', 'cam1', 'ccd4') AN Score: 0.064
+
+Skipped 118586896 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 251878904 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 77031413 ('sector-2', 'cam1', 'ccd1') TIC not in AN File
+Skipped 251855940 ('sector-2', 'cam2', 'ccd3') TIC not in AN File
+Skipped 156016136 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 441075486 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 9032368 ('sector-2', 'cam1', 'ccd3') TIC not in AN File
+Skipped 183675732 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 144301273 ('sector-2', 'cam2', 'ccd4') TIC not in AN File
+Skipped 100014359 ('sector-2', 'cam2', 'ccd2') TIC not in AN File
+Skipped 229091748 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 155995204 ('sector-2', 'cam2', 'ccd1') TIC not in AN File
+Skipped 120896927 ('sector-3', 'cam2', 'ccd3') AstroNetFile DNE
+Skipped 166833457 ('sector-4', 'cam2', 'ccd2') TIC not in AN File
+Skipped 100990000 ('sector-3', 'cam3', 'ccd1') AstroNetFile DNE
+Skipped 43647325 ('sector-5', 'cam1', 'ccd2') TIC not in AN File
+Skipped 259592689 ('sector-3', 'cam3', 'ccd4') AstroNetFile DNE
+Skipped 38686737 ('sector-5', 'cam2', 'ccd4') TIC not in AN File
+Skipped 78055054 ('sector-5', 'cam3', 'ccd1') TIC not in AN File
+Skipped 44745077 ('sector-4', 'cam2', 'ccd2') TIC not in AN File
+Skipped 32499655 ('sector-5', 'cam2', 'ccd2') TIC not in AN File
+Skipped 13021029 ('sector-5', 'cam2', 'ccd2') TIC not in AN File
+Skipped 117979897 ('sector-5', 'cam2', 'ccd3') TIC not in AN File
+Skipped 1528696 ('sector-5', 'cam2', 'ccd2') TIC not in AN File
+Skipped 77951245 ('sector-5', 'cam3', 'ccd1') TIC not in AN File
+Skipped 153077621 ('sector-3', 'cam3', 'ccd1') AstroNetFile DNE
+Skipped 4616072 ('sector-6', 'cam2', 'ccd2') TIC not in AN File
+Skipped 33521996 ('sector-6', 'cam2', 'ccd1') TIC not in AN File
+Skipped 59843967 ('sector-6', 'cam2', 'ccd2') TIC not in AN File
+Skipped 100608026 ('sector-5', 'cam3', 'ccd1') TIC not in AN File
+Skipped 365639282 ('sector-6', 'cam1', 'ccd4') TIC not in AN File
+Skipped 427348923 ('sector-6', 'cam1', 'ccd1') TIC not in AN File
+Skipped 427352241 ('sector-6', 'cam1', 'ccd1') TIC not in AN File
+Skipped 468987719 ('sector-7', 'cam1', 'ccd3') TIC not in AN File
+Skipped 108645766 ('sector-7', 'cam2', 'ccd2') TIC not in AN File
+Skipped 274138511 ('sector-7', 'cam1', 'ccd4') AN Score: 0.045
+
+Skipped 348538431 ('sector-7', 'cam2', 'ccd3') TIC not in AN File
+Skipped 119292328 ('sector-6', 'cam3', 'ccd1') TIC not in AN File
+Skipped 308307606 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 264979636 ('sector-7', 'cam1', 'ccd4') TIC not in AN File
+Skipped 148479278 ('sector-6', 'cam3', 'ccd1') TIC not in AN File
+Skipped 27649847 ('sector-7', 'cam1', 'ccd3') TIC not in AN File
+Skipped 93125144 ('sector-6', 'cam2', 'ccd1') AN Score: 0.005
+
+Skipped 365690646 ('sector-6', 'cam1', 'ccd4') TIC not in AN File
+Skipped 200593988 ('sector-6', 'cam1', 'ccd4') TIC not in AN File
+Skipped 148228019 ('sector-6', 'cam3', 'ccd1') AN Score: 0.028
+
+Skipped 403693875 ('sector-6', 'cam1', 'ccd3') TIC not in AN File
+Skipped 387690507 ('sector-6', 'cam1', 'ccd3') TIC not in AN File
+Skipped 144700903 ('sector-6', 'cam1', 'ccd4') TIC not in AN File
+Skipped 234112540 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 200322593 ('sector-4', 'cam3', 'ccd4') AN Score: 0.000
+
+Skipped 50618703 ('sector-6', 'cam1', 'ccd1') AN Score: 0.003
+
+Skipped 36440357 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 36352297 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 42821097 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 161477033 ('sector-4', 'cam3', 'ccd4') TIC not in AN File
+Skipped 59003115 ('sector-5', 'cam1', 'ccd4') TIC not in AN File
+Skipped 55488511 ('sector-5', 'cam2', 'ccd4') TIC not in AN File
+Skipped 1133072 ('sector-8', 'cam2', 'ccd1') TIC not in AN File
+Skipped 13349647 ('sector-8', 'cam1', 'ccd1') TIC not in AN File
+Skipped 315002523 ('sector-8', 'cam2', 'ccd3') TIC not in AN File
+Skipped 386435344 ('sector-8', 'cam2', 'ccd4') AN Score: 0.017
+
+Skipped 423275733 ('sector-8', 'cam2', 'ccd3') TIC not in AN File
+Skipped 30828562 ('sector-8', 'cam3', 'ccd1') TIC not in AN File
+Skipped 33153766 ('sector-9', 'cam3', 'ccd2') TIC not in AN File
+Skipped 35009898 ('sector-9', 'cam1', 'ccd4') TIC not in AN File
+Skipped 36734222 ('sector-9', 'cam1', 'ccd1') TIC not in AN File
+Skipped 48103627 ('sector-9', 'cam2', 'ccd1') TIC not in AN File
+Skipped 82128636 ('sector-8', 'cam3', 'ccd1') TIC not in AN File
+Skipped 219187649 ('sector-9', 'cam1', 'ccd2') TIC not in AN File
+Skipped 339857675 ('sector-7', 'cam3', 'ccd4') TIC not in AN File
+Skipped 320417762 ('sector-7', 'cam1', 'ccd4') AN Score: 0.005
+
+Skipped 77253676 ('sector-4', 'cam3', 'ccd1') TIC not in AN File
+Skipped 149302744 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 237914496 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 237928815 ('sector-2', 'cam3', 'ccd4') AN Score: 0.012
+
+Skipped 391904697 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 167342439 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 309402106 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 38510224 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 150247134 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 174143743 ('sector-7', 'cam3', 'ccd1') TIC not in AN File
+Skipped 149788158 ('sector-8', 'cam1', 'ccd1') TIC not in AN File
+Skipped 144138509 ('sector-9', 'cam1', 'ccd3') TIC not in AN File
+Skipped 34068865 ('sector-9', 'cam3', 'ccd1') TIC not in AN File
+Skipped 36724087 ('sector-9', 'cam1', 'ccd1') TIC not in AN File
+Skipped 106402532 ('sector-9', 'cam2', 'ccd2') TIC not in AN File
+Skipped 150271680 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 359271092 ('sector-9', 'cam3', 'ccd4') TIC not in AN File
+Skipped 444842193 ('sector-9', 'cam3', 'ccd1') TIC not in AN File
+Skipped 15445551 ('sector-10', 'cam2', 'ccd2') TIC not in AN File
+Skipped 14661418 ('sector-10', 'cam1', 'ccd1') TIC not in AN File
+Skipped 61538902 ('sector-10', 'cam2', 'ccd4') TIC not in AN File
+Skipped 72985822 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 73228647 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 73649615 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 130924120 ('sector-10', 'cam1', 'ccd2') TIC not in AN File
+Skipped 165317334 ('sector-10', 'cam2', 'ccd4') TIC not in AN File
+Skipped 178709444 ('sector-10', 'cam2', 'ccd1') TIC not in AN File
+Skipped 178819686 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 181159386 ('sector-10', 'cam2', 'ccd4') TIC not in AN File
+Skipped 219401954 ('sector-4', 'cam3', 'ccd4') TIC not in AN File
+Skipped 229811538 ('sector-10', 'cam1', 'ccd3') TIC not in AN File
+Skipped 248111245 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 277634430 ('sector-10', 'cam3', 'ccd4') TIC not in AN File
+Skipped 294301883 ('sector-10', 'cam1', 'ccd3') TIC not in AN File
+Skipped 304042899 ('sector-10', 'cam3', 'ccd1') TIC not in AN File
+Skipped 306996324 ('sector-10', 'cam2', 'ccd4') TIC not in AN File
+Skipped 413376180 ('sector-10', 'cam1', 'ccd1') TIC not in AN File
+Skipped 429358906 ('sector-10', 'cam1', 'ccd4') TIC not in AN File
+Skipped 451645081 ('sector-10', 'cam2', 'ccd2') TIC not in AN File
+Skipped 374829238 ('sector-2', 'cam4', 'ccd1') TIC not in AN File
+Skipped 375059587 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 349829627 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 300710077 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 308994098 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 306472057 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 294780517 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 300013921 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 278895705 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 277099925 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 260640693 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 255685030 ('sector-2', 'cam4', 'ccd4') AN Score: 0.040
+
+Skipped 177258735 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 167303382 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 143526444 ('sector-7', 'cam2', 'ccd3') TIC not in AN File
+Skipped 41227743 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 38460940 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 33831980 ('sector-1', 'cam3', 'ccd3') TIC not in AN File
+Skipped 30853470 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 30122649 ('sector-8', 'cam3', 'ccd1') TIC not in AN File
+Skipped 149301575 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 388106759 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 55525572 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 73717937 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 193641523 ('sector-12', 'cam2', 'ccd4') TIC not in AN File
+Skipped 362249359 ('sector-9', 'cam3', 'ccd4') TIC not in AN File
+Skipped 238932509 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 380886535 ('sector-3', 'cam1', 'ccd3') TIC not in AN File
+Skipped 32283946 ('sector-3', 'cam2', 'ccd4') AstroNetFile DNE
+Skipped 42015200 ('sector-3', 'cam2', 'ccd1') AstroNetFile DNE
+Skipped 33595516 ('sector-3', 'cam2', 'ccd3') AstroNetFile DNE
+Skipped 29918916 ('sector-3', 'cam1', 'ccd3') TIC not in AN File
+Skipped 138727432 ('sector-3', 'cam2', 'ccd2') AstroNetFile DNE
+Skipped 160222069 ('sector-3', 'cam2', 'ccd1') AstroNetFile DNE
+Skipped 238898571 ('sector-5', 'cam3', 'ccd4') TIC not in AN File
+Skipped 231728511 ('sector-4', 'cam3', 'ccd4') TIC not in AN File
+Skipped 44797824 ('sector-4', 'cam2', 'ccd2') AN Score: 0.001
+
+Skipped 381976956 ('sector-1', 'cam4', 'ccd4') AstroNetFile DNE
+Skipped 358460246 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 200807066 ('sector-3', 'cam3', 'ccd4') AstroNetFile DNE
+Skipped 219229644 ('sector-3', 'cam3', 'ccd4') AstroNetFile DNE
+Skipped 219344917 ('sector-4', 'cam3', 'ccd4') TIC not in AN File
+Skipped 237920046 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 232025086 ('sector-5', 'cam3', 'ccd4') TIC not in AN File
+Skipped 14165625 ('sector-5', 'cam3', 'ccd1') TIC not in AN File
+Skipped 32497972 ('sector-5', 'cam2', 'ccd2') TIC not in AN File
+Skipped 123846039 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 120269103 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 333607525 ('sector-6', 'cam2', 'ccd3') TIC not in AN File
+Skipped 250484865 ('sector-6', 'cam1', 'ccd2') TIC not in AN File
+Skipped 102283403 ('sector-6', 'cam1', 'ccd4') TIC not in AN File
+Skipped 229384040 ('sector-6', 'cam1', 'ccd3') AN Score: 0.064
+
+Skipped 261867566 ('sector-12', 'cam2', 'ccd1') TIC not in AN File
+Skipped 305424003 ('sector-12', 'cam2', 'ccd3') TIC not in AN File
+Skipped 364107753 ('sector-12', 'cam2', 'ccd2') TIC not in AN File
+Skipped 100921768 ('sector-3', 'cam3', 'ccd1') AstroNetFile DNE
+Skipped 332660150 ('sector-5', 'cam2', 'ccd4') TIC not in AN File
+Skipped 259863352 ('sector-1', 'cam3', 'ccd4') TIC not in AN File
+Skipped 317060587 ('sector-1', 'cam3', 'ccd2') TIC not in AN File
+Skipped 322270620 ('sector-12', 'cam3', 'ccd1') TIC not in AN File
+Skipped 327017634 ('sector-12', 'cam2', 'ccd1') TIC not in AN File
+Skipped 23434737 ('sector-9', 'cam2', 'ccd3') TIC not in AN File
+Skipped 467666275 ('sector-10', 'cam3', 'ccd1') TIC not in AN File
+Skipped 287776397 ('sector-10', 'cam3', 'ccd4') AN Score: 0.074
+
+Skipped 308034948 ('sector-10', 'cam2', 'ccd2') TIC not in AN File
+Skipped 364393429 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 273985865 ('sector-1', 'cam3', 'ccd3') TIC not in AN File
+Skipped 30037565 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 33878688 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 50312495 ('sector-2', 'cam3', 'ccd3') TIC not in AN File
+Skipped 389924075 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 451606970 ('sector-12', 'cam3', 'ccd1') TIC not in AN File
+Skipped 453260209 ('sector-10', 'cam3', 'ccd4') TIC not in AN File
+Skipped 141527965 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 248092710 ('sector-10', 'cam2', 'ccd3') TIC not in AN File
+Skipped 294781547 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 294981566 ('sector-1', 'cam4', 'ccd1') AstroNetFile DNE
+Skipped 319259194 ('sector-1', 'cam4', 'ccd2') AstroNetFile DNE
+Skipped 349095149 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 374997123 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 382437043 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 299798795 ('sector-1', 'cam3', 'ccd3') TIC not in AN File
+Skipped 300038935 ('sector-1', 'cam4', 'ccd3') AstroNetFile DNE
+Skipped 260647166 ('sector-10', 'cam2', 'ccd2') TIC not in AN File
+Skipped 219698776 ('sector-14', 'cam4', 'ccd3') TIC not in AN File
+Skipped 233059608 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 355867695 ('sector-14', 'cam4', 'ccd3') TIC not in AN File
+Skipped 356311210 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 365938305 ('sector-14', 'cam4', 'ccd2') TIC not in AN File
+Skipped 13499636 ('sector-15', 'cam1', 'ccd3') TIC not in AN File
+Skipped 43064903 ('sector-15', 'cam1', 'ccd2') TIC not in AN File
+Skipped 163539739 ('sector-15', 'cam1', 'ccd4') TIC not in AN File
+Skipped 266593143 ('sector-15', 'cam1', 'ccd4') TIC not in AN File
+Skipped 352764091 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 408203470 ('sector-15', 'cam1', 'ccd2') TIC not in AN File
+Skipped 417676622 ('sector-15', 'cam2', 'ccd3') TIC not in AN File
+Skipped 167092385 ('sector-15', 'cam1', 'ccd1') AstroNetFile DNE
+Skipped 167098530 ('sector-15', 'cam1', 'ccd1') AstroNetFile DNE
+Skipped 167403519 ('sector-15', 'cam1', 'ccd1') AstroNetFile DNE
+Skipped 256886630 ('sector-15', 'cam1', 'ccd1') AstroNetFile DNE
+Skipped 275111900 ('sector-15', 'cam1', 'ccd1') AstroNetFile DNE
+Skipped 69747919 ('sector-2', 'cam1', 'ccd4') AN Score: 0.001
+
+Skipped 148782377 ('sector-16', 'cam4', 'ccd4') TIC not in AN File
+Skipped 224600500 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 138968089 ('sector-15', 'cam2', 'ccd3') TIC not in AN File
+Skipped 153976959 ('sector-14', 'cam4', 'ccd1') TIC not in AN File
+Skipped 154383539 ('sector-15', 'cam4', 'ccd1') TIC not in AN File
+Skipped 233617847 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 233951353 ('sector-15', 'cam2', 'ccd4') TIC not in AN File
+Skipped 294471966 ('sector-15', 'cam2', 'ccd3') TIC not in AN File
+Skipped 298073824 ('sector-14', 'cam4', 'ccd2') TIC not in AN File
+Skipped 343628284 ('sector-15', 'cam2', 'ccd4') TIC not in AN File
+Skipped 356158613 ('sector-15', 'cam1', 'ccd2') TIC not in AN File
+Skipped 377293776 ('sector-15', 'cam2', 'ccd2') TIC not in AN File
+Skipped 420112589 ('sector-17', 'cam4', 'ccd2') TIC not in AN File
+Skipped 188768068 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 165551882 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 387527558 ('sector-19', 'cam4', 'ccd1') TIC not in AN File
+Skipped 259168516 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 198384408 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 288636342 ('sector-17', 'cam4', 'ccd2') TIC not in AN File
+Skipped 224596152 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 365673804 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 408618999 ('sector-18-spoc', 'cam2', 'ccd1') AstroNetFile DNE
+Skipped 198206613 ('sector-17', 'cam4', 'ccd3') TIC not in AN File
+Skipped 219860288 ('sector-17', 'cam4', 'ccd3') TIC not in AN File
+Skipped 229455001 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 232650365 ('sector-15', 'cam2', 'ccd2') TIC not in AN File
+Skipped 233071822 ('sector-17', 'cam4', 'ccd4') TIC not in AN File
+Skipped 287080092 ('sector-17', 'cam4', 'ccd3') AN Score: 0.001
+
+Skipped 287139872 ('sector-17', 'cam4', 'ccd4') AN Score: 0.009
+
+Skipped 356978132 ('sector-15', 'cam2', 'ccd2') TIC not in AN File
+Skipped 420112587 ('sector-17', 'cam4', 'ccd2') TIC not in AN File
+Skipped 424391516 ('sector-17', 'cam4', 'ccd2') TIC not in AN File
+Skipped 1551345500 ('sector-15', 'cam2', 'ccd2') TIC not in AN File
+Skipped 229938290 ('sector-15', 'cam2', 'ccd1') TIC not in AN File
+Skipped 366989877 ('sector-13', 'cam2', 'ccd3') AN Score: 0.003
+
+Skipped 201604954 ('sector-13', 'cam2', 'ccd4') AN Score: 0.004
+
+Skipped 351601843 ('sector-13', 'cam2', 'ccd2') TIC not in AN File
+Skipped 379240073 ('sector-13', 'cam2', 'ccd4') TIC not in AN File
+Skipped 120960812 ('sector-14', 'cam2', 'ccd3') TIC not in AN File
+Skipped 284441182 ('sector-17', 'cam2', 'ccd1') TIC not in AN File
+Skipped 431514478 ('sector-17', 'cam2', 'ccd2') TIC not in AN File
+Skipped 348673213 ('sector-18', 'cam2', 'ccd4') TIC not in AN File
+Skipped 102672709 ('sector-19', 'cam2', 'ccd2') TIC not in AN File
+Skipped 103448870 ('sector-19', 'cam2', 'ccd1') TIC not in AN File
+Skipped 241225337 ('sector-20', 'cam2', 'ccd3') TIC not in AN File
+Skipped 104208182 ('sector-18', 'cam2', 'ccd4') TIC not in AN File
+Skipped 174041208 ('sector-17', 'cam2', 'ccd2') TIC not in AN File
+Skipped 408636441 ('sector-16', 'cam2', 'ccd4') TIC not in AN File
+Skipped 21535395 ('sector-21', 'cam2', 'ccd4') TIC not in AN File
+Skipped 29191624 ('sector-21', 'cam2', 'ccd4') TIC not in AN File
+Skipped 389070884 ('sector-12', 'cam1', 'ccd3') AstroNetFile DNE
+Skipped 16288184 ('sector-12', 'cam1', 'ccd3') AstroNetFile DNE
+Skipped 396562848 ('sector-18', 'cam3', 'ccd2') TIC not in AN File
+Skipped 268334473 ('sector-19', 'cam3', 'ccd3') TIC not in AN File
+Skipped 422756130 ('sector-18', 'cam3', 'ccd2') TIC not in AN File
+Skipped 159418353 ('sector-14', 'cam3', 'ccd3') TIC not in AN File
+Skipped 435680451 ('sector-18', 'cam3', 'ccd2') TIC not in AN File
+Skipped 210873792 ('sector-12', 'cam1', 'ccd4') TIC not in AN File
+Skipped 66818296 ('sector-12', 'cam1', 'ccd4') TIC not in AN File
+Skipped 296780789 ('sector-8', 'cam1', 'ccd2') TIC not in AN File
+Skipped 344926234 ('sector-8', 'cam1', 'ccd3') TIC not in AN File
+Skipped 286132427 ('sector-8', 'cam1', 'ccd3') AN Score: 0.001
+
+Skipped 78154865 ('sector-8', 'cam1', 'ccd3') TIC not in AN File
+Skipped 96097215 ('sector-8', 'cam1', 'ccd2') AN Score: 0.027
+
+Skipped 125405602 ('sector-11', 'cam1', 'ccd4') TIC not in AN File
+Skipped 220029715 ('sector-11', 'cam1', 'ccd4') TIC not in AN File
+Skipped 461271719 ('sector-11', 'cam1', 'ccd1') TIC not in AN File
+Skipped 214361331 ('sector-12', 'cam1', 'ccd2') TIC not in AN File
+Skipped 216935214 ('sector-12', 'cam1', 'ccd2') TIC not in AN File
+Skipped 298372701 ('sector-12', 'cam1', 'ccd1') TIC not in AN File
+Skipped 31553893 ('sector-13', 'cam1', 'ccd3') TIC not in AN File
+Skipped 101230735 ('sector-13', 'cam1', 'ccd2') TIC not in AN File
+Skipped 79748331 ('sector-13', 'cam1', 'ccd2') TIC not in AN File
+Skipped 7088246 ('sector-13', 'cam1', 'ccd2') TIC not in AN File
+Skipped 161032923 ('sector-13', 'cam1', 'ccd1') TIC not in AN File
+Skipped 253728991 ('sector-13', 'cam1', 'ccd4') AstroNetFile DNE
+Skipped 406672232 ('sector-14', 'cam1', 'ccd4') AN Score: 0.058
+
+Skipped 119700084 ('sector-16', 'cam1', 'ccd3') TIC not in AN File
+Skipped 164173105 ('sector-16', 'cam1', 'ccd3') TIC not in AN File
+Skipped 418959198 ('sector-16', 'cam1', 'ccd4') TIC not in AN File
+Skipped 16920150 ('sector-17', 'cam1', 'ccd4') TIC not in AN File
+Skipped 306263608 ('sector-17', 'cam1', 'ccd4') TIC not in AN File
+Skipped 352413427 ('sector-17', 'cam1', 'ccd1') TIC not in AN File
+Skipped 29054413 ('sector-18', 'cam1', 'ccd4') TIC not in AN File
+Skipped 422923265 ('sector-18', 'cam1', 'ccd2') TIC not in AN File
+Skipped 28900646 ('sector-19', 'cam1', 'ccd2') TIC not in AN File
+Skipped 353475866 ('sector-19', 'cam1', 'ccd4') TIC not in AN File
+Skipped 332064670 ('sector-21', 'cam1', 'ccd3') TIC not in AN File
+Skipped 4897275 ('sector-21', 'cam1', 'ccd1') TIC not in AN File
+Skipped 39699648 ('sector-21', 'cam1', 'ccd2') TIC not in AN File
+Skipped 241196395 ('sector-21', 'cam1', 'ccd4') TIC not in AN File
