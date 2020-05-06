@@ -168,51 +168,6 @@ def rerunFatalSector(outDir, sector, verbose=False):
 
   return ngood
 
-# def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
-#   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
-#   allSectors = [sector for sector in allSectors if 'spoc' not in sector]
-#   # Sort sectors in descending order
-#   sector_nums = [int(sector.split('-')[1][:-1]) for sector in allSectors]
-#   sorted_idx = np.argsort(sector_nums)
-#   sorted_sectors = list(np.array(allSectors)[sorted_idx])[::-1]
-#   foundTics    = []
-#   foundSectors = []
-
-#   fileCount = 0
-#   duplicateCount = 0
-
-#   for sector in tqdm(sorted_sectors):
-#     # Path to lightcurves
-#     lcPath = os.path.join(dataPath, sector, subpath)
-
-#     # Path to duplicate Lightcurves
-#     duplicatePath = os.path.join(lcPath, 'duplicates/')
-#     if not os.path.exists(duplicatePath):
-#       os.mkdir(duplicatePath)
-
-#     for lcfile in tqdm(os.listdir(lcPath)):
-#       # get TIC ID from lightcurve files
-#       if '.h5' not in lcfile:
-#         continue
-#       tic = lcfile.split('.')[0]
-
-#       if tic in foundTics:
-#         # This TIC ID has been found in a later sector
-#         # Move the lightcurve file to the duplicate folder
-#         idx = np.where(np.array(foundTics) == tic)[0][0]
-#         srcName = os.path.join(lcPath,lcfile)
-#         newFileName = str(tic)+'_'+foundSectors[idx][:-1]+'.h5'
-#         destName = os.path.join(duplicatePath, newFileName)
-#         os.rename(srcName, destName)
-#         duplicateCount+=1
-#       else:
-#         # New TIC ID, log that it was found
-#         foundTics.append(tic)
-#         foundSectors.append(sector)
-#       fileCount+=1
-
-#   print(str(fileCount) + ' files found, '+str(duplicateCount)+' duplicates, '+str(fileCount-duplicateCount)+'  originals')
-
 def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='duplicates/'):
   allSectors = [item+'/' for item in os.listdir(dataPath) if 'sector' in item]
   allSectors = [sector for sector in allSectors if 'spoc' not in sector]
@@ -260,28 +215,33 @@ def removeDuplicates(dataPath='./', subpath='preprocessed/', duplicatePath='dupl
   print(str(fileCount) + ' files found, '+str(duplicateCount)+' duplicates, '+str(fileCount-duplicateCount)+'  originals')
 
 def test():
-  # baseDir = '/pdo/qlp-data/'
-  outDir  = './'
-  # sector = 'sector-15/'
-  # writeANScoreFiles(baseDir, outDir, sector)
-  # fatalParse = parseANO(baseDir, outDir, sector, threshold=.09)
-  # for each in fatalParse:
-  #   if '28230919' in each:
-  #     print(each)
-  # getStellarParamsSector(outDir, 'sector-14/')
-  # getStellarParamsSector(outDir, 'sector-12/')
-  # getStellarParamsSector(outDir, 'sector-11/')
-  # getStellarParamsSector(outDir, 'sector-22/')
-  # getStellarParamsSector(outDir, 'sector-21/')
-  # getStellarParamsSector(outDir, 'sector-20/')
-  # getStellarParamsSector(outDir, 'sector-19/')
-  # getStellarParamsSector(outDir, 'sector-18/')
-  # getStellarParamsSector(outDir, 'sector-17/')
-  # getStellarParamsSector(outDir, 'sector-16/')
-  # getStellarParamsSector(outDir, 'sector-15/')
-  # getStellarParamsSector(outDir, 'sector-14/')
-  # runPreprocess(baseDir, outDir, 'sector-1/',.09,verbose=True)
-  rerunFatalSector(outDir, 'sector-9/',verbose=True)
+  import shutil, pickle
+  sectors = [item+'/' for item in os.listdir('./') if 'sector' in item]
+  sectors = [sector for sector in sectors if 'spoc' not in sector]
+
+  cams = ['cam1','cam2','cam3','cam4']
+  ccds = ['ccd1', 'ccd2', 'ccd3', 'ccd4']
+
+  print(sectors)
+  for sector in tqdm(sectors):
+    lclist = os.listdir(os.path.join(sector,'preprocessed/'))
+    lclist = [lc for lc in lclist if '.h5' in lc]
+
+    sectorsave = []
+
+    for lc in tqdm(lclist):
+      blsfilename = lc.replace('.h5','.blsanal')
+      blsbasedir = os.path.join('/pdo/qlp-data/',sector,'ffi/')
+      for cam in cams:
+        for ccd in ccds:
+          blsdir = os.path.join(blsbasedir, cam,ccd,'BLS/')
+          blsfile = os.path.join(blsdir, blsfilename)
+          if os.path.exists(blsfile):
+            blsanal = np.genfromtxt(blsfile, dtype='float', delimiter=' ', names=True)
+            sectorsave.append([lc,blsanal])
+    sectorsavename = 'bls/'+sector[:-1]+'.pickle'
+    with open(sectorsavename,'wb') as f:
+      pickle.dump(sectorsave, f)
 
 def main():
   hasPreprocessed = False

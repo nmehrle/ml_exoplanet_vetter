@@ -46,7 +46,7 @@ def unpackBLS(blsanal):
 def saveBLS(blsanal, h5outputfile):
   blsgrp = h5outputfile.create_group('BLS Analysis')
   for name in blsanal.dtype.names:
-    blsgrp.create_dataset(name, data=blsanal[name])
+    blsgrp.create_dataset(name, (1,), data=float(blsanal[name]))
   return h5outputfile
 
 def loadLC(h5file, apKey, og_time=None, medianCutoff=5):
